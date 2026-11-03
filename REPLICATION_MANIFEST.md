@@ -1,0 +1,83 @@
+# Replication manifest summary
+
+- Built: 2026-11-03
+- Source project: Did Young Americans Really Just Get Poorer? Why Context (and Confidence Bands) Matter: An SCF Investigation
+- Files included: 75
+- Safety scan: CRITICAL=0 HIGH=0 MEDIUM=0
+
+## Included files
+- code/00_functions.R
+- code/01_download_scf.R
+- code/02_build_scf_panel.R
+- code/03_scf_estimators.R
+- code/04_validate_benchmarks.R
+- code/05_young_cohort_descriptives.R
+- code/06_young_cohort_figures.R
+- code/07_download_ipums_cps.R
+- code/08_headship_context.R
+- code/09_headship_by_cut.R
+- code/10_headship_benchmarks.R
+- code/11_selection_sensitivity.R
+- code/12_u35_balance_sheet.R
+- code/13_u35_balance_sheet_figures.R
+- code/14_rate_price_inputs.R
+- code/15_rate_price_test.R
+- code/16_bottom_earners.R
+- code/17_bottom_earners_figures.R
+- code/18_u35_networth_percentiles.R
+- code/19_u35_percentile_figure.R
+- code/README.md
+- code/extracts/ipums_cps_asec_1989_2025.json
+- code/extracts/ipums_cps_asec_cohab_2007_2025.json
+- code/extracts/ipums_cps_asec_repwt_2005_2025.json
+- code/figure_theme.R
+- code/property_taxes/README.md
+- code/property_taxes/pt00_functions.R
+- code/property_taxes/pt01_property_tax_inputs.R
+- code/property_taxes/pt02_federal_income_tax.R
+- code/property_taxes/pt03_property_tax_tables.R
+- code/property_taxes/pt04_property_tax_figures.R
+- code/property_taxes/run_property_taxes.R
+- code/run_all.R
+- code/tests/test_committed_outputs.R
+- code/tests/test_output_table_dictionary.R
+- code/tests/test_rate_price_decomposition.R
+- code/tests/test_scf_estimators.R
+- code/tests/test_selection_bounds.R
+- output/figures/bottom_earners_change_2022_2025.png
+- output/figures/cohort_median_networth_by_age.png
+- output/figures/networth_change_by_age_2022_2025.png
+- output/figures/u35_balance_sheet_bars_2022_2025.png
+- output/figures/u35_balance_sheet_trend.png
+- output/figures/u35_networth_percentile_change_2022_2025.png
+- output/figures/young_median_networth_by_year.png
+- output/tables/bottom_earners_age_mix.csv
+- output/tables/bottom_earners_by_group.csv
+- output/tables/bottom_earners_changes.csv
+- output/tables/bottom_earners_validation.csv
+- output/tables/cohort_by_age.csv
+- output/tables/fig_inputs_young.csv
+- output/tables/headship_ad1_validation.csv
+- output/tables/headship_benchmarks.csv
+- output/tables/headship_bridged_changes.csv
+- output/tables/headship_by_cut.csv
+- output/tables/headship_context.csv
+- output/tables/headship_cps_age_split.csv
+- output/tables/headship_scf_cps_by_cut.csv
+- output/tables/networth_change_by_age.csv
+- output/tables/rate_price_changes.csv
+- output/tables/rate_price_housing.csv
+- output/tables/rate_price_shift_share.csv
+- output/tables/rate_price_vehicles.csv
+- output/tables/scf_cps_age_single_year.csv
+- output/tables/scf_cps_age_split.csv
+- output/tables/selection_sensitivity.csv
+- output/tables/u35_balance_sheet.csv
+- output/tables/u35_balance_sheet_sensitivity.csv
+- output/tables/u35_band_composition.csv
+- output/tables/u35_networth_percentiles.csv
+- output/tables/validation_benchmarks.csv
+- output/tables/validation_stderrs_2025.csv
+- output/tables/wealth_shares.csv
+- output/tables/young_by_age_band.csv
+- output/tables/young_by_cut.csv

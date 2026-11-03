@@ -1,0 +1,135 @@
+{
+    "description": "EIG SCF young cohorts (MR4 U2): CPS ASEC 2005-2025 person replicate weights, ages 15-44, for standard errors",
+    "dataStructure": {
+        "rectangular": {
+            "on": "P"
+        }
+    },
+    "dataFormat": "fixed_width",
+    "sampleMembers": {
+        "includeNonRespondents": false,
+        "includeHouseholdMembers": false
+    },
+    "samples": {
+        "cps2005_03s": {
+
+        },
+        "cps2006_03s": {
+
+        },
+        "cps2007_03s": {
+
+        },
+        "cps2008_03s": {
+
+        },
+        "cps2009_03s": {
+
+        },
+        "cps2010_03s": {
+
+        },
+        "cps2011_03s": {
+
+        },
+        "cps2012_03s": {
+
+        },
+        "cps2013_03s": {
+
+        },
+        "cps2014_03s": {
+
+        },
+        "cps2015_03s": {
+
+        },
+        "cps2016_03s": {
+
+        },
+        "cps2017_03s": {
+
+        },
+        "cps2018_03s": {
+
+        },
+        "cps2019_03s": {
+
+        },
+        "cps2020_03s": {
+
+        },
+        "cps2021_03s": {
+
+        },
+        "cps2022_03s": {
+
+        },
+        "cps2023_03s": {
+
+        },
+        "cps2024_03s": {
+
+        },
+        "cps2025_03s": {
+
+        }
+    },
+    "variables": {
+        "YEAR": {
+
+        },
+        "SERIAL": {
+
+        },
+        "PERNUM": {
+
+        },
+        "ASECWT": {
+
+        },
+        "AGE": {
+            "caseSelections": {
+                "general": [
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20",
+                    "21",
+                    "22",
+                    "23",
+                    "24",
+                    "25",
+                    "26",
+                    "27",
+                    "28",
+                    "29",
+                    "30",
+                    "31",
+                    "32",
+                    "33",
+                    "34",
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43",
+                    "44"
+                ]
+            }
+        },
+        "REPWTP": {
+
+        }
+    },
+    "caseSelectWho": "individuals",
+    "collection": "cps",
+    "version": 2
+}
+

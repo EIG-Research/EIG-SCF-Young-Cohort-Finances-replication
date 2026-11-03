@@ -1,0 +1,174 @@
+{
+    "description": "EIG SCF young cohorts (U9): CPS ASEC 1989-2025, person level, for headship context",
+    "dataStructure": {
+        "rectangular": {
+            "on": "P"
+        }
+    },
+    "dataFormat": "fixed_width",
+    "sampleMembers": {
+        "includeNonRespondents": false,
+        "includeHouseholdMembers": false
+    },
+    "samples": {
+        "cps1989_03s": {
+
+        },
+        "cps1990_03s": {
+
+        },
+        "cps1991_03s": {
+
+        },
+        "cps1992_03s": {
+
+        },
+        "cps1993_03s": {
+
+        },
+        "cps1994_03s": {
+
+        },
+        "cps1995_03s": {
+
+        },
+        "cps1996_03s": {
+
+        },
+        "cps1997_03s": {
+
+        },
+        "cps1998_03s": {
+
+        },
+        "cps1999_03s": {
+
+        },
+        "cps2000_03s": {
+
+        },
+        "cps2001_03s": {
+
+        },
+        "cps2002_03s": {
+
+        },
+        "cps2003_03s": {
+
+        },
+        "cps2004_03s": {
+
+        },
+        "cps2005_03s": {
+
+        },
+        "cps2006_03s": {
+
+        },
+        "cps2007_03s": {
+
+        },
+        "cps2008_03s": {
+
+        },
+        "cps2009_03s": {
+
+        },
+        "cps2010_03s": {
+
+        },
+        "cps2011_03s": {
+
+        },
+        "cps2012_03s": {
+
+        },
+        "cps2013_03s": {
+
+        },
+        "cps2014_03s": {
+
+        },
+        "cps2015_03s": {
+
+        },
+        "cps2016_03s": {
+
+        },
+        "cps2017_03s": {
+
+        },
+        "cps2018_03s": {
+
+        },
+        "cps2019_03s": {
+
+        },
+        "cps2020_03s": {
+
+        },
+        "cps2021_03s": {
+
+        },
+        "cps2022_03s": {
+
+        },
+        "cps2023_03s": {
+
+        },
+        "cps2024_03s": {
+
+        },
+        "cps2025_03s": {
+
+        }
+    },
+    "variables": {
+        "YEAR": {
+
+        },
+        "SERIAL": {
+
+        },
+        "PERNUM": {
+
+        },
+        "ASECWT": {
+
+        },
+        "AGE": {
+
+        },
+        "SEX": {
+
+        },
+        "RELATE": {
+
+        },
+        "MARST": {
+
+        },
+        "RACE": {
+
+        },
+        "HISPAN": {
+
+        },
+        "EDUC": {
+
+        },
+        "ASECFLAG": {
+
+        },
+        "HFLAG": {
+
+        },
+        "GQ": {
+
+        }
+    },
+    "caseSelectWho": "individuals",
+    "collection": "cps",
+    "version": 2
+}
+

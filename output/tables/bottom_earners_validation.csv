@@ -1,0 +1,1097 @@
+source_table,year,grouping,group,variable,statistic,units,published,ours,diff,pct_diff,tolerance,pass,n_unweighted
+"Fed bulletin scf26.pdf, Table 5",2022,all,All families,late,share,percent,12.2,12.1552410569406,-0.0447589430593798,-0.366876582453933,0.061,TRUE,4595
+"Fed bulletin scf26.pdf, Table 5",2025,all,All families,late,share,percent,19.6,19.579408843165,-0.0205911568349926,-0.105056922627513,0.098,TRUE,4360
+"Fed bulletin scf26.pdf, Table 5",2022,all,All families,late60,share,percent,4.9,4.90567106255455,0.00567106255454597,0.115735970500938,0.05,TRUE,4595
+"Fed bulletin scf26.pdf, Table 5",2025,all,All families,late60,share,percent,8.2,8.24831976144075,0.048319761440748,0.589265383423756,0.05,TRUE,4360
+"Fed bulletin scf26.pdf, Table 5",2022,all,All families,pir40,share,percent,6.5,6.54579197529552,0.0457919752955212,0.704491927623402,0.05,TRUE,4595
+"Fed bulletin scf26.pdf, Table 5",2025,all,All families,pir40,share,percent,8.6,8.63936582419937,0.0393658241993684,0.457742141853121,0.05,TRUE,4360
+"Fed historical tables (nominal), Table 1 01-25",2001,all,All families,income,mean,dollars,69162,69162.1902891263,0.190289126316202,0.000275135372482291,345.81,TRUE,4442
+"Fed historical tables (nominal), Table 1 01-25",2001,income_group,Less than 20,income,mean,dollars,10015,10015.3793568457,0.379356845727671,0.0037878866273357,50.075,TRUE,672
+"Fed historical tables (nominal), Table 1 01-25",2001,income_group,20-39.9,income,mean,dollars,24131,24131.4532358247,0.453235824683361,0.0018782305941874,120.655,TRUE,658
+"Fed historical tables (nominal), Table 1 01-25",2001,income_group,40-59.9,income,mean,dollars,40316,40315.6499823022,-0.350017697819567,-0.000868185578478934,201.58,TRUE,694
+"Fed historical tables (nominal), Table 1 01-25",2001,income_group,60-79.9,income,mean,dollars,65219,65219.4134519368,0.413451936750789,0.0006339439990659,326.095,TRUE,712
+"Fed historical tables (nominal), Table 1 01-25",2001,income_group,80-89.9,income,mean,dollars,98140,98139.7023918196,-0.297608180437237,-0.000303248604480576,490.7,TRUE,400
+"Fed historical tables (nominal), Table 1 01-25",2001,income_group,90-100,income,mean,dollars,313859,313859.499213752,0.499213751580101,0.000159056694751497,1569.295,TRUE,1306
+"Fed historical tables (nominal), Table 1 01-25",2001,networth_group,Less than 25,income,mean,dollars,23947,23946.8848425416,-0.115157458381873,-0.000480884696963598,119.735,TRUE,897
+"Fed historical tables (nominal), Table 1 01-25",2001,networth_group,25-49.9,income,mean,dollars,39558,39557.9257294264,-0.0742705736338394,-0.000187751083557913,197.79,TRUE,814
+"Fed historical tables (nominal), Table 1 01-25",2001,networth_group,50-74.9,income,mean,dollars,59072,59072.4556171269,0.455617126928701,0.000771291181826755,295.36,TRUE,798
+"Fed historical tables (nominal), Table 1 01-25",2001,networth_group,75-89.9,income,mean,dollars,78444,78443.6002241361,-0.399775863872492,-0.000509632175657146,392.22,TRUE,522
+"Fed historical tables (nominal), Table 1 01-25",2001,networth_group,90-100,income,mean,dollars,267369,267368.937207748,-0.0627922521089204,-0.0000234852402892334,1336.845,TRUE,1411
+"Fed historical tables (nominal), Table 1 01-25",2004,all,All families,income,mean,dollars,70644,70643.7495692214,-0.250430778643931,-0.000354496883873976,353.22,TRUE,4519
+"Fed historical tables (nominal), Table 1 01-25",2004,income_group,Less than 20,income,mean,dollars,10806,10806.3601579766,0.36015797660184,0.00333294444384453,54.03,TRUE,669
+"Fed historical tables (nominal), Table 1 01-25",2004,income_group,20-39.9,income,mean,dollars,26073,26072.8479641205,-0.152035879520554,-0.0005831161719808,130.365,TRUE,680
+"Fed historical tables (nominal), Table 1 01-25",2004,income_group,40-59.9,income,mean,dollars,43411,43410.993559703,-0.00644029696559301,-0.0000148356337462694,217.055,TRUE,685
+"Fed historical tables (nominal), Table 1 01-25",2004,income_group,60-79.9,income,mean,dollars,69156,69155.7148364331,-0.285163566892152,-0.0004123482660827,345.78,TRUE,722
+"Fed historical tables (nominal), Table 1 01-25",2004,income_group,80-89.9,income,mean,dollars,106530,106529.908106239,-0.0918937606329564,-0.0000862609224002219,532.65,TRUE,398
+"Fed historical tables (nominal), Table 1 01-25",2004,income_group,90-100,income,mean,dollars,300955,300955.288759286,0.288759286282584,0.0000959476620367112,1504.775,TRUE,1365
+"Fed historical tables (nominal), Table 1 01-25",2004,networth_group,Less than 25,income,mean,dollars,24996,24996.2377309816,0.237730981640198,0.000951076098736588,124.98,TRUE,933
+"Fed historical tables (nominal), Table 1 01-25",2004,networth_group,25-49.9,income,mean,dollars,42201,42201.1657257252,0.165725725149969,0.00039270568268517,211.005,TRUE,812
+"Fed historical tables (nominal), Table 1 01-25",2004,networth_group,50-74.9,income,mean,dollars,60736,60735.8638663351,-0.136133664913359,-0.000224139990966411,303.68,TRUE,784
+"Fed historical tables (nominal), Table 1 01-25",2004,networth_group,75-89.9,income,mean,dollars,87952,87952.4044332031,0.404433203104418,0.000459834003893508,439.76,TRUE,561
+"Fed historical tables (nominal), Table 1 01-25",2004,networth_group,90-100,income,mean,dollars,254657,254656.602584548,-0.397415451530833,-0.000156059111483616,1273.285,TRUE,1429
+"Fed historical tables (nominal), Table 1 01-25",2007,all,All families,income,mean,dollars,84153,84153.0750219594,0.0750219594337978,0.0000891494770641543,420.765,TRUE,4417
+"Fed historical tables (nominal), Table 1 01-25",2007,income_group,Less than 20,income,mean,dollars,12301,12301.2844819725,0.284481972490539,0.00231267354272449,61.505,TRUE,633
+"Fed historical tables (nominal), Table 1 01-25",2007,income_group,20-39.9,income,mean,dollars,28303,28303.0899024007,0.0899024007158005,0.000317642655251388,141.515,TRUE,632
+"Fed historical tables (nominal), Table 1 01-25",2007,income_group,40-59.9,income,mean,dollars,47284,47284.1602719057,0.160271905726404,0.000338955895707647,236.42,TRUE,656
+"Fed historical tables (nominal), Table 1 01-25",2007,income_group,60-79.9,income,mean,dollars,76571,76570.8055615422,-0.194438457823708,-0.000253932243047247,382.855,TRUE,682
+"Fed historical tables (nominal), Table 1 01-25",2007,income_group,80-89.9,income,mean,dollars,116033,116032.523230717,-0.476769283108297,-0.000410891111242747,580.165,TRUE,409
+"Fed historical tables (nominal), Table 1 01-25",2007,income_group,90-100,income,mean,dollars,396386,396386.210125651,0.210125650977716,0.0000530103613593103,1981.93,TRUE,1405
+"Fed historical tables (nominal), Table 1 01-25",2007,networth_group,Less than 25,income,mean,dollars,29114,29114.2954088659,0.295408865942591,0.00101466258824823,145.57,TRUE,834
+"Fed historical tables (nominal), Table 1 01-25",2007,networth_group,25-49.9,income,mean,dollars,46545,46545.3826236983,0.382623698285897,0.00082205112962917,232.725,TRUE,768
+"Fed historical tables (nominal), Table 1 01-25",2007,networth_group,50-74.9,income,mean,dollars,66569,66568.7387742244,-0.261225775597268,-0.000392413549245546,332.845,TRUE,764
+"Fed historical tables (nominal), Table 1 01-25",2007,networth_group,75-89.9,income,mean,dollars,92931,92930.8815934386,-0.118406561377924,-0.000127413415736325,464.655,TRUE,549
+"Fed historical tables (nominal), Table 1 01-25",2007,networth_group,90-100,income,mean,dollars,346431,346431.4510664,0.451066399458796,0.00013020382109534,1732.155,TRUE,1502
+"Fed historical tables (nominal), Table 1 01-25",2010,all,All families,income,mean,dollars,78309,78309.1483045276,0.148304527596338,0.000189383758694834,391.545,TRUE,6482
+"Fed historical tables (nominal), Table 1 01-25",2010,income_group,Less than 20,income,mean,dollars,12892,12891.7162947312,-0.283705268760968,-0.00220063038132926,64.46,TRUE,1156
+"Fed historical tables (nominal), Table 1 01-25",2010,income_group,20-39.9,income,mean,dollars,27912,27911.6132152907,-0.386784709269705,-0.00138572911030992,139.56,TRUE,1088
+"Fed historical tables (nominal), Table 1 01-25",2010,income_group,40-59.9,income,mean,dollars,46211,46210.567531947,-0.43246805297531,-0.000935855214073077,231.055,TRUE,1104
+"Fed historical tables (nominal), Table 1 01-25",2010,income_group,60-79.9,income,mean,dollars,73469,73468.5269266199,-0.473073380126152,-0.000643908832468323,367.345,TRUE,1114
+"Fed historical tables (nominal), Table 1 01-25",2010,income_group,80-89.9,income,mean,dollars,114431,114430.731401364,-0.268598635680974,-0.00023472541154143,572.155,TRUE,606
+"Fed historical tables (nominal), Table 1 01-25",2010,income_group,90-100,income,mean,dollars,347651,347650.855490218,-0.144509782374371,-0.0000415674864661315,1738.255,TRUE,1414
+"Fed historical tables (nominal), Table 1 01-25",2010,networth_group,Less than 25,income,mean,dollars,32582,32582.254001885,0.254001885012258,0.000779577328010122,162.91,TRUE,1502
+"Fed historical tables (nominal), Table 1 01-25",2010,networth_group,25-49.9,income,mean,dollars,45582,45582.2415338302,0.241533830216213,0.000529888618788585,227.91,TRUE,1345
+"Fed historical tables (nominal), Table 1 01-25",2010,networth_group,50-74.9,income,mean,dollars,63142,63142.075085918,0.0750859179825056,0.000118915963989905,315.71,TRUE,1226
+"Fed historical tables (nominal), Table 1 01-25",2010,networth_group,75-89.9,income,mean,dollars,88798,88798.1903097201,0.190309720128425,0.000214317574864778,443.99,TRUE,946
+"Fed historical tables (nominal), Table 1 01-25",2010,networth_group,90-100,income,mean,dollars,296569,296568.674592697,-0.32540730322944,-0.000109723977634021,1482.845,TRUE,1463
+"Fed historical tables (nominal), Table 1 01-25",2013,all,All families,income,mean,dollars,86648,86647.9084111646,-0.0915888353920309,-0.000105702192078329,433.24,TRUE,6015
+"Fed historical tables (nominal), Table 1 01-25",2013,income_group,Less than 20,income,mean,dollars,13327,13326.5497210338,-0.450278966205588,-0.00337869712767755,66.635,TRUE,1004
+"Fed historical tables (nominal), Table 1 01-25",2013,income_group,20-39.9,income,mean,dollars,28584,28583.7712475651,-0.228752434857597,-0.000800281398186388,142.92,TRUE,980
+"Fed historical tables (nominal), Table 1 01-25",2013,income_group,40-59.9,income,mean,dollars,47271,47271.3511236416,0.351123641543381,0.000742788689774664,236.355,TRUE,998
+"Fed historical tables (nominal), Table 1 01-25",2013,income_group,60-79.9,income,mean,dollars,78591,78591.0802683859,0.0802683859365061,0.000102134323187777,392.955,TRUE,1041
+"Fed historical tables (nominal), Table 1 01-25",2013,income_group,80-89.9,income,mean,dollars,124367,124367.026548866,0.0265488655713853,0.00002134719465082,621.835,TRUE,573
+"Fed historical tables (nominal), Table 1 01-25",2013,income_group,90-100,income,mean,dollars,406477,406476.900947374,-0.0990526262903586,-0.0000243685685267207,2032.385,TRUE,1419
+"Fed historical tables (nominal), Table 1 01-25",2013,networth_group,Less than 25,income,mean,dollars,31445,31444.9277607105,-0.0722392895331723,-0.00022973219759317,157.225,TRUE,1341
+"Fed historical tables (nominal), Table 1 01-25",2013,networth_group,25-49.9,income,mean,dollars,46908,46907.6233368743,-0.376663125716732,-0.000802982701707026,234.54,TRUE,1216
+"Fed historical tables (nominal), Table 1 01-25",2013,networth_group,50-74.9,income,mean,dollars,65840,65839.7811021745,-0.21889782549988,-0.000332469358292649,329.2,TRUE,1117
+"Fed historical tables (nominal), Table 1 01-25",2013,networth_group,75-89.9,income,mean,dollars,100060,100059.955622802,-0.0443771975842537,-0.0000443505872319146,500.3,TRUE,837
+"Fed historical tables (nominal), Table 1 01-25",2013,networth_group,90-100,income,mean,dollars,355837,355836.526318565,-0.473681435280014,-0.000133117532825427,1779.185,TRUE,1504
+"Fed historical tables (nominal), Table 1 01-25",2016,all,All families,income,mean,dollars,102281,102280.601492019,-0.39850798092084,-0.000389620732023387,511.405,TRUE,6248
+"Fed historical tables (nominal), Table 1 01-25",2016,income_group,Less than 20,income,mean,dollars,14375,14374.8188265206,-0.18117347943371,-0.0012603372482345,71.875,TRUE,1031
+"Fed historical tables (nominal), Table 1 01-25",2016,income_group,20-39.9,income,mean,dollars,31827,31826.9164867551,-0.0835132449064986,-0.00026239747669117,159.135,TRUE,1009
+"Fed historical tables (nominal), Table 1 01-25",2016,income_group,40-59.9,income,mean,dollars,53385,53385.3208738176,0.320873817574466,0.000601056134821515,266.925,TRUE,1020
+"Fed historical tables (nominal), Table 1 01-25",2016,income_group,60-79.9,income,mean,dollars,87407,87407.4468885807,0.446888580700033,0.000511273216904863,437.035,TRUE,1099
+"Fed historical tables (nominal), Table 1 01-25",2016,income_group,80-89.9,income,mean,dollars,138776,138776.32585322,0.325853219663259,0.000234805167797932,693.88,TRUE,617
+"Fed historical tables (nominal), Table 1 01-25",2016,income_group,90-100,income,mean,dollars,509955,509955.266256718,0.266256718314253,0.0000522118065935725,2549.775,TRUE,1472
+"Fed historical tables (nominal), Table 1 01-25",2016,networth_group,Less than 25,income,mean,dollars,34223,34222.9142995168,-0.0857004832141683,-0.000250417798597926,171.115,TRUE,1351
+"Fed historical tables (nominal), Table 1 01-25",2016,networth_group,25-49.9,income,mean,dollars,50803,50802.8975380285,-0.102461971480807,-0.000201684883728927,254.015,TRUE,1222
+"Fed historical tables (nominal), Table 1 01-25",2016,networth_group,50-74.9,income,mean,dollars,74937,74937.1803313612,0.180331361218123,0.000240643955880437,374.685,TRUE,1159
+"Fed historical tables (nominal), Table 1 01-25",2016,networth_group,75-89.9,income,mean,dollars,113605,113605.088727203,0.0887272033869522,0.000078101494993136,568.025,TRUE,968
+"Fed historical tables (nominal), Table 1 01-25",2016,networth_group,90-100,income,mean,dollars,452235,452235.42520567,0.425205669598654,0.0000940231670699203,2261.175,TRUE,1548
+"Fed historical tables (nominal), Table 1 01-25",2019,all,All families,income,mean,dollars,106255,106254.71424212,-0.285757879566518,-0.000268935936724406,531.275,TRUE,5777
+"Fed historical tables (nominal), Table 1 01-25",2019,income_group,Less than 20,income,mean,dollars,15746,15746.409310349,0.40931034901223,0.0025994560460576,78.73,TRUE,948
+"Fed historical tables (nominal), Table 1 01-25",2019,income_group,20-39.9,income,mean,dollars,35650,35650.2136548074,0.213654807368584,0.000599312222632775,178.25,TRUE,890
+"Fed historical tables (nominal), Table 1 01-25",2019,income_group,40-59.9,income,mean,dollars,58956,58956.1339134926,0.133913492565625,0.000227141414895219,294.78,TRUE,909
+"Fed historical tables (nominal), Table 1 01-25",2019,income_group,60-79.9,income,mean,dollars,96792,96791.9445190789,-0.0554809210589156,-0.0000573197382623725,483.96,TRUE,975
+"Fed historical tables (nominal), Table 1 01-25",2019,income_group,80-89.9,income,mean,dollars,153546,153545.808851545,-0.191148454730865,-0.000124489374344408,767.73,TRUE,568
+"Fed historical tables (nominal), Table 1 01-25",2019,income_group,90-100,income,mean,dollars,494656,494655.558583559,-0.441416440880857,-0.0000892370538072635,2473.28,TRUE,1487
+"Fed historical tables (nominal), Table 1 01-25",2019,networth_group,Less than 25,income,mean,dollars,37912,37911.7087901331,-0.291209866853023,-0.000768120560384637,189.56,TRUE,1231
+"Fed historical tables (nominal), Table 1 01-25",2019,networth_group,25-49.9,income,mean,dollars,58209,58208.6123319117,-0.38766808831133,-0.000665993383001477,291.045,TRUE,1097
+"Fed historical tables (nominal), Table 1 01-25",2019,networth_group,50-74.9,income,mean,dollars,80575,80574.5565916585,-0.443408341525355,-0.000550305108936215,402.875,TRUE,1049
+"Fed historical tables (nominal), Table 1 01-25",2019,networth_group,75-89.9,income,mean,dollars,129941,129941.095375929,0.0953759293770418,0.0000733994115614331,649.705,TRUE,805
+"Fed historical tables (nominal), Table 1 01-25",2019,networth_group,90-100,income,mean,dollars,425865,425864.623655646,-0.37634435412474,-0.0000883717502318199,2129.325,TRUE,1595
+"Fed historical tables (nominal), Table 1 01-25",2022,all,All families,income,mean,dollars,141390,141389.888671159,-0.111328841245268,-0.0000787388367248515,706.95,TRUE,4595
+"Fed historical tables (nominal), Table 1 01-25",2022,income_group,Less than 20,income,mean,dollars,19126,19126.3689694876,0.368969487593859,0.00192915135205405,95.63,TRUE,794
+"Fed historical tables (nominal), Table 1 01-25",2022,income_group,20-39.9,income,mean,dollars,42870,42869.7721427132,-0.22785728683084,-0.000531507550340192,214.35,TRUE,742
+"Fed historical tables (nominal), Table 1 01-25",2022,income_group,40-59.9,income,mean,dollars,71218,71218.3519266372,0.35192663721682,0.000494154058267321,356.09,TRUE,709
+"Fed historical tables (nominal), Table 1 01-25",2022,income_group,60-79.9,income,mean,dollars,116922,116921.718165756,-0.281834244524362,-0.000241044666123024,584.61,TRUE,706
+"Fed historical tables (nominal), Table 1 01-25",2022,income_group,80-89.9,income,mean,dollars,192804,192804.479775708,0.479775707761291,0.000248841158773309,964.02,TRUE,450
+"Fed historical tables (nominal), Table 1 01-25",2022,income_group,90-100,income,mean,dollars,720535,720534.538958085,-0.461041914997622,-0.0000639860541122392,3602.675,TRUE,1194
+"Fed historical tables (nominal), Table 1 01-25",2022,networth_group,Less than 25,income,mean,dollars,43589,43589.429877811,0.429877811009646,0.000986207095849059,217.945,TRUE,1066
+"Fed historical tables (nominal), Table 1 01-25",2022,networth_group,25-49.9,income,mean,dollars,69854,69854.2754413893,0.275441389268963,0.000394310117200107,349.27,TRUE,784
+"Fed historical tables (nominal), Table 1 01-25",2022,networth_group,50-74.9,income,mean,dollars,97102,97101.7859590605,-0.214040939463303,-0.000220428971044162,485.51,TRUE,830
+"Fed historical tables (nominal), Table 1 01-25",2022,networth_group,75-89.9,income,mean,dollars,169476,169476.030273314,0.0302733141288627,0.0000178628915768974,847.38,TRUE,655
+"Fed historical tables (nominal), Table 1 01-25",2022,networth_group,90-100,income,mean,dollars,633178,633177.51909718,-0.480902820127085,-0.0000759506521273773,3165.89,TRUE,1260
+"Fed historical tables (nominal), Table 1 01-25",2025,all,All families,income,mean,dollars,144630,144630.111236904,0.111236904165708,0.0000769113629023768,723.15,TRUE,4360
+"Fed historical tables (nominal), Table 1 01-25",2025,income_group,Less than 20,income,mean,dollars,22438,22437.7402350884,-0.25976491158508,-0.0011577008271017,112.19,TRUE,735
+"Fed historical tables (nominal), Table 1 01-25",2025,income_group,20-39.9,income,mean,dollars,49525,49525.162374166,0.162374166036898,0.000327863030867032,247.625,TRUE,736
+"Fed historical tables (nominal), Table 1 01-25",2025,income_group,40-59.9,income,mean,dollars,82699,82699.4714499547,0.471449954682612,0.000570079389935322,413.495,TRUE,672
+"Fed historical tables (nominal), Table 1 01-25",2025,income_group,60-79.9,income,mean,dollars,133437,133436.817137957,-0.182862043031491,-0.000137039983686302,667.185,TRUE,703
+"Fed historical tables (nominal), Table 1 01-25",2025,income_group,80-89.9,income,mean,dollars,206786,206785.801609686,-0.198390313948039,-0.0000959399156364739,1033.93,TRUE,386
+"Fed historical tables (nominal), Table 1 01-25",2025,income_group,90-100,income,mean,dollars,663170,663170.203216633,0.203216633410193,0.0000306432186935768,3315.85,TRUE,1128
+"Fed historical tables (nominal), Table 1 01-25",2025,networth_group,Less than 25,income,mean,dollars,49184,49183.5136910874,-0.486308912593813,-0.000988754295286705,245.92,TRUE,1028
+"Fed historical tables (nominal), Table 1 01-25",2025,networth_group,25-49.9,income,mean,dollars,79718,79717.6995726184,-0.300427381574991,-0.000376862667872991,398.59,TRUE,789
+"Fed historical tables (nominal), Table 1 01-25",2025,networth_group,50-74.9,income,mean,dollars,109588,109587.578818992,-0.421181007826817,-0.000384331320789518,547.94,TRUE,821
+"Fed historical tables (nominal), Table 1 01-25",2025,networth_group,75-89.9,income,mean,dollars,184258,184258.449943384,0.449943384446669,0.000244192048348875,921.29,TRUE,578
+"Fed historical tables (nominal), Table 1 01-25",2025,networth_group,90-100,income,mean,dollars,573413,573413.334817161,0.334817161317915,0.0000583902285643881,2867.065,TRUE,1144
+"Fed historical tables (nominal), Table 1 01-25",2001,all,All families,income,median,dollars,40112,40112.0792079208,0.0792079207894858,0.000197466894668642,200.56,TRUE,4442
+"Fed historical tables (nominal), Table 1 01-25",2001,income_group,Less than 20,income,median,dollars,10285,10285.1485148515,0.148514851485743,0.00144399466685214,51.425,TRUE,672
+"Fed historical tables (nominal), Table 1 01-25",2001,income_group,20-39.9,income,median,dollars,24684,24684.3564356436,0.356435643559962,0.00144399466682856,123.42,TRUE,658
+"Fed historical tables (nominal), Table 1 01-25",2001,income_group,40-59.9,income,median,dollars,40112,40112.0792079208,0.0792079207894858,0.000197466894668642,200.56,TRUE,694
+"Fed historical tables (nominal), Table 1 01-25",2001,income_group,60-79.9,income,median,dollars,64796,64796.4356435644,0.435643564356724,0.000672330953078467,323.98,TRUE,712
+"Fed historical tables (nominal), Table 1 01-25",2001,income_group,80-89.9,income,median,dollars,98737,98737.4257425742,0.425742574239848,0.000431188484802909,493.685,TRUE,400
+"Fed historical tables (nominal), Table 1 01-25",2001,income_group,90-100,income,median,dollars,169705,169704.95049505,-0.0495049504970666,-0.0000291711796924467,848.525,TRUE,1306
+"Fed historical tables (nominal), Table 1 01-25",2001,networth_group,Less than 25,income,median,dollars,19542,19541.7821782178,-0.217821782182,-0.00111463403020162,97.71,TRUE,897
+"Fed historical tables (nominal), Table 1 01-25",2001,networth_group,25-49.9,income,median,dollars,34970,34969.5049504951,-0.495049504948838,-0.0014156405631937,174.85,TRUE,814
+"Fed historical tables (nominal), Table 1 01-25",2001,networth_group,50-74.9,income,median,dollars,51426,51425.7425742574,-0.257425742573105,-0.000500575083757447,257.13,TRUE,798
+"Fed historical tables (nominal), Table 1 01-25",2001,networth_group,75-89.9,income,median,dollars,69939,69939.0099009901,0.0099009901023237,0.0000141566080474752,349.695,TRUE,522
+"Fed historical tables (nominal), Table 1 01-25",2001,networth_group,90-100,income,median,dollars,126507,126507.326732673,0.326732673260267,0.000258272406475742,632.535,TRUE,1411
+"Fed historical tables (nominal), Table 1 01-25",2004,all,All families,income,median,dollars,43121,43120.8302446257,-0.169755374357919,-0.000393672165204701,215.605,TRUE,4519
+"Fed historical tables (nominal), Table 1 01-25",2004,income_group,Less than 20,income,median,dollars,11294,11293.5507783543,-0.449221645663783,-0.00397752475353093,56.47,TRUE,669
+"Fed historical tables (nominal), Table 1 01-25",2004,income_group,20-39.9,income,median,dollars,25667,25667.1608598962,0.160859896215698,0.000626718729168573,128.335,TRUE,680
+"Fed historical tables (nominal), Table 1 01-25",2004,income_group,40-59.9,income,median,dollars,43121,43120.8302446257,-0.169755374357919,-0.000393672165204701,215.605,TRUE,685
+"Fed historical tables (nominal), Table 1 01-25",2004,income_group,60-79.9,income,median,dollars,67761,67761.304670126,0.304670126002748,0.00044962460117582,338.805,TRUE,722
+"Fed historical tables (nominal), Table 1 01-25",2004,income_group,80-89.9,income,median,dollars,104722,104722.016308377,0.0163083765655756,0.0000155730186260534,523.61,TRUE,398
+"Fed historical tables (nominal), Table 1 01-25",2004,income_group,90-100,income,median,dollars,184804,184803.558191253,-0.441808747214964,-0.000239068822760851,924.02,TRUE,1365
+"Fed historical tables (nominal), Table 1 01-25",2004,networth_group,Less than 25,income,median,dollars,20534,20533.728687917,-0.271312083026714,-0.00132128218090345,102.67,TRUE,933
+"Fed historical tables (nominal), Table 1 01-25",2004,networth_group,25-49.9,income,median,dollars,36961,36960.7116382506,-0.288361749444448,-0.000780178429816423,184.805,TRUE,812
+"Fed historical tables (nominal), Table 1 01-25",2004,networth_group,50-74.9,income,median,dollars,52361,52361.0081541883,0.0081541882827878,0.0000155730186260534,261.805,TRUE,784
+"Fed historical tables (nominal), Table 1 01-25",2004,networth_group,75-89.9,income,median,dollars,77001,77001.4825796887,0.482579688658007,0.000626718729182746,385.005,TRUE,561
+"Fed historical tables (nominal), Table 1 01-25",2004,networth_group,90-100,income,median,dollars,143736,143736.100815419,0.100815418816637,0.0000701392962212927,718.68,TRUE,1429
+"Fed historical tables (nominal), Table 1 01-25",2007,all,All families,income,median,dollars,47307,47306.7297937099,-0.270206290158967,-0.000571176126490725,236.535,TRUE,4417
+"Fed historical tables (nominal), Table 1 01-25",2007,income_group,Less than 20,income,median,dollars,12341,12340.8860331417,-0.113966858301865,-0.000923481551753219,61.705,TRUE,633
+"Fed historical tables (nominal), Table 1 01-25",2007,income_group,20-39.9,income,median,dollars,28795,28795.4007439973,0.400743997299287,0.00139171382982909,143.975,TRUE,632
+"Fed historical tables (nominal), Table 1 01-25",2007,income_group,40-59.9,income,median,dollars,47307,47306.7297937099,-0.270206290158967,-0.000571176126490725,236.535,TRUE,656
+"Fed historical tables (nominal), Table 1 01-25",2007,income_group,60-79.9,income,median,dollars,75074,75073.7233682787,-0.276631721339072,-0.00036847872943905,375.37,TRUE,682
+"Fed historical tables (nominal), Table 1 01-25",2007,income_group,80-89.9,income,median,dollars,114153,114153.195806561,0.195806560703204,0.000171529929746221,570.765,TRUE,409
+"Fed historical tables (nominal), Table 1 01-25",2007,income_group,90-100,income,median,dollars,206710,206709.841055124,-0.15894487654441,-0.0000768926885706596,1033.55,TRUE,1405
+"Fed historical tables (nominal), Table 1 01-25",2007,networth_group,Less than 25,income,median,dollars,23653,23653.3648968549,0.364896854920517,0.00154270855671803,118.265,TRUE,834
+"Fed historical tables (nominal), Table 1 01-25",2007,networth_group,25-49.9,income,median,dollars,41136,41136.286777139,0.28677713900106,0.000697143959065199,205.68,TRUE,768
+"Fed historical tables (nominal), Table 1 01-25",2007,networth_group,50-74.9,income,median,dollars,56562,56562.3943185661,0.394318566119182,0.000697143959052335,282.81,TRUE,764
+"Fed historical tables (nominal), Table 1 01-25",2007,networth_group,75-89.9,income,median,dollars,82273,82272.573554278,-0.426445721997879,-0.000518330098571681,411.365,TRUE,549
+"Fed historical tables (nominal), Table 1 01-25",2007,networth_group,90-100,income,median,dollars,158375,158374.704091985,-0.295908014872111,-0.000186840104102359,791.875,TRUE,1502
+"Fed historical tables (nominal), Table 1 01-25",2010,all,All families,income,median,dollars,45729,45729.2659675882,0.265967588180502,0.00058161689120799,228.645,TRUE,6482
+"Fed historical tables (nominal), Table 1 01-25",2010,income_group,Less than 20,income,median,dollars,13211,13210.676835081,-0.323164918971088,-0.00244618059928157,66.055,TRUE,1156
+"Fed historical tables (nominal), Table 1 01-25",2010,income_group,20-39.9,income,median,dollars,28454,28453.7654909438,-0.234509056248498,-0.000824169031589577,142.27,TRUE,1088
+"Fed historical tables (nominal), Table 1 01-25",2010,income_group,40-59.9,income,median,dollars,45729,45729.2659675882,0.265967588180502,0.00058161689120799,228.645,TRUE,1104
+"Fed historical tables (nominal), Table 1 01-25",2010,income_group,60-79.9,income,median,dollars,71134,71134.4137273594,0.413727359395125,0.000581616891212535,355.67,TRUE,1114
+"Fed historical tables (nominal), Table 1 01-25",2010,income_group,80-89.9,income,median,dollars,112799,112798.856053384,-0.143946615819004,-0.000127613379390779,563.995,TRUE,606
+"Fed historical tables (nominal), Table 1 01-25",2010,income_group,90-100,income,median,dollars,205274,205273.593898951,-0.406101048603887,-0.000197833650926998,1026.37,TRUE,1414
+"Fed historical tables (nominal), Table 1 01-25",2010,networth_group,Less than 25,income,median,dollars,23373,23372.7359389895,-0.26406101048633,-0.00112976943689869,116.865,TRUE,1502
+"Fed historical tables (nominal), Table 1 01-25",2010,networth_group,25-49.9,income,median,dollars,37600,37599.6186844614,-0.38131553860876,-0.00101413707076798,188,TRUE,1345
+"Fed historical tables (nominal), Table 1 01-25",2010,networth_group,50-74.9,income,median,dollars,54875,54875.1191611058,0.119161105816602,0.00021715007893686,274.375,TRUE,1226
+"Fed historical tables (nominal), Table 1 01-25",2010,networth_group,75-89.9,income,median,dollars,74183,74183.0314585319,0.0314585319283651,0.0000424066591110701,370.915,TRUE,946
+"Fed historical tables (nominal), Table 1 01-25",2010,networth_group,90-100,income,median,dollars,162593,162592.945662536,-0.0543374642438721,-0.0000334193134045574,812.965,TRUE,1463
+"Fed historical tables (nominal), Table 1 01-25",2013,all,All families,income,median,dollars,46696,46696.3490650045,0.349065004455042,0.000747526564277544,233.48,TRUE,6015
+"Fed historical tables (nominal), Table 1 01-25",2013,income_group,Less than 20,income,median,dollars,14212,14211.9323241318,-0.067675868209335,-0.000476188208621834,71.06,TRUE,1004
+"Fed historical tables (nominal), Table 1 01-25",2013,income_group,20-39.9,income,median,dollars,28424,28423.8646482636,-0.13535173641867,-0.000476188208621834,142.12,TRUE,980
+"Fed historical tables (nominal), Table 1 01-25",2013,income_group,40-59.9,income,median,dollars,46696,46696.3490650045,0.349065004455042,0.000747526564277544,233.48,TRUE,998
+"Fed historical tables (nominal), Table 1 01-25",2013,income_group,60-79.9,income,median,dollars,76135,76135.3517364203,0.35173642031441,0.00046199043845066,380.675,TRUE,1041
+"Fed historical tables (nominal), Table 1 01-25",2013,income_group,80-89.9,income,median,dollars,121817,121816.562778273,-0.437221727494034,-0.000358916840419674,609.085,TRUE,573
+"Fed historical tables (nominal), Table 1 01-25",2013,income_group,90-100,income,median,dollars,229421,229421.193232413,0.193232413206715,0.0000842261228077269,1147.105,TRUE,1419
+"Fed historical tables (nominal), Table 1 01-25",2013,networth_group,Less than 25,income,median,dollars,23348,23348.1745325022,0.174532502227521,0.000747526564277544,116.74,TRUE,1341
+"Fed historical tables (nominal), Table 1 01-25",2013,networth_group,25-49.9,income,median,dollars,38575,38575.2448797863,0.244879786288948,0.00063481474086571,192.875,TRUE,1216
+"Fed historical tables (nominal), Table 1 01-25",2013,networth_group,50-74.9,income,median,dollars,55833,55832.5912733749,-0.408726625100826,-0.000732052057207791,279.165,TRUE,1117
+"Fed historical tables (nominal), Table 1 01-25",2013,networth_group,75-89.9,income,median,dollars,87302,87301.8699910953,-0.130008904699935,-0.000148918586859333,436.51,TRUE,837
+"Fed historical tables (nominal), Table 1 01-25",2013,networth_group,90-100,income,median,dollars,183740,183739.982190561,-0.0178094389848411,-0.00000969273918844079,918.7,TRUE,1504
+"Fed historical tables (nominal), Table 1 01-25",2016,all,All families,income,median,dollars,52672,52671.834625323,-0.16537467699527,-0.00031397075674983,263.36,TRUE,6248
+"Fed historical tables (nominal), Table 1 01-25",2016,income_group,Less than 20,income,median,dollars,15194,15193.7984496124,-0.201550387597308,-0.00132651301564636,75.97,TRUE,1031
+"Fed historical tables (nominal), Table 1 01-25",2016,income_group,20-39.9,income,median,dollars,31401,31400.5167958656,-0.483204134365224,-0.001538817663021,157.005,TRUE,1009
+"Fed historical tables (nominal), Table 1 01-25",2016,income_group,40-59.9,income,median,dollars,52672,52671.834625323,-0.16537467699527,-0.00031397075674983,263.36,TRUE,1020
+"Fed historical tables (nominal), Table 1 01-25",2016,income_group,60-79.9,income,median,dollars,86098,86098.1912144703,0.191214470280102,0.000222089328765014,430.49,TRUE,1099
+"Fed historical tables (nominal), Table 1 01-25",2016,income_group,80-89.9,income,median,dollars,136744,136744.186046512,0.186046511633322,0.000136054606880976,683.72,TRUE,617
+"Fed historical tables (nominal), Table 1 01-25",2016,income_group,90-100,income,median,dollars,260320,260320.413436693,0.413436692528194,0.000158818643411261,1301.6,TRUE,1472
+"Fed historical tables (nominal), Table 1 01-25",2016,networth_group,Less than 25,income,median,dollars,25323,25322.9974160207,-0.00258397932702792,-0.0000102040805869286,126.615,TRUE,1351
+"Fed historical tables (nominal), Table 1 01-25",2016,networth_group,25-49.9,income,median,dollars,41530,41529.7157622739,-0.284237726096762,-0.000684415425226974,207.65,TRUE,1222
+"Fed historical tables (nominal), Table 1 01-25",2016,networth_group,50-74.9,income,median,dollars,64827,64826.8733850129,-0.126614987078938,-0.00019531211852922,324.135,TRUE,1159
+"Fed historical tables (nominal), Table 1 01-25",2016,networth_group,75-89.9,income,median,dollars,91163,91162.7906976744,-0.209302325587487,-0.000229591309618471,455.815,TRUE,968
+"Fed historical tables (nominal), Table 1 01-25",2016,networth_group,90-100,income,median,dollars,215752,215751.937984496,-0.0620155038486701,-0.0000287438836482026,1078.76,TRUE,1548
+"Fed historical tables (nominal), Table 1 01-25",2019,all,All families,income,median,dollars,59053,59052.8312110539,-0.168788946088171,-0.000285826200342355,295.265,TRUE,5777
+"Fed historical tables (nominal), Table 1 01-25",2019,income_group,Less than 20,income,median,dollars,16290,16290.4361961528,0.436196152806588,0.0026776927735211,81.45,TRUE,948
+"Fed historical tables (nominal), Table 1 01-25",2019,income_group,20-39.9,income,median,dollars,35635,35635.3291790843,0.329179084255884,0.000923752165724383,178.175,TRUE,890
+"Fed historical tables (nominal), Table 1 01-25",2019,income_group,40-59.9,income,median,dollars,59053,59052.8312110539,-0.168788946088171,-0.000285826200342355,295.265,TRUE,909
+"Fed historical tables (nominal), Table 1 01-25",2019,income_group,60-79.9,income,median,dollars,95706,95706.3126523977,0.312652397726197,0.000326680038582949,478.53,TRUE,975
+"Fed historical tables (nominal), Table 1 01-25",2019,income_group,80-89.9,income,median,dollars,151705,151704.687076673,-0.312923326971941,-0.000206270938315771,758.525,TRUE,568
+"Fed historical tables (nominal), Table 1 01-25",2019,income_group,90-100,income,median,dollars,290173,290173.394743972,0.394743971817661,0.000136037457591734,1450.865,TRUE,1487
+"Fed historical tables (nominal), Table 1 01-25",2019,networth_group,Less than 25,income,median,dollars,29526,29526.415605527,0.415605526955915,0.00140759170546608,147.63,TRUE,1231
+"Fed historical tables (nominal), Table 1 01-25",2019,networth_group,25-49.9,income,median,dollars,46835,46835.0040639393,0.00406393931189086,0.00000867714169294515,234.175,TRUE,1097
+"Fed historical tables (nominal), Table 1 01-25",2019,networth_group,50-74.9,income,median,dollars,70253,70252.506095909,-0.49390409103944,-0.000703036298861885,351.265,TRUE,1049
+"Fed historical tables (nominal), Table 1 01-25",2019,networth_group,75-89.9,income,median,dollars,101815,101815.226225955,0.226225955033442,0.000222193149372334,509.075,TRUE,805
+"Fed historical tables (nominal), Table 1 01-25",2019,networth_group,90-100,income,median,dollars,236211,236211.324844216,0.324844215647317,0.000137522899292293,1181.055,TRUE,1595
+"Fed historical tables (nominal), Table 1 01-25",2022,all,All families,income,median,dollars,70259,70259.2685370741,0.268537074138294,0.000382210213834945,351.295,TRUE,4595
+"Fed historical tables (nominal), Table 1 01-25",2022,income_group,Less than 20,income,median,dollars,20537,20537.3246492986,0.324649298596341,0.00158080196034641,102.685,TRUE,794
+"Fed historical tables (nominal), Table 1 01-25",2022,income_group,20-39.9,income,median,dollars,43236,43236.4729458918,0.472945891786367,0.00109387059808115,216.18,TRUE,742
+"Fed historical tables (nominal), Table 1 01-25",2022,income_group,40-59.9,income,median,dollars,70259,70259.2685370741,0.268537074138294,0.000382210213834945,351.295,TRUE,709
+"Fed historical tables (nominal), Table 1 01-25",2022,income_group,60-79.9,income,median,dollars,115658,115657.565130261,-0.434869739474379,-0.000375996247102993,578.29,TRUE,706
+"Fed historical tables (nominal), Table 1 01-25",2022,income_group,80-89.9,income,median,dollars,189160,189159.569138277,-0.430861723434646,-0.000227776339307806,945.8,TRUE,450
+"Fed historical tables (nominal), Table 1 01-25",2022,income_group,90-100,income,median,dollars,390209,390209.168336673,0.168336673290469,0.0000431401308761379,1951.045,TRUE,1194
+"Fed historical tables (nominal), Table 1 01-25",2022,networth_group,Less than 25,income,median,dollars,34589,34589.1783567134,0.178356713418907,0.000515645764314976,172.945,TRUE,1066
+"Fed historical tables (nominal), Table 1 01-25",2022,networth_group,25-49.9,income,median,dollars,59450,59450.1503006012,0.150300601198978,0.000252818504960434,297.25,TRUE,784
+"Fed historical tables (nominal), Table 1 01-25",2022,networth_group,50-74.9,income,median,dollars,83230,83230.2104208417,0.210420841685846,0.000252818504969176,416.15,TRUE,830
+"Fed historical tables (nominal), Table 1 01-25",2022,networth_group,75-89.9,income,median,dollars,140519,140518.537074148,-0.462925851723412,-0.000329440041363383,702.595,TRUE,655
+"Fed historical tables (nominal), Table 1 01-25",2022,networth_group,90-100,income,median,dollars,301574,301574.398797595,0.398797595174983,0.000132238719244691,1507.87,TRUE,1260
+"Fed historical tables (nominal), Table 1 01-25",2025,all,All families,income,median,dollars,82162,82162.1621621622,0.162162162159802,0.000197368810593465,410.81,TRUE,4360
+"Fed historical tables (nominal), Table 1 01-25",2025,income_group,Less than 20,income,median,dollars,22595,22594.5945945946,-0.405405405406782,-0.00179422618015836,112.975,TRUE,735
+"Fed historical tables (nominal), Table 1 01-25",2025,income_group,20-39.9,income,median,dollars,49297,49297.2972972973,0.297297297300247,0.000603073812402879,246.485,TRUE,736
+"Fed historical tables (nominal), Table 1 01-25",2025,income_group,40-59.9,income,median,dollars,82162,82162.1621621622,0.162162162159802,0.000197368810593465,410.81,TRUE,672
+"Fed historical tables (nominal), Table 1 01-25",2025,income_group,60-79.9,income,median,dollars,130432,130432.432432432,0.43243243242614,0.000331538604350267,652.16,TRUE,703
+"Fed historical tables (nominal), Table 1 01-25",2025,income_group,80-89.9,income,median,dollars,204378,204378.378378378,0.378378378372872,0.000185136550104645,1021.89,TRUE,386
+"Fed historical tables (nominal), Table 1 01-25",2025,income_group,90-100,income,median,dollars,400541,400540.540540541,-0.459459459467325,-0.000114709719970571,2002.705,TRUE,1128
+"Fed historical tables (nominal), Table 1 01-25",2025,networth_group,Less than 25,income,median,dollars,39027,39027.027027027,0.0270270270266337,0.0000692521255198548,195.135,TRUE,1028
+"Fed historical tables (nominal), Table 1 01-25",2025,networth_group,25-49.9,income,median,dollars,67784,67783.7837837838,-0.21621621621307,-0.000318978248868568,338.92,TRUE,789
+"Fed historical tables (nominal), Table 1 01-25",2025,networth_group,50-74.9,income,median,dollars,99622,99621.6216216216,-0.378378378372872,-0.000379814075578559,498.11,TRUE,821
+"Fed historical tables (nominal), Table 1 01-25",2025,networth_group,75-89.9,income,median,dollars,152000,152000,0,0,760,TRUE,578
+"Fed historical tables (nominal), Table 1 01-25",2025,networth_group,90-100,income,median,dollars,309135,309135.135135135,0.135135135147721,0.0000437139551159592,1545.675,TRUE,1144
+"Fed historical tables (nominal), Table 1 89-98",1989,all,All families,income,mean,dollars,41020,41019.7514201348,-0.248579865205102,-0.000605996745990009,205.1,TRUE,3143
+"Fed historical tables (nominal), Table 1 89-98",1989,income_group,Less than 20,income,mean,dollars,5977,5976.86701964099,-0.132980359006979,-0.00222486797736287,29.885,TRUE,444
+"Fed historical tables (nominal), Table 1 89-98",1989,income_group,20-39.9,income,mean,dollars,14716,14715.7008193425,-0.29918065747006,-0.00203302974633093,73.58,TRUE,466
+"Fed historical tables (nominal), Table 1 89-98",1989,income_group,40-59.9,income,mean,dollars,25960,25959.8695355161,-0.130464483900141,-0.000502559645223965,129.8,TRUE,491
+"Fed historical tables (nominal), Table 1 89-98",1989,income_group,60-79.9,income,mean,dollars,40955,40955.0045885097,0.00458850966242608,0.0000112037838174242,204.775,TRUE,510
+"Fed historical tables (nominal), Table 1 89-98",1989,income_group,80-89.9,income,mean,dollars,61294,61294.2890353401,0.289035340094415,0.000471555682602563,306.47,TRUE,333
+"Fed historical tables (nominal), Table 1 89-98",1989,income_group,90-100,income,mean,dollars,173639,173638.6200632,-0.379936799698044,-0.000218808447237109,868.195,TRUE,899
+"Fed historical tables (nominal), Table 1 89-98",1989,networth_group,Less than 25,income,mean,dollars,14944,14943.8896472905,-0.110352709543804,-0.000738441578853078,74.72,TRUE,510
+"Fed historical tables (nominal), Table 1 89-98",1989,networth_group,25-49.9,income,mean,dollars,25062,25061.7249059392,-0.275094060769334,-0.00109765406100604,125.31,TRUE,564
+"Fed historical tables (nominal), Table 1 89-98",1989,networth_group,50-74.9,income,mean,dollars,36073,36073.091338498,0.0913384979503462,0.000253204607186389,180.365,TRUE,634
+"Fed historical tables (nominal), Table 1 89-98",1989,networth_group,75-89.9,income,mean,dollars,51121,51121.4870125457,0.487012545643665,0.000952666312559741,255.605,TRUE,470
+"Fed historical tables (nominal), Table 1 89-98",1989,networth_group,90-100,income,mean,dollars,143138,143137.96140046,-0.0385995399847161,-0.0000269666615327279,715.69,TRUE,965
+"Fed historical tables (nominal), Table 1 89-98",1992,all,All families,income,mean,dollars,40043,40042.7496430077,-0.250356992284651,-0.000625220368815151,200.215,TRUE,3906
+"Fed historical tables (nominal), Table 1 89-98",1992,income_group,Less than 20,income,mean,dollars,6557,6557.37158499792,0.371584997920763,0.0056669970706232,32.785,TRUE,552
+"Fed historical tables (nominal), Table 1 89-98",1992,income_group,20-39.9,income,mean,dollars,15883,15883.358663951,0.358663950992195,0.00225816250703391,79.415,TRUE,550
+"Fed historical tables (nominal), Table 1 89-98",1992,income_group,40-59.9,income,mean,dollars,27175,27174.6033232545,-0.396676745505829,-0.00145971203498005,135.875,TRUE,590
+"Fed historical tables (nominal), Table 1 89-98",1992,income_group,60-79.9,income,mean,dollars,43258,43258.3954731887,0.395473188676988,0.000914219771318572,216.29,TRUE,605
+"Fed historical tables (nominal), Table 1 89-98",1992,income_group,80-89.9,income,mean,dollars,64245,64244.8179028683,-0.182097131684714,-0.000283441717930911,321.225,TRUE,372
+"Fed historical tables (nominal), Table 1 89-98",1992,income_group,90-100,income,mean,dollars,150360,150360.370444127,0.370444126892835,0.00024637145975847,751.8,TRUE,1237
+"Fed historical tables (nominal), Table 1 89-98",1992,networth_group,Less than 25,income,mean,dollars,17422,17421.917382696,-0.0826173039531568,-0.000474212512645832,87.11,TRUE,731
+"Fed historical tables (nominal), Table 1 89-98",1992,networth_group,25-49.9,income,mean,dollars,27653,27652.9707305614,-0.0292694385752839,-0.000105845436572104,138.265,TRUE,693
+"Fed historical tables (nominal), Table 1 89-98",1992,networth_group,50-74.9,income,mean,dollars,36367,36367.4330903683,0.433090368322155,0.00119088835571302,181.835,TRUE,662
+"Fed historical tables (nominal), Table 1 89-98",1992,networth_group,75-89.9,income,mean,dollars,50984,50984.3061890753,0.306189075337898,0.000600559146669342,254.92,TRUE,496
+"Fed historical tables (nominal), Table 1 89-98",1992,networth_group,90-100,income,mean,dollars,120325,120324.589855406,-0.410144594294252,-0.000340863988609393,601.625,TRUE,1324
+"Fed historical tables (nominal), Table 1 89-98",1995,all,All families,income,mean,dollars,44669,44669.06934966,0.069349660021544,0.000155252322688092,223.345,TRUE,4299
+"Fed historical tables (nominal), Table 1 89-98",1995,income_group,Less than 20,income,mean,dollars,6650,6649.82256014084,-0.177439859163314,-0.00266826855884683,33.25,TRUE,597
+"Fed historical tables (nominal), Table 1 89-98",1995,income_group,20-39.9,income,mean,dollars,17597,17597.2970472626,0.297047262622073,0.00168805627449038,87.985,TRUE,615
+"Fed historical tables (nominal), Table 1 89-98",1995,income_group,40-59.9,income,mean,dollars,30127,30126.8228141293,-0.177185870707035,-0.000588129819454426,150.635,TRUE,644
+"Fed historical tables (nominal), Table 1 89-98",1995,income_group,60-79.9,income,mean,dollars,46284,46284.407829579,0.40782957895135,0.000881145922892037,231.42,TRUE,726
+"Fed historical tables (nominal), Table 1 89-98",1995,income_group,80-89.9,income,mean,dollars,69607,69607.072056488,0.0720564880321035,0.000103519025431499,348.035,TRUE,430
+"Fed historical tables (nominal), Table 1 89-98",1995,income_group,90-100,income,mean,dollars,175728,175728.447317665,0.44731766480254,0.000254551161341699,878.64,TRUE,1287
+"Fed historical tables (nominal), Table 1 89-98",1995,networth_group,Less than 25,income,mean,dollars,18563,18562.7698979133,-0.230102086741681,-0.00123957381210839,92.815,TRUE,789
+"Fed historical tables (nominal), Table 1 89-98",1995,networth_group,25-49.9,income,mean,dollars,31339,31338.9829949518,-0.0170050481574435,-0.0000542616170185505,156.695,TRUE,755
+"Fed historical tables (nominal), Table 1 89-98",1995,networth_group,50-74.9,income,mean,dollars,40753,40753.3949790458,0.394979045820946,0.000969202379753506,203.765,TRUE,729
+"Fed historical tables (nominal), Table 1 89-98",1995,networth_group,75-89.9,income,mean,dollars,52757,52756.6859934988,-0.314006501212134,-0.000595194004989166,263.785,TRUE,554
+"Fed historical tables (nominal), Table 1 89-98",1995,networth_group,90-100,income,mean,dollars,140875,140874.73634936,-0.263650640496053,-0.000187152184912903,704.375,TRUE,1472
+"Fed historical tables (nominal), Table 1 89-98",1998,all,All families,income,mean,dollars,53045,53044.903055518,-0.0969444820293575,-0.000182758944347926,265.225,TRUE,4305
+"Fed historical tables (nominal), Table 1 89-98",1998,income_group,Less than 20,income,mean,dollars,7865,7864.78878798524,-0.211212014761259,-0.0026854674476956,39.325,TRUE,670
+"Fed historical tables (nominal), Table 1 89-98",1998,income_group,20-39.9,income,mean,dollars,20141,20141.2058428936,0.205842893570662,0.00102200930227229,100.705,TRUE,626
+"Fed historical tables (nominal), Table 1 89-98",1998,income_group,40-59.9,income,mean,dollars,33935,33934.702150034,-0.29784996604576,-0.000877707281702549,169.675,TRUE,668
+"Fed historical tables (nominal), Table 1 89-98",1998,income_group,60-79.9,income,mean,dollars,54262,54262.4878899501,0.487889950061799,0.00089913742593675,271.31,TRUE,657
+"Fed historical tables (nominal), Table 1 89-98",1998,income_group,80-89.9,income,mean,dollars,79492,79491.7405029678,-0.259497032209765,-0.00032644421100207,397.46,TRUE,389
+"Fed historical tables (nominal), Table 1 89-98",1998,income_group,90-100,income,mean,dollars,218499,218499.012697996,0.0126979962806217,0.00000581146654246552,1092.495,TRUE,1295
+"Fed historical tables (nominal), Table 1 89-98",1998,networth_group,Less than 25,income,mean,dollars,20328,20327.5438963691,-0.45610363094238,-0.00224372112820927,101.64,TRUE,886
+"Fed historical tables (nominal), Table 1 89-98",1998,networth_group,25-49.9,income,mean,dollars,33815,33814.9568362857,-0.0431637143192347,-0.000127646648881368,169.075,TRUE,741
+"Fed historical tables (nominal), Table 1 89-98",1998,networth_group,50-74.9,income,mean,dollars,46914,46914.1458480062,0.145848006221058,0.000310883757984948,234.57,TRUE,740
+"Fed historical tables (nominal), Table 1 89-98",1998,networth_group,75-89.9,income,mean,dollars,67384,67384.3133370593,0.313337059298647,0.000465002165645623,336.92,TRUE,558
+"Fed historical tables (nominal), Table 1 89-98",1998,networth_group,90-100,income,mean,dollars,176661,176661.332556668,0.332556668057805,0.000188245661497334,883.305,TRUE,1380
+"Fed historical tables (nominal), Table 1 89-98",1989,all,All families,income,median,dollars,26080,26080.3324099723,0.33240997230314,0.00127457811465928,130.4,TRUE,3143
+"Fed historical tables (nominal), Table 1 89-98",1989,income_group,Less than 20,income,median,dollars,6259,6259.27977839335,0.27977839335199,0.00447001746847722,31.295,TRUE,444
+"Fed historical tables (nominal), Table 1 89-98",1989,income_group,20-39.9,income,median,dollars,14605,14604.9861495845,-0.013850415514753,-0.0000948333825042997,73.025,TRUE,466
+"Fed historical tables (nominal), Table 1 89-98",1989,income_group,40-59.9,income,median,dollars,26080,26080.3324099723,0.33240997230314,0.00127457811465928,130.4,TRUE,491
+"Fed historical tables (nominal), Table 1 89-98",1989,income_group,60-79.9,income,median,dollars,40685,40685.3185595568,0.318559556784749,0.00078299018504301,203.425,TRUE,510
+"Fed historical tables (nominal), Table 1 89-98",1989,income_group,80-89.9,income,median,dollars,59463,59463.1578947368,0.157894736839808,0.000265534427862381,297.315,TRUE,333
+"Fed historical tables (nominal), Table 1 89-98",1989,income_group,90-100,income,median,dollars,104321,104321.329639889,0.329639889212558,0.000315986128595928,521.605,TRUE,899
+"Fed historical tables (nominal), Table 1 89-98",1989,networth_group,Less than 25,income,median,dollars,10432,10432.1329639889,0.132963988917254,0.00127457811462092,52.16,TRUE,510
+"Fed historical tables (nominal), Table 1 89-98",1989,networth_group,25-49.9,income,median,dollars,21907,21907.4792243767,0.47922437672969,0.00218753994946679,109.535,TRUE,564
+"Fed historical tables (nominal), Table 1 89-98",1989,networth_group,50-74.9,income,median,dollars,31296,31296.3988919668,0.398891966760857,0.00127457811464998,156.48,TRUE,634
+"Fed historical tables (nominal), Table 1 89-98",1989,networth_group,75-89.9,income,median,dollars,41729,41728.5318559557,-0.468144044330984,-0.00112186739277477,208.645,TRUE,470
+"Fed historical tables (nominal), Table 1 89-98",1989,networth_group,90-100,income,median,dollars,78241,78240.9972299169,-0.00277008309785742,-0.00000354044950583124,391.205,TRUE,965
+"Fed historical tables (nominal), Table 1 89-98",1992,all,All families,income,median,dollars,26647,26647.4609375,0.4609375,0.00172979134611776,133.235,TRUE,3906
+"Fed historical tables (nominal), Table 1 89-98",1992,income_group,Less than 20,income,median,dollars,6764,6764.35546875,0.35546875,0.00525530381431106,33.82,TRUE,552
+"Fed historical tables (nominal), Table 1 89-98",1992,income_group,20-39.9,income,median,dollars,15374,15373.53515625,-0.464843749998181,-0.0030235706387289,76.87,TRUE,550
+"Fed historical tables (nominal), Table 1 89-98",1992,income_group,40-59.9,income,median,dollars,26647,26647.4609375,0.4609375,0.00172979134611776,133.235,TRUE,590
+"Fed historical tables (nominal), Table 1 89-98",1992,income_group,60-79.9,income,median,dollars,42021,42020.99609375,-0.00390625,-0.00000929594726446301,210.105,TRUE,605
+"Fed historical tables (nominal), Table 1 89-98",1992,income_group,80-89.9,income,median,dollars,63544,63543.9453125,-0.054687499992724,-0.0000860624134343511,317.72,TRUE,372
+"Fed historical tables (nominal), Table 1 89-98",1992,income_group,90-100,income,median,dollars,107615,107614.74609375,-0.25390625,-0.000235939460112438,538.075,TRUE,1237
+"Fed historical tables (nominal), Table 1 89-98",1992,networth_group,Less than 25,income,median,dollars,13324,13323.73046875,-0.26953125,-0.0020229004052837,66.62,TRUE,731
+"Fed historical tables (nominal), Table 1 89-98",1992,networth_group,25-49.9,income,median,dollars,24598,24597.65625,-0.34375,-0.00139747133913326,122.99,TRUE,693
+"Fed historical tables (nominal), Table 1 89-98",1992,networth_group,50-74.9,income,median,dollars,32797,32796.875,-0.125,-0.00038113242064823,163.985,TRUE,662
+"Fed historical tables (nominal), Table 1 89-98",1992,networth_group,75-89.9,income,median,dollars,43046,43045.8984375,-0.1015625,-0.000235939460112438,215.23,TRUE,496
+"Fed historical tables (nominal), Table 1 89-98",1992,networth_group,90-100,income,median,dollars,80967,80967.28515625,0.28515625,0.00035218823718305,404.835,TRUE,1324
+"Fed historical tables (nominal), Table 1 89-98",1995,all,All families,income,median,dollars,30724,30723.7141556668,-0.285844333178829,-0.000930361714551586,153.62,TRUE,4299
+"Fed historical tables (nominal), Table 1 89-98",1995,income_group,Less than 20,income,median,dollars,6862,6861.62949476559,-0.370505234411212,-0.00539937677661341,34.31,TRUE,597
+"Fed historical tables (nominal), Table 1 89-98",1995,income_group,20-39.9,income,median,dollars,17410,17410.1046882112,0.104688211202301,0.000601310805297538,87.05,TRUE,615
+"Fed historical tables (nominal), Table 1 89-98",1995,income_group,40-59.9,income,median,dollars,30724,30723.7141556668,-0.285844333178829,-0.000930361714551586,153.62,TRUE,644
+"Fed historical tables (nominal), Table 1 89-98",1995,income_group,60-79.9,income,median,dollars,45061,45061.4474283113,0.447428311330441,0.000992939152105903,225.305,TRUE,726
+"Fed historical tables (nominal), Table 1 89-98",1995,income_group,80-89.9,income,median,dollars,68616,68616.2949476559,0.294947655900614,0.000429852594002294,343.08,TRUE,430
+"Fed historical tables (nominal), Table 1 89-98",1995,income_group,90-100,income,median,dollars,112654,112653.618570778,-0.381429221655708,-0.000338584712176849,563.27,TRUE,1287
+"Fed historical tables (nominal), Table 1 89-98",1995,networth_group,Less than 25,income,median,dollars,14338,14337.7332726445,-0.266727355485273,-0.00186028285315436,71.69,TRUE,789
+"Fed historical tables (nominal), Table 1 89-98",1995,networth_group,25-49.9,income,median,dollars,28675,28675.466545289,0.466545289029455,0.00162701059818467,143.375,TRUE,755
+"Fed historical tables (nominal), Table 1 89-98",1995,networth_group,50-74.9,income,median,dollars,35844,35844.3331816113,0.333181611298642,0.000929532449778601,179.22,TRUE,729
+"Fed historical tables (nominal), Table 1 89-98",1995,networth_group,75-89.9,income,median,dollars,43013,43013.1998179335,0.199817933542363,0.000464552422621912,215.065,TRUE,554
+"Fed historical tables (nominal), Table 1 89-98",1995,networth_group,90-100,income,median,dollars,80906,80905.7806099226,-0.219390077385469,-0.000271166634595048,404.53,TRUE,1472
+"Fed historical tables (nominal), Table 1 89-98",1998,all,All families,income,median,dollars,33447,33447.4576271187,0.457627118645178,0.00136821574026124,167.235,TRUE,4305
+"Fed historical tables (nominal), Table 1 89-98",1998,income_group,Less than 20,income,median,dollars,8210,8209.83050847458,-0.169491525422927,-0.0020644521975996,41.05,TRUE,670
+"Fed historical tables (nominal), Table 1 89-98",1998,income_group,20-39.9,income,median,dollars,20271,20271.186440678,0.186440677967767,0.000919740900635225,101.355,TRUE,626
+"Fed historical tables (nominal), Table 1 89-98",1998,income_group,40-59.9,income,median,dollars,33447,33447.4576271187,0.457627118645178,0.00136821574026124,167.235,TRUE,668
+"Fed historical tables (nominal), Table 1 89-98",1998,income_group,60-79.9,income,median,dollars,53719,53718.6440677966,-0.355932203390694,-0.000662581588247536,268.595,TRUE,657
+"Fed historical tables (nominal), Table 1 89-98",1998,income_group,80-89.9,income,median,dollars,79058,79057.6271186441,-0.372881355942809,-0.000471655437707517,395.29,TRUE,389
+"Fed historical tables (nominal), Table 1 89-98",1998,income_group,90-100,income,median,dollars,130749,130749.152542373,0.152542372845346,0.00011666809906412,653.745,TRUE,1295
+"Fed historical tables (nominal), Table 1 89-98",1998,networth_group,Less than 25,income,median,dollars,16217,16216.9491525424,-0.050847457625423,-0.000313544167388685,81.085,TRUE,886
+"Fed historical tables (nominal), Table 1 89-98",1998,networth_group,25-49.9,income,median,dollars,30407,30406.779661017,-0.220338983050169,-0.000724632430197551,152.035,TRUE,741
+"Fed historical tables (nominal), Table 1 89-98",1998,networth_group,50-74.9,income,median,dollars,40542,40542.3728813559,0.372881355935533,0.000919740900635225,202.71,TRUE,740
+"Fed historical tables (nominal), Table 1 89-98",1998,networth_group,75-89.9,income,median,dollars,56759,56759.3220338983,0.322033898308291,0.000567370634275253,283.795,TRUE,558
+"Fed historical tables (nominal), Table 1 89-98",1998,networth_group,90-100,income,median,dollars,88180,88179.6610169492,-0.33898305085313,-0.000384421695229225,440.9,TRUE,1380
+"Fed historical tables (nominal), Table 18",1989,all,All families,late60,share_debtors,percent,7.2792,7.27916524668585,-0.0000347533141535905,-0.000477433154104716,0.036396,TRUE,2297
+"Fed historical tables (nominal), Table 18",1989,income_group,Less than 20,late60,share_debtors,percent,17.9258,17.925826292818,0.0000262928179743938,0.000146675841381661,0.089629,TRUE,212
+"Fed historical tables (nominal), Table 18",1989,income_group,20-39.9,late60,share_debtors,percent,12.287,12.2870144452357,0.0000144452357062619,0.000117565196600162,0.061435,TRUE,278
+"Fed historical tables (nominal), Table 18",1989,income_group,40-59.9,late60,share_debtors,percent,4.9312,4.9312177815585,0.0000177815585029606,0.000360592928758935,0.024656,TRUE,367
+"Fed historical tables (nominal), Table 18",1989,income_group,60-79.9,late60,share_debtors,percent,5.9714,5.97144620351641,0.0000462035164057184,0.000773746799841217,0.029857,TRUE,431
+"Fed historical tables (nominal), Table 18",1989,income_group,80-89.9,late60,share_debtors,percent,1.0838,1.08379922463855,-0.000000775361453708712,-0.0000715410088308463,0.005419,TRUE,300
+"Fed historical tables (nominal), Table 18",1989,income_group,90-100,late60,share_debtors,percent,2.3509,2.35088882165675,-0.0000111783432523715,-0.000475492077603111,0.0117545,TRUE,709
+"Fed historical tables (nominal), Table 18",1989,networth_group,Less than 25,late60,share_debtors,percent,17.5749,17.5749147359277,0.0000147359276958525,0.0000838464383629638,0.0878745,TRUE,315
+"Fed historical tables (nominal), Table 18",1989,networth_group,25-49.9,late60,share_debtors,percent,7.6025,7.6024836584635,-0.0000163415365053154,-0.000214949510099513,0.0380125,TRUE,443
+"Fed historical tables (nominal), Table 18",1989,networth_group,50-74.9,late60,share_debtors,percent,3.8161,3.81608464120079,-0.0000153587992075543,-0.000402473708958212,0.0190805,TRUE,485
+"Fed historical tables (nominal), Table 18",1989,networth_group,75-89.9,late60,share_debtors,percent,2.187,2.18697532743486,-0.0000246725651353863,-0.00112814655397285,0.010935,TRUE,358
+"Fed historical tables (nominal), Table 18",1989,networth_group,90-100,late60,share_debtors,percent,1.7495,1.7494626634711,-0.0000373365289032535,-0.0021341256875252,0.0087475,TRUE,696
+"Fed historical tables (nominal), Table 18",1989,age_group,less than 35,late60,share_debtors,percent,11.2303,11.230278193883,-0.0000218061170471628,-0.000194172168572192,0.0561515,TRUE,451
+"Fed historical tables (nominal), Table 18",1989,age_group,35-44,late60,share_debtors,percent,6.3812,6.38122160236953,0.0000216023695287504,0.000338531460050624,0.031906,TRUE,607
+"Fed historical tables (nominal), Table 18",1989,age_group,45-54,late60,share_debtors,percent,4.4539,4.45391997024962,0.0000199702496157528,0.000448376694935961,0.0222695,TRUE,532
+"Fed historical tables (nominal), Table 18",1989,age_group,55-64,late60,share_debtors,percent,7.3676,7.36756878414948,-0.0000312158505249016,-0.00042369089696647,0.036838,TRUE,406
+"Fed historical tables (nominal), Table 18",1989,age_group,65-74,late60,share_debtors,percent,3.3102,3.31022172106348,0.0000217210634789744,0.000656185834057592,0.016551,TRUE,231
+"Fed historical tables (nominal), Table 18",1989,age_group,75 and over,late60,share_debtors,percent,1.1833,1.18325143366749,-0.0000485663325138219,-0.00410431272828716,0.0059165,TRUE,70
+"Fed historical tables (nominal), Table 18",1992,all,All families,late60,share_debtors,percent,5.996,5.99604589931482,0.0000458993148209075,0.000765498912957096,0.02998,TRUE,2838
+"Fed historical tables (nominal), Table 18",1992,income_group,Less than 20,late60,share_debtors,percent,10.9667,10.9667380424232,0.0000380424232044874,0.000346890342623463,0.0548335,TRUE,279
+"Fed historical tables (nominal), Table 18",1992,income_group,20-39.9,late60,share_debtors,percent,9.3486,9.34858324168115,-0.0000167583188481757,-0.000179260197764111,0.046743,TRUE,367
+"Fed historical tables (nominal), Table 18",1992,income_group,40-59.9,late60,share_debtors,percent,6.9092,6.90916726007254,-0.0000327399274597795,-0.000473859889130138,0.034546,TRUE,465
+"Fed historical tables (nominal), Table 18",1992,income_group,60-79.9,late60,share_debtors,percent,4.4064,4.40639199986997,-0.00000800013003132705,-0.000181557054087851,0.022032,TRUE,506
+"Fed historical tables (nominal), Table 18",1992,income_group,80-89.9,late60,share_debtors,percent,1.8493,1.84929210668361,-0.00000789331639050594,-0.000426827253042013,0.0092465,TRUE,315
+"Fed historical tables (nominal), Table 18",1992,income_group,90-100,late60,share_debtors,percent,0.9513,0.951281593803131,-0.0000184061968688809,-0.00193484672226226,0.0047565,TRUE,906
+"Fed historical tables (nominal), Table 18",1992,networth_group,Less than 25,late60,share_debtors,percent,14.3829,14.3828695375091,-0.0000304624909279738,-0.000211796584332602,0.0719145,TRUE,483
+"Fed historical tables (nominal), Table 18",1992,networth_group,25-49.9,late60,share_debtors,percent,5.5329,5.53285495457048,-0.0000450454295206626,-0.000814137785260218,0.0276645,TRUE,549
+"Fed historical tables (nominal), Table 18",1992,networth_group,50-74.9,late60,share_debtors,percent,3.0627,3.06266083748652,-0.0000391625134814611,-0.00127869244396973,0.0153135,TRUE,519
+"Fed historical tables (nominal), Table 18",1992,networth_group,75-89.9,late60,share_debtors,percent,2.2565,2.25650579489986,0.00000579489986352044,0.000256809211766915,0.0112825,TRUE,381
+"Fed historical tables (nominal), Table 18",1992,networth_group,90-100,late60,share_debtors,percent,1.8152,1.81520663240119,0.00000663240119069819,0.000365381290805321,0.009076,TRUE,906
+"Fed historical tables (nominal), Table 18",1992,age_group,less than 35,late60,share_debtors,percent,8.3016,8.30155530395657,-0.0000446960434281607,-0.000538402758843605,0.041508,TRUE,657
+"Fed historical tables (nominal), Table 18",1992,age_group,35-44,late60,share_debtors,percent,6.8339,6.83389917384213,-0.000000826157871003375,-0.0000120891126736325,0.0341695,TRUE,721
+"Fed historical tables (nominal), Table 18",1992,age_group,45-54,late60,share_debtors,percent,5.4101,5.41014294458847,0.0000429445884657653,0.000793785483923871,0.0270505,TRUE,665
+"Fed historical tables (nominal), Table 18",1992,age_group,55-64,late60,share_debtors,percent,4.6885,4.68847944533404,-0.0000205546659595157,-0.00043840601385338,0.0234425,TRUE,395
+"Fed historical tables (nominal), Table 18",1992,age_group,65-74,late60,share_debtors,percent,1.0207,1.02074000614241,0.0000400061424083997,0.00391948098446162,0.0051035,TRUE,300
+"Fed historical tables (nominal), Table 18",1992,age_group,75 and over,late60,share_debtors,percent,1.8443,1.84426051442634,-0.0000394855736634003,-0.00214095177917911,0.0092215,TRUE,100
+"Fed historical tables (nominal), Table 18",1995,all,All families,late60,share_debtors,percent,7.136,7.13596180710927,-0.0000381928907344786,-0.000535214275987649,0.03568,TRUE,3155
+"Fed historical tables (nominal), Table 18",1995,income_group,Less than 20,late60,share_debtors,percent,10.034,10.0340190966873,0.0000190966873159226,0.00019031978588721,0.05017,TRUE,316
+"Fed historical tables (nominal), Table 18",1995,income_group,20-39.9,late60,share_debtors,percent,10.8025,10.8025251691748,0.0000251691748403005,0.000232993981395977,0.0540125,TRUE,437
+"Fed historical tables (nominal), Table 18",1995,income_group,40-59.9,late60,share_debtors,percent,8.7838,8.78375423583001,-0.000045764169991358,-0.000521006511889592,0.043919,TRUE,514
+"Fed historical tables (nominal), Table 18",1995,income_group,60-79.9,late60,share_debtors,percent,6.3949,6.39489584368486,-0.00000415631513739356,-0.0000649942162878788,0.0319745,TRUE,620
+"Fed historical tables (nominal), Table 18",1995,income_group,80-89.9,late60,share_debtors,percent,2.8427,2.84274438711959,0.0000443871195900947,0.00156144227636032,0.0142135,TRUE,358
+"Fed historical tables (nominal), Table 18",1995,income_group,90-100,late60,share_debtors,percent,0.9632,0.963183149875704,-0.0000168501242963082,-0.001749389980929,0.004816,TRUE,910
+"Fed historical tables (nominal), Table 18",1995,networth_group,Less than 25,late60,share_debtors,percent,14.6362,14.6361875712437,-0.0000124287562588421,-0.0000849179176209815,0.073181,TRUE,546
+"Fed historical tables (nominal), Table 18",1995,networth_group,25-49.9,late60,share_debtors,percent,8.3212,8.32123172664585,0.0000317266458544907,0.000381274886488616,0.041606,TRUE,624
+"Fed historical tables (nominal), Table 18",1995,networth_group,50-74.9,late60,share_debtors,percent,4.3884,4.38836708120851,-0.0000329187914918094,-0.000750131972741989,0.021942,TRUE,598
+"Fed historical tables (nominal), Table 18",1995,networth_group,75-89.9,late60,share_debtors,percent,2.5003,2.50029451513605,-0.00000548486394702508,-0.00021936823369296,0.0125015,TRUE,410
+"Fed historical tables (nominal), Table 18",1995,networth_group,90-100,late60,share_debtors,percent,0.7425,0.742508525133765,0.00000852513376492503,0.00114816616362627,0.0037125,TRUE,977
+"Fed historical tables (nominal), Table 18",1995,age_group,less than 35,late60,share_debtors,percent,8.8363,8.83633741579892,0.000037415798923135,0.000423432872617894,0.0441815,TRUE,746
+"Fed historical tables (nominal), Table 18",1995,age_group,35-44,late60,share_debtors,percent,7.7478,7.74783193506823,0.0000319350682280728,0.000412182403108919,0.038739,TRUE,785
+"Fed historical tables (nominal), Table 18",1995,age_group,45-54,late60,share_debtors,percent,7.4372,7.43719630076831,-0.00000369923169074582,-0.0000497395752533994,0.037186,TRUE,767
+"Fed historical tables (nominal), Table 18",1995,age_group,55-64,late60,share_debtors,percent,3.2605,3.26054850066458,0.0000485006645818409,0.00148752229970375,0.0163025,TRUE,475
+"Fed historical tables (nominal), Table 18",1995,age_group,65-74,late60,share_debtors,percent,5.3292,5.32917031575435,-0.0000296842456544155,-0.000557011289769863,0.026646,TRUE,280
+"Fed historical tables (nominal), Table 18",1995,age_group,75 and over,late60,share_debtors,percent,5.443,5.44298654236622,-0.0000134576337771364,-0.00024724662460291,0.027215,TRUE,102
+"Fed historical tables (nominal), Table 18",1998,all,All families,late60,share_debtors,percent,8.1034,8.10335539008378,-0.0000446099162250135,-0.000550508628785615,0.040517,TRUE,3146
+"Fed historical tables (nominal), Table 18",1998,income_group,Less than 20,late60,share_debtors,percent,13.2282,13.2281978084831,-0.00000219151693237052,-0.0000165670078496736,0.066141,TRUE,329
+"Fed historical tables (nominal), Table 18",1998,income_group,20-39.9,late60,share_debtors,percent,12.7863,12.7862575704985,-0.0000424295015477583,-0.000331835648684594,0.0639315,TRUE,421
+"Fed historical tables (nominal), Table 18",1998,income_group,40-59.9,late60,share_debtors,percent,9.5406,9.54063701959022,0.0000370195902199555,0.000388021615201932,0.047703,TRUE,520
+"Fed historical tables (nominal), Table 18",1998,income_group,60-79.9,late60,share_debtors,percent,5.8475,5.84752377454471,0.0000237745447142501,0.000406576224271058,0.0292375,TRUE,566
+"Fed historical tables (nominal), Table 18",1998,income_group,80-89.9,late60,share_debtors,percent,3.7617,3.76167547167834,-0.0000245283216577796,-0.000652054168534961,0.0188085,TRUE,341
+"Fed historical tables (nominal), Table 18",1998,income_group,90-100,late60,share_debtors,percent,1.7793,1.77933154323592,0.0000315432359216938,0.00177278906995413,0.0088965,TRUE,969
+"Fed historical tables (nominal), Table 18",1998,networth_group,Less than 25,late60,share_debtors,percent,16.2691,16.2691232780213,0.0000232780213273998,0.0001430811865893,0.0813455,TRUE,572
+"Fed historical tables (nominal), Table 18",1998,networth_group,25-49.9,late60,share_debtors,percent,9.7953,9.79526301168525,-0.000036988314745301,-0.000377612883171531,0.0489765,TRUE,595
+"Fed historical tables (nominal), Table 18",1998,networth_group,50-74.9,late60,share_debtors,percent,5.469,5.46900353034549,0.00000353034549060993,0.0000645519380254147,0.027345,TRUE,591
+"Fed historical tables (nominal), Table 18",1998,networth_group,75-89.9,late60,share_debtors,percent,1.0157,1.01572042084418,0.0000204208441751952,0.00201051926505811,0.0050785,TRUE,411
+"Fed historical tables (nominal), Table 18",1998,networth_group,90-100,late60,share_debtors,percent,2.4259,2.42590950134934,0.00000950134933619395,0.00039166286063704,0.0121295,TRUE,977
+"Fed historical tables (nominal), Table 18",1998,age_group,less than 35,late60,share_debtors,percent,11.1367,11.1366541093135,-0.0000458906864899689,-0.000412067187676501,0.0556835,TRUE,651
+"Fed historical tables (nominal), Table 18",1998,age_group,35-44,late60,share_debtors,percent,8.3921,8.39208144763399,-0.000018552366009672,-0.000221069410632285,0.0419605,TRUE,806
+"Fed historical tables (nominal), Table 18",1998,age_group,45-54,late60,share_debtors,percent,7.4183,7.41826339073793,-0.0000366092620662783,-0.00049349934710484,0.0370915,TRUE,816
+"Fed historical tables (nominal), Table 18",1998,age_group,55-64,late60,share_debtors,percent,7.5414,7.54135254296177,-0.000047457038226284,-0.000629286846292253,0.037707,TRUE,500
+"Fed historical tables (nominal), Table 18",1998,age_group,65-74,late60,share_debtors,percent,3.1222,3.12218533612658,-0.000014663873423526,-0.000469664769186024,0.015611,TRUE,267
+"Fed historical tables (nominal), Table 18",1998,age_group,75 and over,late60,share_debtors,percent,1.1321,1.13207753798152,-0.0000224620184847701,-0.00198410197727852,0.0056605,TRUE,106
+"Fed historical tables (nominal), Table 18",2001,all,All families,late60,share_debtors,percent,7.0385,7.03851557115484,0.0000155711548419646,0.000221228313446964,0.0351925,TRUE,3244
+"Fed historical tables (nominal), Table 18",2001,income_group,Less than 20,late60,share_debtors,percent,13.3104,13.3103870046867,-0.0000129953133161109,-0.0000976327782494209,0.066552,TRUE,329
+"Fed historical tables (nominal), Table 18",2001,income_group,20-39.9,late60,share_debtors,percent,11.64,11.6400222213274,0.0000222213273968208,0.000190904874543134,0.0582,TRUE,474
+"Fed historical tables (nominal), Table 18",2001,income_group,40-59.9,late60,share_debtors,percent,8.074,8.0739985920807,-0.00000140791930114403,-0.0000174376926076794,0.04037,TRUE,568
+"Fed historical tables (nominal), Table 18",2001,income_group,60-79.9,late60,share_debtors,percent,3.9191,3.91906842664531,-0.0000315733546858432,-0.000805627687118043,0.0195955,TRUE,594
+"Fed historical tables (nominal), Table 18",2001,income_group,80-89.9,late60,share_debtors,percent,2.5568,2.55679458886384,-0.00000541113616270295,-0.000211637052671423,0.012784,TRUE,354
+"Fed historical tables (nominal), Table 18",2001,income_group,90-100,late60,share_debtors,percent,1.3192,1.31921033961001,0.0000103396100119557,0.000783778806242853,0.006596,TRUE,925
+"Fed historical tables (nominal), Table 18",2001,networth_group,Less than 25,late60,share_debtors,percent,17.7549,17.7549034194158,0.00000341941577630678,0.0000192589976643449,0.0887745,TRUE,605
+"Fed historical tables (nominal), Table 18",2001,networth_group,25-49.9,late60,share_debtors,percent,7.122,7.12200038960877,0.000000389608768358585,0.00000547049660711296,0.03561,TRUE,660
+"Fed historical tables (nominal), Table 18",2001,networth_group,50-74.9,late60,share_debtors,percent,3.6017,3.60166058884564,-0.0000394111543595699,-0.0010942375644715,0.0180085,TRUE,640
+"Fed historical tables (nominal), Table 18",2001,networth_group,75-89.9,late60,share_debtors,percent,0.7063,0.70630963393712,0.00000963393711972405,0.00136400072486536,0.0035315,TRUE,401
+"Fed historical tables (nominal), Table 18",2001,networth_group,90-100,late60,share_debtors,percent,0.2705,0.270457453555719,-0.000042546444280589,-0.0157288148911604,0.0013525,TRUE,938
+"Fed historical tables (nominal), Table 18",2001,age_group,less than 35,late60,share_debtors,percent,11.8795,11.8794521765964,-0.0000478234036460634,-0.000402570845962064,0.0593975,TRUE,654
+"Fed historical tables (nominal), Table 18",2001,age_group,35-44,late60,share_debtors,percent,5.86,5.85999442063165,-0.00000557936835487993,-0.0000952110640764494,0.0293,TRUE,800
+"Fed historical tables (nominal), Table 18",2001,age_group,45-54,late60,share_debtors,percent,6.179,6.17896087865117,-0.0000391213488342146,-0.000633133983398844,0.030895,TRUE,875
+"Fed historical tables (nominal), Table 18",2001,age_group,55-64,late60,share_debtors,percent,7.0375,7.03747890443193,-0.0000210955680746139,-0.000299759404257391,0.0351875,TRUE,525
+"Fed historical tables (nominal), Table 18",2001,age_group,65-74,late60,share_debtors,percent,1.4633,1.46334394876502,0.000043948765021673,0.00300340087621629,0.0073165,TRUE,269
+"Fed historical tables (nominal), Table 18",2001,age_group,75 and over,late60,share_debtors,percent,0.8495,0.849542871363512,0.0000428713635122202,0.00504665844758331,0.0042475,TRUE,121
+"Fed historical tables (nominal), Table 18",2004,all,All families,late60,share_debtors,percent,8.9256,8.9256426909296,0.0000426909296038502,0.000478297589000742,0.044628,TRUE,3342
+"Fed historical tables (nominal), Table 18",2004,income_group,Less than 20,late60,share_debtors,percent,16.5461,16.546054901842,-0.0000450981580151222,-0.000272560651846188,0.0827305,TRUE,360
+"Fed historical tables (nominal), Table 18",2004,income_group,20-39.9,late60,share_debtors,percent,13.57,13.5699550345931,-0.0000449654068610528,-0.000331358930442541,0.06785,TRUE,480
+"Fed historical tables (nominal), Table 18",2004,income_group,40-59.9,late60,share_debtors,percent,10.093,10.0930388602322,0.0000388602322463072,0.000385021621384199,0.050465,TRUE,571
+"Fed historical tables (nominal), Table 18",2004,income_group,60-79.9,late60,share_debtors,percent,7.2115,7.21148126293708,-0.000018737062922547,-0.000259821991576606,0.0360575,TRUE,624
+"Fed historical tables (nominal), Table 18",2004,income_group,80-89.9,late60,share_debtors,percent,2.3079,2.30785481211494,-0.0000451878850604714,-0.00195796546906155,0.0115395,TRUE,354
+"Fed historical tables (nominal), Table 18",2004,income_group,90-100,late60,share_debtors,percent,0.344,0.344001002028135,0.00000100202813546613,0.000291287248682014,0.00172,TRUE,953
+"Fed historical tables (nominal), Table 18",2004,networth_group,Less than 25,late60,share_debtors,percent,22.9929,22.9928991189124,-0.000000881087640181022,-0.00000383199874822672,0.1149645,TRUE,605
+"Fed historical tables (nominal), Table 18",2004,networth_group,25-49.9,late60,share_debtors,percent,11.0559,11.0558517724498,-0.0000482275502058371,-0.000436215506705353,0.0552795,TRUE,680
+"Fed historical tables (nominal), Table 18",2004,networth_group,50-74.9,late60,share_debtors,percent,3.1977,3.19768505840324,-0.0000149415967576338,-0.000467260742334611,0.0159885,TRUE,669
+"Fed historical tables (nominal), Table 18",2004,networth_group,75-89.9,late60,share_debtors,percent,0.9253,0.92527834149546,-0.0000216585045405004,-0.00234070080411763,0.0046265,TRUE,438
+"Fed historical tables (nominal), Table 18",2004,networth_group,90-100,late60,share_debtors,percent,0.1181,0.118130430859466,0.0000304308594662045,0.0257670274904356,0.0005905,TRUE,950
+"Fed historical tables (nominal), Table 18",2004,age_group,less than 35,late60,share_debtors,percent,13.7108,13.7108234615277,0.0000234615276593075,0.000171117131453362,0.068554,TRUE,589
+"Fed historical tables (nominal), Table 18",2004,age_group,35-44,late60,share_debtors,percent,11.721,11.7210400563121,0.0000400563120521724,0.000341748247181746,0.058605,TRUE,759
+"Fed historical tables (nominal), Table 18",2004,age_group,45-54,late60,share_debtors,percent,7.6032,7.60324197881856,0.0000419788185617165,0.00055212040406298,0.038016,TRUE,902
+"Fed historical tables (nominal), Table 18",2004,age_group,55-64,late60,share_debtors,percent,4.1761,4.1761227031674,0.0000227031673976086,0.000543645204798941,0.0208805,TRUE,669
+"Fed historical tables (nominal), Table 18",2004,age_group,65-74,late60,share_debtors,percent,3.3574,3.35743908116006,0.0000390811600579077,0.00116403050151628,0.016787,TRUE,288
+"Fed historical tables (nominal), Table 18",2004,age_group,75 and over,late60,share_debtors,percent,3.8506,3.85064145659991,0.000041456599908507,0.00107662701678977,0.019253,TRUE,135
+"Fed historical tables (nominal), Table 18",2007,all,All families,late60,share_debtors,percent,7.1476,7.14759994153531,-0.0000000584646944190581,-0.00000081796259470393,0.035738,TRUE,3325
+"Fed historical tables (nominal), Table 18",2007,income_group,Less than 20,late60,share_debtors,percent,15.0813,15.081318869153,0.0000188691529583451,0.00012511622312629,0.0754065,TRUE,340
+"Fed historical tables (nominal), Table 18",2007,income_group,20-39.9,late60,share_debtors,percent,11.3382,11.3381648743903,-0.000035125609695541,-0.000309798818997204,0.056691,TRUE,450
+"Fed historical tables (nominal), Table 18",2007,income_group,40-59.9,late60,share_debtors,percent,8.32,8.31996204203592,-0.0000379579640856775,-0.000456225529875932,0.0416,TRUE,539
+"Fed historical tables (nominal), Table 18",2007,income_group,60-79.9,late60,share_debtors,percent,4.2714,4.2714336985087,0.0000336985086981656,0.000788933574429124,0.021357,TRUE,618
+"Fed historical tables (nominal), Table 18",2007,income_group,80-89.9,late60,share_debtors,percent,1.9155,1.91545251171583,-0.0000474882841696722,-0.00247915866195104,0.0095775,TRUE,359
+"Fed historical tables (nominal), Table 18",2007,income_group,90-100,late60,share_debtors,percent,0.1653,0.165348608095263,0.0000486080952633305,0.029405986245209,0.0008265,TRUE,1019
+"Fed historical tables (nominal), Table 18",2007,networth_group,Less than 25,late60,share_debtors,percent,16.8492,16.8491507948475,-0.0000492051525284865,-0.000292032574415916,0.084246,TRUE,572
+"Fed historical tables (nominal), Table 18",2007,networth_group,25-49.9,late60,share_debtors,percent,7.6471,7.64711497259758,0.0000149725975822079,0.000195794452566436,0.0382355,TRUE,634
+"Fed historical tables (nominal), Table 18",2007,networth_group,50-74.9,late60,share_debtors,percent,4.2077,4.20767513531116,-0.000024864688842996,-0.000590933023813389,0.0210385,TRUE,637
+"Fed historical tables (nominal), Table 18",2007,networth_group,75-89.9,late60,share_debtors,percent,1.1583,1.158342976481,0.0000429764809994904,0.00371030656992924,0.0057915,TRUE,436
+"Fed historical tables (nominal), Table 18",2007,networth_group,90-100,late60,share_debtors,percent,0.7436,0.743639760559807,0.0000397605598064787,0.00534703601485728,0.003718,TRUE,1046
+"Fed historical tables (nominal), Table 18",2007,age_group,less than 35,late60,share_debtors,percent,9.4389,9.43888209849607,-0.0000179015039307728,-0.000189656675362307,0.0471945,TRUE,581
+"Fed historical tables (nominal), Table 18",2007,age_group,35-44,late60,share_debtors,percent,8.6158,8.61584700650369,0.000047006503693936,0.000545584898604146,0.043079,TRUE,693
+"Fed historical tables (nominal), Table 18",2007,age_group,45-54,late60,share_debtors,percent,7.3481,7.34807154492431,-0.0000284550756877167,-0.000387243990796487,0.0367405,TRUE,842
+"Fed historical tables (nominal), Table 18",2007,age_group,55-64,late60,share_debtors,percent,4.9184,4.91842144740328,0.0000214474032809164,0.00043606464055214,0.024592,TRUE,732
+"Fed historical tables (nominal), Table 18",2007,age_group,65-74,late60,share_debtors,percent,4.4483,4.44828869362085,-0.0000113063791467027,-0.000254173035692349,0.0222415,TRUE,339
+"Fed historical tables (nominal), Table 18",2007,age_group,75 and over,late60,share_debtors,percent,0.989,0.989038520250658,0.0000385202506584248,0.00389486862066985,0.004945,TRUE,138
+"Fed historical tables (nominal), Table 18",2010,all,All families,late60,share_debtors,percent,10.849,10.8490233686741,0.0000233686740589434,0.000215399336887671,0.054245,TRUE,4752
+"Fed historical tables (nominal), Table 18",2010,income_group,Less than 20,late60,share_debtors,percent,21.1211,21.1210579505051,-0.0000420494948691896,-0.00019908761792326,0.1056055,TRUE,634
+"Fed historical tables (nominal), Table 18",2010,income_group,20-39.9,late60,share_debtors,percent,15.2094,15.2094448095272,0.0000448095272034266,0.00029461732351984,0.076047,TRUE,720
+"Fed historical tables (nominal), Table 18",2010,income_group,40-59.9,late60,share_debtors,percent,10.3758,10.3757690788031,-0.0000309211968616552,-0.000298012653112581,0.051879,TRUE,883
+"Fed historical tables (nominal), Table 18",2010,income_group,60-79.9,late60,share_debtors,percent,8.8309,8.83088155728636,-0.0000184427136371568,-0.000208842967728734,0.0441545,TRUE,963
+"Fed historical tables (nominal), Table 18",2010,income_group,80-89.9,late60,share_debtors,percent,5.3,5.29996427086104,-0.0000357291389567749,-0.000674134697297639,0.0265,TRUE,539
+"Fed historical tables (nominal), Table 18",2010,income_group,90-100,late60,share_debtors,percent,2.1136,2.11355449716797,-0.0000455028320303086,-0.00215285919901157,0.010568,TRUE,1013
+"Fed historical tables (nominal), Table 18",2010,networth_group,Less than 25,late60,share_debtors,percent,22.2073,22.2072845512118,-0.0000154487881616205,-0.0000695662604711988,0.1110365,TRUE,1024
+"Fed historical tables (nominal), Table 18",2010,networth_group,25-49.9,late60,share_debtors,percent,13.3592,13.3592134065579,0.0000134065578603071,0.000100354496229618,0.066796,TRUE,1041
+"Fed historical tables (nominal), Table 18",2010,networth_group,50-74.9,late60,share_debtors,percent,6.6996,6.69964044038822,0.0000404403882159343,0.000603623921068934,0.033498,TRUE,1004
+"Fed historical tables (nominal), Table 18",2010,networth_group,75-89.9,late60,share_debtors,percent,2.0795,2.07954850931227,0.0000485093122724045,0.00233273922925725,0.0103975,TRUE,726
+"Fed historical tables (nominal), Table 18",2010,networth_group,90-100,late60,share_debtors,percent,1.2438,1.24380291422058,0.00000291422057951962,0.000234299773236824,0.006219,TRUE,957
+"Fed historical tables (nominal), Table 18",2010,age_group,less than 35,late60,share_debtors,percent,10.4368,10.4367901572198,-0.00000984278018556495,-0.0000943084104856369,0.052184,TRUE,893
+"Fed historical tables (nominal), Table 18",2010,age_group,35-44,late60,share_debtors,percent,15.7561,15.7561253227739,0.000025322773870684,0.000160717270585259,0.0787805,TRUE,981
+"Fed historical tables (nominal), Table 18",2010,age_group,45-54,late60,share_debtors,percent,12.575,12.575038314828,0.0000383148280462819,0.000304690481481367,0.062875,TRUE,1207
+"Fed historical tables (nominal), Table 18",2010,age_group,55-64,late60,share_debtors,percent,8.4189,8.41887742265698,-0.0000225773430244658,-0.000268174500522227,0.0420945,TRUE,1019
+"Fed historical tables (nominal), Table 18",2010,age_group,65-74,late60,share_debtors,percent,6.0676,6.06760514723714,0.00000514723714140075,0.0000848315172621918,0.030338,TRUE,466
+"Fed historical tables (nominal), Table 18",2010,age_group,75 and over,late60,share_debtors,percent,3.1903,3.1903245682516,0.0000245682515962464,0.000770092204377219,0.0159515,TRUE,186
+"Fed historical tables (nominal), Table 18",2013,all,All families,late60,share_debtors,percent,9.311,9.31099494983645,-0.00000505016355489829,-0.0000542386806454547,0.046555,TRUE,4368
+"Fed historical tables (nominal), Table 18",2013,income_group,Less than 20,late60,share_debtors,percent,16.441,16.4410005240038,0.000000524003844759591,0.00000318717745124743,0.082205,TRUE,533
+"Fed historical tables (nominal), Table 18",2013,income_group,20-39.9,late60,share_debtors,percent,14.0708,14.0707583806413,-0.0000416193586989522,-0.000295785305021407,0.070354,TRUE,645
+"Fed historical tables (nominal), Table 18",2013,income_group,40-59.9,late60,share_debtors,percent,10.0294,10.0293736846771,-0.0000263153228701185,-0.000262381826132356,0.050147,TRUE,807
+"Fed historical tables (nominal), Table 18",2013,income_group,60-79.9,late60,share_debtors,percent,7.2781,7.27806394290283,-0.0000360570971684737,-0.000495419095209927,0.0363905,TRUE,895
+"Fed historical tables (nominal), Table 18",2013,income_group,80-89.9,late60,share_debtors,percent,4.2568,4.25678752442818,-0.0000124755718218239,-0.00029307394807893,0.021284,TRUE,481
+"Fed historical tables (nominal), Table 18",2013,income_group,90-100,late60,share_debtors,percent,1.0433,1.04332994444826,0.0000299444482552147,0.00287016661125416,0.0052165,TRUE,1007
+"Fed historical tables (nominal), Table 18",2013,networth_group,Less than 25,late60,share_debtors,percent,20.9653,20.9653475600269,0.0000475600268501353,0.000226851162874537,0.1048265,TRUE,928
+"Fed historical tables (nominal), Table 18",2013,networth_group,25-49.9,late60,share_debtors,percent,10.4348,10.4347972036707,-0.0000027963292552613,-0.0000267981106994029,0.052174,TRUE,922
+"Fed historical tables (nominal), Table 18",2013,networth_group,50-74.9,late60,share_debtors,percent,5.0372,5.03719073254852,-0.00000926745147822317,-0.00018398021675183,0.025186,TRUE,906
+"Fed historical tables (nominal), Table 18",2013,networth_group,75-89.9,late60,share_debtors,percent,1.7863,1.78634966001214,0.0000496600121355773,0.00278004882357819,0.0089315,TRUE,625
+"Fed historical tables (nominal), Table 18",2013,networth_group,90-100,late60,share_debtors,percent,1.0329,1.03285137927344,-0.0000486207265617544,-0.00470720559219232,0.0051645,TRUE,987
+"Fed historical tables (nominal), Table 18",2013,age_group,less than 35,late60,share_debtors,percent,11.6396,11.6395876290848,-0.0000123709151722551,-0.000106282992304332,0.058198,TRUE,776
+"Fed historical tables (nominal), Table 18",2013,age_group,35-44,late60,share_debtors,percent,11.4129,11.4129306112082,0.0000306112081513987,0.000268215862325953,0.0570645,TRUE,862
+"Fed historical tables (nominal), Table 18",2013,age_group,45-54,late60,share_debtors,percent,12.0003,12.0003290267632,0.0000290267631548602,0.000241883645866022,0.0600015,TRUE,1058
+"Fed historical tables (nominal), Table 18",2013,age_group,55-64,late60,share_debtors,percent,6.4106,6.41064836604658,0.0000483660465757652,0.000754469886995994,0.032053,TRUE,962
+"Fed historical tables (nominal), Table 18",2013,age_group,65-74,late60,share_debtors,percent,4.6977,4.69772667249482,0.0000266724948190245,0.000567777738446994,0.0234885,TRUE,505
+"Fed historical tables (nominal), Table 18",2013,age_group,75 and over,late60,share_debtors,percent,2.6935,2.69351723937366,0.0000172393736561638,0.000640036148363237,0.0134675,TRUE,205
+"Fed historical tables (nominal), Table 18",2016,all,All families,late60,share_debtors,percent,7.5462,7.54618044802288,-0.0000195519771164498,-0.000259096990756273,0.037731,TRUE,4667
+"Fed historical tables (nominal), Table 18",2016,income_group,Less than 20,late60,share_debtors,percent,14.0453,14.0452650547879,-0.0000349452121035654,-0.000248803600518076,0.0702265,TRUE,602
+"Fed historical tables (nominal), Table 18",2016,income_group,20-39.9,late60,share_debtors,percent,10.9895,10.9895394791608,0.0000394791607742917,0.000359244376671293,0.0549475,TRUE,714
+"Fed historical tables (nominal), Table 18",2016,income_group,40-59.9,late60,share_debtors,percent,9.2856,9.2855807505668,-0.0000192494332047488,-0.0002073041397944,0.046428,TRUE,852
+"Fed historical tables (nominal), Table 18",2016,income_group,60-79.9,late60,share_debtors,percent,4.4364,4.43637629254017,-0.0000237074598343767,-0.000534385083274203,0.022182,TRUE,965
+"Fed historical tables (nominal), Table 18",2016,income_group,80-89.9,late60,share_debtors,percent,2.6308,2.63081057849664,0.0000105784966395461,0.000402101894463514,0.013154,TRUE,537
+"Fed historical tables (nominal), Table 18",2016,income_group,90-100,late60,share_debtors,percent,0.8154,0.815356739768512,-0.0000432602314880404,-0.00530539998626936,0.004077,TRUE,997
+"Fed historical tables (nominal), Table 18",2016,networth_group,Less than 25,late60,share_debtors,percent,16.7222,16.7222475218005,0.0000475218004964972,0.000284183902216797,0.083611,TRUE,964
+"Fed historical tables (nominal), Table 18",2016,networth_group,25-49.9,late60,share_debtors,percent,8.8729,8.87293239910439,0.0000323991043913452,0.000365146732086975,0.0443645,TRUE,973
+"Fed historical tables (nominal), Table 18",2016,networth_group,50-74.9,late60,share_debtors,percent,3.9168,3.9168129175561,0.0000129175561047745,0.000329798715910297,0.019584,TRUE,990
+"Fed historical tables (nominal), Table 18",2016,networth_group,75-89.9,late60,share_debtors,percent,1.8905,1.89052126512079,0.0000212651207873726,0.00112484108899088,0.0094525,TRUE,767
+"Fed historical tables (nominal), Table 18",2016,networth_group,90-100,late60,share_debtors,percent,0.3693,0.369254360996663,-0.0000456390033367615,-0.0123582462325376,0.0018465,TRUE,973
+"Fed historical tables (nominal), Table 18",2016,age_group,less than 35,late60,share_debtors,percent,10.6456,10.6455889709429,-0.0000110290571058158,-0.000103602024365144,0.053228,TRUE,802
+"Fed historical tables (nominal), Table 18",2016,age_group,35-44,late60,share_debtors,percent,10.4705,10.4705413686999,0.0000413686999216623,0.000395097654569144,0.0523525,TRUE,872
+"Fed historical tables (nominal), Table 18",2016,age_group,45-54,late60,share_debtors,percent,6.9445,6.94453169594979,0.0000316959497936864,0.000456418025684879,0.0347225,TRUE,1038
+"Fed historical tables (nominal), Table 18",2016,age_group,55-64,late60,share_debtors,percent,5.7109,5.71094988853037,0.0000498885303672481,0.000873566869797196,0.0285545,TRUE,1065
+"Fed historical tables (nominal), Table 18",2016,age_group,65-74,late60,share_debtors,percent,4.5238,4.52377110933053,-0.0000288906694700941,-0.000638637195943546,0.022619,TRUE,617
+"Fed historical tables (nominal), Table 18",2016,age_group,75 and over,late60,share_debtors,percent,2.7676,2.76755438641234,-0.0000456135876647501,-0.00164812789654394,0.013838,TRUE,273
+"Fed historical tables (nominal), Table 18",2019,all,All families,late60,share_debtors,percent,6.0283,6.02825975757724,-0.0000402424227576859,-0.000667558395529185,0.0301415,TRUE,4257
+"Fed historical tables (nominal), Table 18",2019,income_group,Less than 20,late60,share_debtors,percent,11.0459,11.0458544193627,-0.0000455806372734458,-0.000412647564014211,0.0552295,TRUE,523
+"Fed historical tables (nominal), Table 18",2019,income_group,20-39.9,late60,share_debtors,percent,9.3575,9.35753353916208,0.000033539162080487,0.000358420113069591,0.0467875,TRUE,637
+"Fed historical tables (nominal), Table 18",2019,income_group,40-59.9,late60,share_debtors,percent,6.8503,6.85030544151156,0.00000544151155779105,0.0000794346460416485,0.0342515,TRUE,751
+"Fed historical tables (nominal), Table 18",2019,income_group,60-79.9,late60,share_debtors,percent,3.7018,3.70180804260177,0.00000804260176900939,0.000217261920390334,0.018509,TRUE,850
+"Fed historical tables (nominal), Table 18",2019,income_group,80-89.9,late60,share_debtors,percent,3.1875,3.18753190267816,0.0000319026781632203,0.0010008683345324,0.0159375,TRUE,494
+"Fed historical tables (nominal), Table 18",2019,income_group,90-100,late60,share_debtors,percent,0.2254,0.225417425543751,0.000017425543750671,0.00773094221413973,0.001127,TRUE,1002
+"Fed historical tables (nominal), Table 18",2019,networth_group,Less than 25,late60,share_debtors,percent,13.8173,13.8172609952894,-0.0000390047105565117,-0.000282288946150924,0.0690865,TRUE,847
+"Fed historical tables (nominal), Table 18",2019,networth_group,25-49.9,late60,share_debtors,percent,7.2097,7.20965402300906,-0.0000459769909380015,-0.000637710181255828,0.0360485,TRUE,869
+"Fed historical tables (nominal), Table 18",2019,networth_group,50-74.9,late60,share_debtors,percent,2.8001,2.80008593674683,-0.0000140632531726581,-0.000502241104698336,0.0140005,TRUE,897
+"Fed historical tables (nominal), Table 18",2019,networth_group,75-89.9,late60,share_debtors,percent,1.5592,1.55922637576969,0.0000263757696927769,0.00169162196592976,0.007796,TRUE,632
+"Fed historical tables (nominal), Table 18",2019,networth_group,90-100,late60,share_debtors,percent,0.4204,0.420371057957714,-0.0000289420422865394,-0.00688440587215495,0.002102,TRUE,1012
+"Fed historical tables (nominal), Table 18",2019,age_group,less than 35,late60,share_debtors,percent,8.6253,8.6252760226204,-0.0000239773795982501,-0.000277988934857339,0.0431265,TRUE,675
+"Fed historical tables (nominal), Table 18",2019,age_group,35-44,late60,share_debtors,percent,8.0016,8.00159356492511,-0.00000643507488540251,-0.000080422351597212,0.040008,TRUE,811
+"Fed historical tables (nominal), Table 18",2019,age_group,45-54,late60,share_debtors,percent,7.1985,7.19852561928829,0.0000256192882899242,0.000355897593803212,0.0359925,TRUE,940
+"Fed historical tables (nominal), Table 18",2019,age_group,55-64,late60,share_debtors,percent,3.9234,3.92337263267127,-0.0000273673287263243,-0.00069754113081318,0.019617,TRUE,933
+"Fed historical tables (nominal), Table 18",2019,age_group,65-74,late60,share_debtors,percent,2.4831,2.48313462719009,0.0000346271900948381,0.00139451452196199,0.0124155,TRUE,638
+"Fed historical tables (nominal), Table 18",2019,age_group,75 and over,late60,share_debtors,percent,2.5871,2.5870677117981,-0.000032288201901931,-0.00124804614827146,0.0129355,TRUE,260
+"Fed historical tables (nominal), Table 18",2022,all,All families,late60,share_debtors,percent,6.3246,6.32457420423429,-0.000025795765714598,-0.000407863986886095,0.031623,TRUE,3372
+"Fed historical tables (nominal), Table 18",2022,income_group,Less than 20,late60,share_debtors,percent,15.8979,15.8978645144529,-0.0000354855471158544,-0.000223209022046021,0.0794895,TRUE,457
+"Fed historical tables (nominal), Table 18",2022,income_group,20-39.9,late60,share_debtors,percent,8.3321,8.33207299464056,-0.0000270053594366715,-0.000324112281857773,0.0416605,TRUE,559
+"Fed historical tables (nominal), Table 18",2022,income_group,40-59.9,late60,share_debtors,percent,5.5718,5.57182563955069,0.0000256395506905704,0.000460166385917844,0.027859,TRUE,585
+"Fed historical tables (nominal), Table 18",2022,income_group,60-79.9,late60,share_debtors,percent,4.4417,4.4417177634564,0.0000177634564000329,0.000399924722516893,0.0222085,TRUE,603
+"Fed historical tables (nominal), Table 18",2022,income_group,80-89.9,late60,share_debtors,percent,1.0124,1.01239083603299,-0.00000916396700656463,-0.000905172560901287,0.005062,TRUE,375
+"Fed historical tables (nominal), Table 18",2022,income_group,90-100,late60,share_debtors,percent,0.1992,0.199181904615907,-0.0000180953840928921,-0.0090840281590824,0.000996,TRUE,793
+"Fed historical tables (nominal), Table 18",2022,networth_group,Less than 25,late60,share_debtors,percent,14.7174,14.7174334046525,0.0000334046525445331,0.00022697387136677,0.073587,TRUE,755
+"Fed historical tables (nominal), Table 18",2022,networth_group,25-49.9,late60,share_debtors,percent,7.3522,7.35216864805696,-0.0000313519430372722,-0.000426429409391368,0.036761,TRUE,642
+"Fed historical tables (nominal), Table 18",2022,networth_group,50-74.9,late60,share_debtors,percent,2.7901,2.79008187141967,-0.0000181285803342313,-0.000649746616043556,0.0139505,TRUE,695
+"Fed historical tables (nominal), Table 18",2022,networth_group,75-89.9,late60,share_debtors,percent,0.6669,0.666913052988581,0.0000130529885810082,0.00195726324501548,0.0033345,TRUE,507
+"Fed historical tables (nominal), Table 18",2022,networth_group,90-100,late60,share_debtors,percent,0.3411,0.341079642897945,-0.0000203571020555016,-0.00596807448123763,0.0017055,TRUE,773
+"Fed historical tables (nominal), Table 18",2022,age_group,less than 35,late60,share_debtors,percent,9.0705,9.07054484360192,0.0000448436019233611,0.000494389525642039,0.0453525,TRUE,504
+"Fed historical tables (nominal), Table 18",2022,age_group,35-44,late60,share_debtors,percent,6.6146,6.61458455159032,-0.0000154484096830387,-0.000233550172089601,0.033073,TRUE,643
+"Fed historical tables (nominal), Table 18",2022,age_group,45-54,late60,share_debtors,percent,6.5286,6.52863726448912,0.0000372644891202256,0.000570788363818056,0.032643,TRUE,694
+"Fed historical tables (nominal), Table 18",2022,age_group,55-64,late60,share_debtors,percent,6.1625,6.16249959191308,-0.000000408086922476514,-0.00000662210016189069,0.0308125,TRUE,749
+"Fed historical tables (nominal), Table 18",2022,age_group,65-74,late60,share_debtors,percent,3.5986,3.59855921180555,-0.0000407881944477495,-0.00113344618595425,0.017993,TRUE,541
+"Fed historical tables (nominal), Table 18",2022,age_group,75 and over,late60,share_debtors,percent,2.6208,2.62081261918795,0.0000126191879501469,0.000481501371724166,0.013104,TRUE,241
+"Fed historical tables (nominal), Table 18",2025,all,All families,late60,share_debtors,percent,10.7138,10.7137910147718,-0.00000898522815262481,-0.0000838659313467193,0.053569,TRUE,3245
+"Fed historical tables (nominal), Table 18",2025,income_group,Less than 20,late60,share_debtors,percent,25.3096,25.3095923708292,-0.00000762917081686965,-0.0000301433875559853,0.126548,TRUE,405
+"Fed historical tables (nominal), Table 18",2025,income_group,20-39.9,late60,share_debtors,percent,15.1653,15.1653260606636,0.0000260606636270921,0.000171844036234642,0.0758265,TRUE,577
+"Fed historical tables (nominal), Table 18",2025,income_group,40-59.9,late60,share_debtors,percent,11.817,11.8170391871362,0.0000391871362239726,0.000331616622018893,0.059085,TRUE,567
+"Fed historical tables (nominal), Table 18",2025,income_group,60-79.9,late60,share_debtors,percent,5.8008,5.80075507216267,-0.0000449278373304551,-0.000774511055896689,0.029004,TRUE,610
+"Fed historical tables (nominal), Table 18",2025,income_group,80-89.9,late60,share_debtors,percent,1.7292,1.72920934519904,0.00000934519904394193,0.000540434827893935,0.008646,TRUE,335
+"Fed historical tables (nominal), Table 18",2025,income_group,90-100,late60,share_debtors,percent,0.6308,0.630829879735209,0.0000298797352092928,0.00473680012829625,0.003154,TRUE,751
+"Fed historical tables (nominal), Table 18",2025,networth_group,Less than 25,late60,share_debtors,percent,25.0682,25.0682063617102,0.00000636171023060683,0.0000253776108001645,0.125341,TRUE,702
+"Fed historical tables (nominal), Table 18",2025,networth_group,25-49.9,late60,share_debtors,percent,12.8177,12.817685226963,-0.0000147730370461119,-0.000115254975901385,0.0640885,TRUE,659
+"Fed historical tables (nominal), Table 18",2025,networth_group,50-74.9,late60,share_debtors,percent,5.2774,5.27736329538292,-0.0000367046170817176,-0.000695505686165869,0.026387,TRUE,701
+"Fed historical tables (nominal), Table 18",2025,networth_group,75-89.9,late60,share_debtors,percent,1.7845,1.78447368855836,-0.0000263114416434451,-0.00147444335351332,0.0089225,TRUE,478
+"Fed historical tables (nominal), Table 18",2025,networth_group,90-100,late60,share_debtors,percent,0.2603,0.260323944802594,0.0000239448025937672,0.00919892531454752,0.0013015,TRUE,705
+"Fed historical tables (nominal), Table 18",2025,age_group,less than 35,late60,share_debtors,percent,13.1166,13.1166347436792,0.0000347436791781064,0.00026488327141261,0.065583,TRUE,499
+"Fed historical tables (nominal), Table 18",2025,age_group,35-44,late60,share_debtors,percent,13.139,13.139046137333,0.0000461373329603276,0.000351147978996329,0.065695,TRUE,661
+"Fed historical tables (nominal), Table 18",2025,age_group,45-54,late60,share_debtors,percent,12.5896,12.5896480784731,0.0000480784731280437,0.000381890394675317,0.062948,TRUE,711
+"Fed historical tables (nominal), Table 18",2025,age_group,55-64,late60,share_debtors,percent,8.9654,8.96542940826002,0.000029408260017405,0.000328019497372176,0.044827,TRUE,636
+"Fed historical tables (nominal), Table 18",2025,age_group,65-74,late60,share_debtors,percent,7.3288,7.32880310928593,0.00000310928593005855,0.0000424255803140834,0.036644,TRUE,496
+"Fed historical tables (nominal), Table 18",2025,age_group,75 and over,late60,share_debtors,percent,5.1437,5.14371214807446,0.0000121480744601499,0.000236173852677059,0.0257185,TRUE,242
+"Fed historical tables (nominal), Table 18",1989,all,All families,pir40,share_debtors,percent,10.0457,10.0456676369041,-0.0000323630959311316,-0.000322158694079374,0.0502285,TRUE,2297
+"Fed historical tables (nominal), Table 18",1989,income_group,Less than 20,pir40,share_debtors,percent,25.898,25.8980128598157,0.0000128598156727833,0.0000496556323761807,0.12949,TRUE,212
+"Fed historical tables (nominal), Table 18",1989,income_group,20-39.9,pir40,share_debtors,percent,14.672,14.6719696292662,-0.0000303707337820924,-0.000206997912909572,0.07336,TRUE,278
+"Fed historical tables (nominal), Table 18",1989,income_group,40-59.9,pir40,share_debtors,percent,11.0889,11.0888936613362,-0.00000633866380717052,-0.000057162241585464,0.0554445,TRUE,367
+"Fed historical tables (nominal), Table 18",1989,income_group,60-79.9,pir40,share_debtors,percent,5.3611,5.36106006983522,-0.0000399301647782124,-0.000744812907392372,0.0268055,TRUE,431
+"Fed historical tables (nominal), Table 18",1989,income_group,80-89.9,pir40,share_debtors,percent,2.2823,2.28229776743274,-0.00000223256726172849,-0.0000978209377263502,0.0114115,TRUE,300
+"Fed historical tables (nominal), Table 18",1989,income_group,90-100,pir40,share_debtors,percent,2.2973,2.29733657503446,0.0000365750344579752,0.00159208786218496,0.0114865,TRUE,709
+"Fed historical tables (nominal), Table 18",1989,networth_group,Less than 25,pir40,share_debtors,percent,8.2872,8.28724548807374,0.0000454880737414953,0.00054889557077777,0.041436,TRUE,315
+"Fed historical tables (nominal), Table 18",1989,networth_group,25-49.9,pir40,share_debtors,percent,12.1483,12.1482992296379,-0.000000770362152735515,-0.00000634131650301289,0.0607415,TRUE,443
+"Fed historical tables (nominal), Table 18",1989,networth_group,50-74.9,pir40,share_debtors,percent,10.9484,10.9483874478716,-0.0000125521283536045,-0.000114648061393487,0.054742,TRUE,485
+"Fed historical tables (nominal), Table 18",1989,networth_group,75-89.9,pir40,share_debtors,percent,8.9752,8.97522437252507,0.0000243725250701488,0.000271554116567305,0.044876,TRUE,358
+"Fed historical tables (nominal), Table 18",1989,networth_group,90-100,pir40,share_debtors,percent,7.1809,7.18090762515128,0.00000762515127483709,0.000106186568185563,0.0359045,TRUE,696
+"Fed historical tables (nominal), Table 18",1989,age_group,less than 35,pir40,share_debtors,percent,12.2673,12.2672921995673,-0.00000780043271575437,-0.0000635872010609863,0.0613365,TRUE,451
+"Fed historical tables (nominal), Table 18",1989,age_group,35-44,pir40,share_debtors,percent,7.5256,7.52555254435478,-0.0000474556452187969,-0.000630589524008675,0.037628,TRUE,607
+"Fed historical tables (nominal), Table 18",1989,age_group,45-54,pir40,share_debtors,percent,11.1976,11.1975567516335,-0.0000432483665040451,-0.000386228892834581,0.055988,TRUE,532
+"Fed historical tables (nominal), Table 18",1989,age_group,55-64,pir40,share_debtors,percent,8.4291,8.42905897803771,-0.0000410219622946073,-0.000486670727534462,0.0421455,TRUE,406
+"Fed historical tables (nominal), Table 18",1989,age_group,65-74,pir40,share_debtors,percent,8.6914,8.69144345818536,0.0000434581853561156,0.00050001363826444,0.043457,TRUE,231
+"Fed historical tables (nominal), Table 18",1989,age_group,75 and over,pir40,share_debtors,percent,14.0575,14.0574991639923,-0.000000836007730597999,-0.00000594705837167347,0.0702875,TRUE,70
+"Fed historical tables (nominal), Table 18",1992,all,All families,pir40,share_debtors,percent,11.434,11.4340148129981,0.0000148129981418776,0.000129552196448117,0.05717,TRUE,2838
+"Fed historical tables (nominal), Table 18",1992,income_group,Less than 20,pir40,share_debtors,percent,26.9668,26.9667539599182,-0.0000460400817772211,-0.000170728754532318,0.134834,TRUE,279
+"Fed historical tables (nominal), Table 18",1992,income_group,20-39.9,pir40,share_debtors,percent,15.4013,15.4013324635753,0.0000324635752750879,0.000210784643342367,0.0770065,TRUE,367
+"Fed historical tables (nominal), Table 18",1992,income_group,40-59.9,pir40,share_debtors,percent,11.7282,11.7282338111921,0.0000338111921429629,0.000288289696142314,0.058641,TRUE,465
+"Fed historical tables (nominal), Table 18",1992,income_group,60-79.9,pir40,share_debtors,percent,7.8281,7.82811979127197,0.0000197912719670512,0.000252823443326621,0.0391405,TRUE,506
+"Fed historical tables (nominal), Table 18",1992,income_group,80-89.9,pir40,share_debtors,percent,3.6098,3.60977604036489,-0.0000239596351079285,-0.000663738575763991,0.018049,TRUE,315
+"Fed historical tables (nominal), Table 18",1992,income_group,90-100,pir40,share_debtors,percent,2.3547,2.3547152522287,0.0000152522287000245,0.000647735537436808,0.0117735,TRUE,906
+"Fed historical tables (nominal), Table 18",1992,networth_group,Less than 25,pir40,share_debtors,percent,9.9956,9.99561407906817,0.0000140790681726344,0.000140852656895378,0.049978,TRUE,483
+"Fed historical tables (nominal), Table 18",1992,networth_group,25-49.9,pir40,share_debtors,percent,13.1866,13.1865640627163,-0.0000359372837124283,-0.000272528807368301,0.065933,TRUE,549
+"Fed historical tables (nominal), Table 18",1992,networth_group,50-74.9,pir40,share_debtors,percent,12.3547,12.3546705100663,-0.0000294899336754639,-0.000238694049029632,0.0617735,TRUE,519
+"Fed historical tables (nominal), Table 18",1992,networth_group,75-89.9,pir40,share_debtors,percent,10.3658,10.3657530946091,-0.0000469053908549455,-0.000452501407078523,0.051829,TRUE,381
+"Fed historical tables (nominal), Table 18",1992,networth_group,90-100,pir40,share_debtors,percent,8.9667,8.96670918546541,0.00000918546541406329,0.000102439753912401,0.0448335,TRUE,906
+"Fed historical tables (nominal), Table 18",1992,age_group,less than 35,pir40,share_debtors,percent,10.8034,10.8034482703149,0.0000482703148563246,0.000446806698412765,0.054017,TRUE,657
+"Fed historical tables (nominal), Table 18",1992,age_group,35-44,pir40,share_debtors,percent,12.3308,12.3308000481903,0.000000048190290868888,0.000000390812363097999,0.061654,TRUE,721
+"Fed historical tables (nominal), Table 18",1992,age_group,45-54,pir40,share_debtors,percent,10.8724,10.8723721164474,-0.0000278835526081878,-0.000256461798758211,0.054362,TRUE,665
+"Fed historical tables (nominal), Table 18",1992,age_group,55-64,pir40,share_debtors,percent,14.42,14.4199634433248,-0.000036556675192756,-0.000253513697591928,0.0721,TRUE,395
+"Fed historical tables (nominal), Table 18",1992,age_group,65-74,pir40,share_debtors,percent,7.4675,7.46752005915006,0.0000200591500636449,0.000268619351371207,0.0373375,TRUE,300
+"Fed historical tables (nominal), Table 18",1992,age_group,75 and over,pir40,share_debtors,percent,11.9606,11.9605538080858,-0.0000461919141887535,-0.000386200643686382,0.059803,TRUE,100
+"Fed historical tables (nominal), Table 18",1995,all,All families,pir40,share_debtors,percent,11.7493,11.7492858466046,-0.0000141533953641471,-0.000120461605067085,0.0587465,TRUE,3155
+"Fed historical tables (nominal), Table 18",1995,income_group,Less than 20,pir40,share_debtors,percent,27.1086,27.1085898662593,-0.0000101337407336644,-0.0000373820143189407,0.135543,TRUE,316
+"Fed historical tables (nominal), Table 18",1995,income_group,20-39.9,pir40,share_debtors,percent,19.1124,19.1123657508687,-0.0000342491312785853,-0.000179198485164528,0.095562,TRUE,437
+"Fed historical tables (nominal), Table 18",1995,income_group,40-59.9,pir40,share_debtors,percent,8.9465,8.94652972660719,0.0000297266071882518,0.000332270800740533,0.0447325,TRUE,514
+"Fed historical tables (nominal), Table 18",1995,income_group,60-79.9,pir40,share_debtors,percent,7.8133,7.81328514052212,-0.0000148594778810462,-0.000190181842256745,0.0390665,TRUE,620
+"Fed historical tables (nominal), Table 18",1995,income_group,80-89.9,pir40,share_debtors,percent,4.8649,4.86488352553544,-0.000016474464564098,-0.000338639325866882,0.0243245,TRUE,358
+"Fed historical tables (nominal), Table 18",1995,income_group,90-100,pir40,share_debtors,percent,2.8612,2.86119583652916,-0.0000041634708445315,-0.00014551484847377,0.014306,TRUE,910
+"Fed historical tables (nominal), Table 18",1995,networth_group,Less than 25,pir40,share_debtors,percent,10.1049,10.1048859452692,-0.0000140547308209449,-0.000139088272233717,0.0505245,TRUE,546
+"Fed historical tables (nominal), Table 18",1995,networth_group,25-49.9,pir40,share_debtors,percent,12.8723,12.8722612235802,-0.000038776419756914,-0.00030123924828441,0.0643615,TRUE,624
+"Fed historical tables (nominal), Table 18",1995,networth_group,50-74.9,pir40,share_debtors,percent,12.9925,12.9924899738799,-0.000010026120108364,-0.0000771685211342237,0.0649625,TRUE,598
+"Fed historical tables (nominal), Table 18",1995,networth_group,75-89.9,pir40,share_debtors,percent,9.6465,9.64652021593947,0.0000202159394717683,0.000209567609721332,0.0482325,TRUE,410
+"Fed historical tables (nominal), Table 18",1995,networth_group,90-100,pir40,share_debtors,percent,12.0306,12.0306371107629,0.0000371107629018042,0.000308469759627983,0.060153,TRUE,977
+"Fed historical tables (nominal), Table 18",1995,age_group,less than 35,pir40,share_debtors,percent,12.1098,12.109837732649,0.0000377326490230701,0.000311587714273316,0.060549,TRUE,746
+"Fed historical tables (nominal), Table 18",1995,age_group,35-44,pir40,share_debtors,percent,9.8541,9.85413221346983,0.0000322134698329535,0.000326904231060711,0.0492705,TRUE,785
+"Fed historical tables (nominal), Table 18",1995,age_group,45-54,pir40,share_debtors,percent,12.3573,12.3573088109892,0.00000881098922356216,0.0000713018962359266,0.0617865,TRUE,767
+"Fed historical tables (nominal), Table 18",1995,age_group,55-64,pir40,share_debtors,percent,15.1485,15.1484923890224,-0.00000761097764545582,-0.0000502424507076992,0.0757425,TRUE,475
+"Fed historical tables (nominal), Table 18",1995,age_group,65-74,pir40,share_debtors,percent,11.8861,11.8860679701418,-0.0000320298582092704,-0.000269473235201373,0.0594305,TRUE,280
+"Fed historical tables (nominal), Table 18",1995,age_group,75 and over,pir40,share_debtors,percent,7.7635,7.76354784195565,0.0000478419556522169,0.000616242102817247,0.0388175,TRUE,102
+"Fed historical tables (nominal), Table 18",1998,all,All families,pir40,share_debtors,percent,13.7847,13.7847117910655,0.0000117910655230702,0.000085537338665841,0.0689235,TRUE,3146
+"Fed historical tables (nominal), Table 18",1998,income_group,Less than 20,pir40,share_debtors,percent,29.5109,29.5108523021997,-0.0000476978003085549,-0.000161627738593384,0.1475545,TRUE,329
+"Fed historical tables (nominal), Table 18",1998,income_group,20-39.9,pir40,share_debtors,percent,19.5065,19.5065148821905,0.0000148821905057162,0.0000762934945055041,0.0975325,TRUE,421
+"Fed historical tables (nominal), Table 18",1998,income_group,40-59.9,pir40,share_debtors,percent,15.9338,15.9338343367732,0.0000343367731616695,0.000215496448817416,0.079669,TRUE,520
+"Fed historical tables (nominal), Table 18",1998,income_group,60-79.9,pir40,share_debtors,percent,9.6454,9.64541778778854,0.0000177877885434441,0.00018441732373405,0.048227,TRUE,566
+"Fed historical tables (nominal), Table 18",1998,income_group,80-89.9,pir40,share_debtors,percent,3.386,3.38600381670609,0.00000381670608984308,0.000112720203480304,0.01693,TRUE,341
+"Fed historical tables (nominal), Table 18",1998,income_group,90-100,pir40,share_debtors,percent,3.0206,3.02058340797979,-0.0000165920202088721,-0.000549295511119383,0.015103,TRUE,969
+"Fed historical tables (nominal), Table 18",1998,networth_group,Less than 25,pir40,share_debtors,percent,13.2306,13.2305971511002,-0.00000284889978097169,-0.0000215326574831957,0.066153,TRUE,572
+"Fed historical tables (nominal), Table 18",1998,networth_group,25-49.9,pir40,share_debtors,percent,16.1922,16.1922203066226,0.00002030662261987,0.000125409904891677,0.080961,TRUE,595
+"Fed historical tables (nominal), Table 18",1998,networth_group,50-74.9,pir40,share_debtors,percent,13.1344,13.1343799678777,-0.0000200321222525446,-0.000152516462514805,0.065672,TRUE,591
+"Fed historical tables (nominal), Table 18",1998,networth_group,75-89.9,pir40,share_debtors,percent,12.3022,12.302182761694,-0.0000172383059879877,-0.000140123766383149,0.061511,TRUE,411
+"Fed historical tables (nominal), Table 18",1998,networth_group,90-100,pir40,share_debtors,percent,12.2308,12.2308022220983,0.00000222209827782649,0.0000181680534210885,0.061154,TRUE,977
+"Fed historical tables (nominal), Table 18",1998,age_group,less than 35,pir40,share_debtors,percent,13.1061,13.1061425887724,0.0000425887724411211,0.000324953818764706,0.0655305,TRUE,651
+"Fed historical tables (nominal), Table 18",1998,age_group,35-44,pir40,share_debtors,percent,12.8149,12.8148708340002,-0.0000291659998197247,-0.000227594439439439,0.0640745,TRUE,806
+"Fed historical tables (nominal), Table 18",1998,age_group,45-54,pir40,share_debtors,percent,12.8528,12.8528204091193,0.0000204091193225509,0.000158791230880048,0.064264,TRUE,816
+"Fed historical tables (nominal), Table 18",1998,age_group,55-64,pir40,share_debtors,percent,14.139,14.1390042382329,0.00000423823290596204,0.0000299754785059908,0.070695,TRUE,500
+"Fed historical tables (nominal), Table 18",1998,age_group,65-74,pir40,share_debtors,percent,18.0714,18.0713649706427,-0.0000350293572601856,-0.000193838647034461,0.090357,TRUE,267
+"Fed historical tables (nominal), Table 18",1998,age_group,75 and over,pir40,share_debtors,percent,21.7321,21.7321262328062,0.0000262328061779726,0.000120709946015215,0.1086605,TRUE,106
+"Fed historical tables (nominal), Table 18",2001,all,All families,pir40,share_debtors,percent,11.7273,11.7272701550143,-0.0000298449857147887,-0.000254491534409358,0.0586365,TRUE,3244
+"Fed historical tables (nominal), Table 18",2001,income_group,Less than 20,pir40,share_debtors,percent,29.667,29.6670142413417,0.000014241341652621,0.0000480039830539692,0.148335,TRUE,329
+"Fed historical tables (nominal), Table 18",2001,income_group,20-39.9,pir40,share_debtors,percent,15.9351,15.9350713261603,-0.0000286738397168307,-0.000179941385475025,0.0796755,TRUE,474
+"Fed historical tables (nominal), Table 18",2001,income_group,40-59.9,pir40,share_debtors,percent,12.7619,12.7619164471657,0.0000164471657324583,0.000128877093006984,0.0638095,TRUE,568
+"Fed historical tables (nominal), Table 18",2001,income_group,60-79.9,pir40,share_debtors,percent,6.1452,6.14517800901613,-0.0000219909838738985,-0.000357856276018657,0.030726,TRUE,594
+"Fed historical tables (nominal), Table 18",2001,income_group,80-89.9,pir40,share_debtors,percent,3.7021,3.70211626555394,0.0000162655539388545,0.000439360199315376,0.0185105,TRUE,354
+"Fed historical tables (nominal), Table 18",2001,income_group,90-100,pir40,share_debtors,percent,1.9646,1.96462493751194,0.0000249375119349971,0.00126934296727054,0.009823,TRUE,925
+"Fed historical tables (nominal), Table 18",2001,networth_group,Less than 25,pir40,share_debtors,percent,11.6555,11.6554562642108,-0.0000437357891591716,-0.000375237348540789,0.0582775,TRUE,605
+"Fed historical tables (nominal), Table 18",2001,networth_group,25-49.9,pir40,share_debtors,percent,14.1267,14.1267130865589,0.0000130865589369478,0.000092637055624794,0.0706335,TRUE,660
+"Fed historical tables (nominal), Table 18",2001,networth_group,50-74.9,pir40,share_debtors,percent,11.2364,11.236427055218,0.0000270552180410277,0.000240781905601685,0.056182,TRUE,640
+"Fed historical tables (nominal), Table 18",2001,networth_group,75-89.9,pir40,share_debtors,percent,10.4608,10.4608294574796,0.0000294574795489666,0.00028159872618697,0.052304,TRUE,401
+"Fed historical tables (nominal), Table 18",2001,networth_group,90-100,pir40,share_debtors,percent,8.368,8.36797489081153,-0.0000251091884724275,-0.000300062003733598,0.04184,TRUE,938
+"Fed historical tables (nominal), Table 18",2001,age_group,less than 35,pir40,share_debtors,percent,12.0713,12.0713005213667,0.000000521366670724888,0.00000431905984214532,0.0603565,TRUE,654
+"Fed historical tables (nominal), Table 18",2001,age_group,35-44,pir40,share_debtors,percent,10.0228,10.022800445178,0.000000445178033103844,0.0000044416533613745,0.050114,TRUE,800
+"Fed historical tables (nominal), Table 18",2001,age_group,45-54,pir40,share_debtors,percent,11.4853,11.4853394167519,0.0000394167518802391,0.000343193054428174,0.0574265,TRUE,875
+"Fed historical tables (nominal), Table 18",2001,age_group,55-64,pir40,share_debtors,percent,12.2467,12.2466754629197,-0.0000245370802716138,-0.000200356669728285,0.0612335,TRUE,525
+"Fed historical tables (nominal), Table 18",2001,age_group,65-74,pir40,share_debtors,percent,14.6035,14.6034603619749,-0.0000396380251324047,-0.000271428254407537,0.0730175,TRUE,269
+"Fed historical tables (nominal), Table 18",2001,age_group,75 and over,pir40,share_debtors,percent,14.598,14.598029592822,0.0000295928219689046,0.000202718331065246,0.07299,TRUE,121
+"Fed historical tables (nominal), Table 18",2004,all,All families,pir40,share_debtors,percent,12.3548,12.3548068561756,0.00000685617555973295,0.0000554940230496078,0.061774,TRUE,3342
+"Fed historical tables (nominal), Table 18",2004,income_group,Less than 20,pir40,share_debtors,percent,27.251,27.2509521971667,-0.0000478028333112945,-0.000175416804195422,0.136255,TRUE,360
+"Fed historical tables (nominal), Table 18",2004,income_group,20-39.9,pir40,share_debtors,percent,18.541,18.5409946758164,-0.00000532418357934716,-0.0000287157304317306,0.092705,TRUE,480
+"Fed historical tables (nominal), Table 18",2004,income_group,40-59.9,pir40,share_debtors,percent,13.9097,13.9096641188236,-0.0000358811764193945,-0.000257957946033304,0.0695485,TRUE,571
+"Fed historical tables (nominal), Table 18",2004,income_group,60-79.9,pir40,share_debtors,percent,7.2852,7.28515582893414,-0.0000441710658574124,-0.000606312329893653,0.036426,TRUE,624
+"Fed historical tables (nominal), Table 18",2004,income_group,80-89.9,pir40,share_debtors,percent,2.739,2.73901731317901,0.0000173131790059955,0.000632098539831891,0.013695,TRUE,354
+"Fed historical tables (nominal), Table 18",2004,income_group,90-100,pir40,share_debtors,percent,1.5883,1.58826072408169,-0.0000392759183081015,-0.00247282744494752,0.0079415,TRUE,953
+"Fed historical tables (nominal), Table 18",2004,networth_group,Less than 25,pir40,share_debtors,percent,10.4571,10.4570935064048,-0.000006493595181567,-0.0000620974761795049,0.0522855,TRUE,605
+"Fed historical tables (nominal), Table 18",2004,networth_group,25-49.9,pir40,share_debtors,percent,16.1367,16.1366538336425,-0.0000461663574853333,-0.000286095406652744,0.0806835,TRUE,680
+"Fed historical tables (nominal), Table 18",2004,networth_group,50-74.9,pir40,share_debtors,percent,12.6522,12.6521813196847,-0.0000186803152644188,-0.000147644799042213,0.063261,TRUE,669
+"Fed historical tables (nominal), Table 18",2004,networth_group,75-89.9,pir40,share_debtors,percent,10.1201,10.1201261480969,0.0000261480968806183,0.00025837785081786,0.0506005,TRUE,438
+"Fed historical tables (nominal), Table 18",2004,networth_group,90-100,pir40,share_debtors,percent,8.2774,8.2774301698808,0.0000301698808016226,0.000364484992891761,0.041387,TRUE,950
+"Fed historical tables (nominal), Table 18",2004,age_group,less than 35,pir40,share_debtors,percent,12.7108,12.7107810325231,-0.0000189674768904524,-0.000149223313170315,0.063554,TRUE,589
+"Fed historical tables (nominal), Table 18",2004,age_group,35-44,pir40,share_debtors,percent,12.4493,12.449292594185,-0.00000740581496749826,-0.0000594878022659769,0.0622465,TRUE,759
+"Fed historical tables (nominal), Table 18",2004,age_group,45-54,pir40,share_debtors,percent,13.3139,13.3138766551178,-0.0000233448821855831,-0.000175342177615748,0.0665695,TRUE,902
+"Fed historical tables (nominal), Table 18",2004,age_group,55-64,pir40,share_debtors,percent,10.5012,10.5012295378551,0.000029537855123607,0.000281280759566592,0.052506,TRUE,669
+"Fed historical tables (nominal), Table 18",2004,age_group,65-74,pir40,share_debtors,percent,10.9631,10.9630505495977,-0.0000494504023045295,-0.000451062220581126,0.0548155,TRUE,288
+"Fed historical tables (nominal), Table 18",2004,age_group,75 and over,pir40,share_debtors,percent,13.3958,13.3958286764269,0.0000286764268668804,0.000214070282229359,0.066979,TRUE,135
+"Fed historical tables (nominal), Table 18",2007,all,All families,pir40,share_debtors,percent,14.7044,14.7044275414343,0.0000275414342656433,0.000187300632910172,0.073522,TRUE,3325
+"Fed historical tables (nominal), Table 18",2007,income_group,Less than 20,pir40,share_debtors,percent,26.6563,26.6563042335757,0.00000423357567669314,0.000015882082947345,0.1332815,TRUE,340
+"Fed historical tables (nominal), Table 18",2007,income_group,20-39.9,pir40,share_debtors,percent,19.6707,19.670719130755,0.0000191307549748387,0.000097255079762483,0.0983535,TRUE,450
+"Fed historical tables (nominal), Table 18",2007,income_group,40-59.9,pir40,share_debtors,percent,14.477,14.4770240372761,0.0000240372760753615,0.000166037687886728,0.072385,TRUE,539
+"Fed historical tables (nominal), Table 18",2007,income_group,60-79.9,pir40,share_debtors,percent,12.791,12.790987311817,-0.0000126881830002645,-0.0000991961770015208,0.063955,TRUE,618
+"Fed historical tables (nominal), Table 18",2007,income_group,80-89.9,pir40,share_debtors,percent,8.1232,8.12318994560356,-0.0000100543964407507,-0.000123773838398053,0.040616,TRUE,359
+"Fed historical tables (nominal), Table 18",2007,income_group,90-100,pir40,share_debtors,percent,3.8081,3.80812146785961,0.0000214678596117679,0.00056374201338641,0.0190405,TRUE,1019
+"Fed historical tables (nominal), Table 18",2007,networth_group,Less than 25,pir40,share_debtors,percent,10.5767,10.5766765911936,-0.0000234088064434701,-0.000221324292486977,0.0528835,TRUE,572
+"Fed historical tables (nominal), Table 18",2007,networth_group,25-49.9,pir40,share_debtors,percent,19.4747,19.4746861212066,-0.0000138787934140794,-0.0000712657623176705,0.0973735,TRUE,634
+"Fed historical tables (nominal), Table 18",2007,networth_group,50-74.9,pir40,share_debtors,percent,15.6493,15.6492744816093,-0.0000255183906627821,-0.000163064102948899,0.0782465,TRUE,637
+"Fed historical tables (nominal), Table 18",2007,networth_group,75-89.9,pir40,share_debtors,percent,13.0309,13.030939508863,0.0000395088630096296,0.000303193662829349,0.0651545,TRUE,436
+"Fed historical tables (nominal), Table 18",2007,networth_group,90-100,pir40,share_debtors,percent,11.1029,11.1029240837636,0.0000240837636411584,0.000216914172343788,0.0555145,TRUE,1046
+"Fed historical tables (nominal), Table 18",2007,age_group,less than 35,pir40,share_debtors,percent,14.9543,14.9543368048478,0.000036804847823646,0.00024611548399889,0.0747715,TRUE,581
+"Fed historical tables (nominal), Table 18",2007,age_group,35-44,pir40,share_debtors,percent,12.6512,12.6511597305716,-0.0000402694284460381,-0.000318305207775058,0.063256,TRUE,693
+"Fed historical tables (nominal), Table 18",2007,age_group,45-54,pir40,share_debtors,percent,16.2551,16.2551320733499,0.0000320733498924142,0.000197312535096149,0.0812755,TRUE,842
+"Fed historical tables (nominal), Table 18",2007,age_group,55-64,pir40,share_debtors,percent,14.7856,14.7856026262282,0.00000262622820557112,0.0000177620671840921,0.073928,TRUE,732
+"Fed historical tables (nominal), Table 18",2007,age_group,65-74,pir40,share_debtors,percent,15.2663,15.2663116036172,0.0000116036171835532,0.0000760080516140334,0.0763315,TRUE,339
+"Fed historical tables (nominal), Table 18",2007,age_group,75 and over,pir40,share_debtors,percent,13.8645,13.8644671439407,-0.0000328560593274574,-0.000236979763622615,0.0693225,TRUE,138
+"Fed historical tables (nominal), Table 18",2010,all,All families,pir40,share_debtors,percent,13.8602,13.8602082797829,0.00000827978291084719,0.0000597378314226865,0.069301,TRUE,4752
+"Fed historical tables (nominal), Table 18",2010,income_group,Less than 20,pir40,share_debtors,percent,26.242,26.2420063046108,0.00000630461082451461,0.0000240248869160682,0.13121,TRUE,634
+"Fed historical tables (nominal), Table 18",2010,income_group,20-39.9,pir40,share_debtors,percent,18.5894,18.5893679007095,-0.0000320992905500361,-0.000172675237232165,0.092947,TRUE,720
+"Fed historical tables (nominal), Table 18",2010,income_group,40-59.9,pir40,share_debtors,percent,15.2985,15.2985276977542,0.0000276977541773249,0.000181048822939013,0.0764925,TRUE,883
+"Fed historical tables (nominal), Table 18",2010,income_group,60-79.9,pir40,share_debtors,percent,11.0948,11.0948284864814,0.0000284864813586694,0.000256755248933459,0.055474,TRUE,963
+"Fed historical tables (nominal), Table 18",2010,income_group,80-89.9,pir40,share_debtors,percent,5.3392,5.33922404545304,0.0000240454530429091,0.000450356852017326,0.026696,TRUE,539
+"Fed historical tables (nominal), Table 18",2010,income_group,90-100,pir40,share_debtors,percent,2.8921,2.89208011549607,-0.0000198845039309781,-0.00068754551816943,0.0144605,TRUE,1013
+"Fed historical tables (nominal), Table 18",2010,networth_group,Less than 25,pir40,share_debtors,percent,14.9533,14.9533178354522,0.0000178354522279989,0.000119274355680678,0.0747665,TRUE,1024
+"Fed historical tables (nominal), Table 18",2010,networth_group,25-49.9,pir40,share_debtors,percent,15.2178,15.2178052951069,0.0000052951068809648,0.0000347954821391055,0.076089,TRUE,1041
+"Fed historical tables (nominal), Table 18",2010,networth_group,50-74.9,pir40,share_debtors,percent,14.1914,14.1913928121447,-0.00000718785529230104,-0.0000506493742146725,0.070957,TRUE,1004
+"Fed historical tables (nominal), Table 18",2010,networth_group,75-89.9,pir40,share_debtors,percent,10.9631,10.963128284141,0.0000282841409795509,0.000257994006982978,0.0548155,TRUE,726
+"Fed historical tables (nominal), Table 18",2010,networth_group,90-100,pir40,share_debtors,percent,10.8825,10.882488191921,-0.0000118080789555108,-0.000108505205196516,0.0544125,TRUE,957
+"Fed historical tables (nominal), Table 18",2010,age_group,less than 35,pir40,share_debtors,percent,11.6813,11.6812618546002,-0.0000381453997775338,-0.000326550981290899,0.0584065,TRUE,893
+"Fed historical tables (nominal), Table 18",2010,age_group,35-44,pir40,share_debtors,percent,16.4726,16.4726354759423,0.0000354759423188966,0.000215363344699056,0.082363,TRUE,981
+"Fed historical tables (nominal), Table 18",2010,age_group,45-54,pir40,share_debtors,percent,15.3952,15.3952157191653,0.0000157191653364919,0.000102104326910283,0.076976,TRUE,1207
+"Fed historical tables (nominal), Table 18",2010,age_group,55-64,pir40,share_debtors,percent,13.0974,13.0973883904694,-0.0000116095306417208,-0.0000886399639754514,0.065487,TRUE,1019
+"Fed historical tables (nominal), Table 18",2010,age_group,65-74,pir40,share_debtors,percent,11.9981,11.998147955768,0.0000479557680090892,0.000399694685067546,0.0599905,TRUE,466
+"Fed historical tables (nominal), Table 18",2010,age_group,75 and over,pir40,share_debtors,percent,11.879,11.8789572523334,-0.0000427476666295945,-0.000359859134856423,0.059395,TRUE,186
+"Fed historical tables (nominal), Table 18",2013,all,All families,pir40,share_debtors,percent,10.9856,10.9855652277234,-0.0000347722766154135,-0.000316525966860376,0.054928,TRUE,4368
+"Fed historical tables (nominal), Table 18",2013,income_group,Less than 20,pir40,share_debtors,percent,23.4497,23.4497139560113,0.0000139560113332493,0.0000595146689861674,0.1172485,TRUE,533
+"Fed historical tables (nominal), Table 18",2013,income_group,20-39.9,pir40,share_debtors,percent,18.0709,18.0709062598045,0.00000625980451474106,0.0000346402476619375,0.0903545,TRUE,645
+"Fed historical tables (nominal), Table 18",2013,income_group,40-59.9,pir40,share_debtors,percent,11.186,11.186048142057,0.0000481420570235258,0.000430377767061736,0.05593,TRUE,807
+"Fed historical tables (nominal), Table 18",2013,income_group,60-79.9,pir40,share_debtors,percent,5.9112,5.91116211256733,-0.00003788743266675,-0.000640943170028928,0.029556,TRUE,895
+"Fed historical tables (nominal), Table 18",2013,income_group,80-89.9,pir40,share_debtors,percent,4.0806,4.08061416350927,0.000014163509274745,0.000347093791960618,0.020403,TRUE,481
+"Fed historical tables (nominal), Table 18",2013,income_group,90-100,pir40,share_debtors,percent,1.6285,1.6284862496556,-0.0000137503444050946,-0.000844356426471882,0.0081425,TRUE,1007
+"Fed historical tables (nominal), Table 18",2013,networth_group,Less than 25,pir40,share_debtors,percent,12.3657,12.3657168137467,0.0000168137466936003,0.000135970844299961,0.0618285,TRUE,928
+"Fed historical tables (nominal), Table 18",2013,networth_group,25-49.9,pir40,share_debtors,percent,13.6408,13.6408166282052,0.0000166282051825561,0.000121900513038503,0.068204,TRUE,922
+"Fed historical tables (nominal), Table 18",2013,networth_group,50-74.9,pir40,share_debtors,percent,10.1439,10.1439206835806,0.0000206835806082495,0.000203901661178141,0.0507195,TRUE,906
+"Fed historical tables (nominal), Table 18",2013,networth_group,75-89.9,pir40,share_debtors,percent,7.6779,7.67788974022371,-0.0000102597762898782,-0.000133627375843371,0.0383895,TRUE,625
+"Fed historical tables (nominal), Table 18",2013,networth_group,90-100,pir40,share_debtors,percent,7.7886,7.78858347637634,-0.000016523623659559,-0.000212151396394204,0.038943,TRUE,987
+"Fed historical tables (nominal), Table 18",2013,age_group,less than 35,pir40,share_debtors,percent,8.0431,8.04308055390392,-0.000019446096080955,-0.000241773645496824,0.0402155,TRUE,776
+"Fed historical tables (nominal), Table 18",2013,age_group,35-44,pir40,share_debtors,percent,9.7884,9.78837048868887,-0.0000295113111317136,-0.000301492696781022,0.048942,TRUE,862
+"Fed historical tables (nominal), Table 18",2013,age_group,45-54,pir40,share_debtors,percent,11.8038,11.8038024146863,0.00000241468628381369,0.0000204568552823133,0.059019,TRUE,1058
+"Fed historical tables (nominal), Table 18",2013,age_group,55-64,pir40,share_debtors,percent,13.9853,13.9852590711787,-0.0000409288212566139,-0.000292656012074206,0.0699265,TRUE,962
+"Fed historical tables (nominal), Table 18",2013,age_group,65-74,pir40,share_debtors,percent,12.3489,12.3489187881013,0.0000187881013271607,0.000152143926399604,0.0617445,TRUE,505
+"Fed historical tables (nominal), Table 18",2013,age_group,75 and over,pir40,share_debtors,percent,9.9831,9.98307648172379,-0.0000235182762065023,-0.000235580893775503,0.0499155,TRUE,205
+"Fed historical tables (nominal), Table 18",2016,all,All families,pir40,share_debtors,percent,9.2116,9.21159066482863,-0.00000933517136836315,-0.000101341475621642,0.046058,TRUE,4667
+"Fed historical tables (nominal), Table 18",2016,income_group,Less than 20,pir40,share_debtors,percent,21.9273,21.9272842437141,-0.0000157562858724702,-0.0000718569357489077,0.1096365,TRUE,602
+"Fed historical tables (nominal), Table 18",2016,income_group,20-39.9,pir40,share_debtors,percent,13.4169,13.4168900086062,-0.00000999139375323921,-0.0000744687204439119,0.0670845,TRUE,714
+"Fed historical tables (nominal), Table 18",2016,income_group,40-59.9,pir40,share_debtors,percent,8.4926,8.49256015774682,-0.0000398422531784348,-0.000469140818812081,0.042463,TRUE,852
+"Fed historical tables (nominal), Table 18",2016,income_group,60-79.9,pir40,share_debtors,percent,4.2562,4.25624286384866,0.000042863848658925,0.00100709197544582,0.021281,TRUE,965
+"Fed historical tables (nominal), Table 18",2016,income_group,80-89.9,pir40,share_debtors,percent,4.2433,4.24331681398127,0.00001681398126685,0.000396247761573539,0.0212165,TRUE,537
+"Fed historical tables (nominal), Table 18",2016,income_group,90-100,pir40,share_debtors,percent,1.4729,1.47289079641028,-0.00000920358972167357,-0.000624861818295442,0.0073645,TRUE,997
+"Fed historical tables (nominal), Table 18",2016,networth_group,Less than 25,pir40,share_debtors,percent,8.4439,8.4438926783409,-0.00000732165909944627,-0.000086709448234184,0.0422195,TRUE,964
+"Fed historical tables (nominal), Table 18",2016,networth_group,25-49.9,pir40,share_debtors,percent,10.8205,10.8204544562816,-0.0000455437184463392,-0.000420902162065886,0.0541025,TRUE,973
+"Fed historical tables (nominal), Table 18",2016,networth_group,50-74.9,pir40,share_debtors,percent,10.0694,10.0693810517989,-0.0000189482011379027,-0.000188176069456996,0.050347,TRUE,990
+"Fed historical tables (nominal), Table 18",2016,networth_group,75-89.9,pir40,share_debtors,percent,7.7685,7.76848066615092,-0.0000193338490843686,-0.000248874931896359,0.0388425,TRUE,767
+"Fed historical tables (nominal), Table 18",2016,networth_group,90-100,pir40,share_debtors,percent,6.2514,6.25143374479611,0.0000337447961138437,0.000539795823557023,0.031257,TRUE,973
+"Fed historical tables (nominal), Table 18",2016,age_group,less than 35,pir40,share_debtors,percent,8.5167,8.51672800935251,0.0000280093525084624,0.000328875650292512,0.0425835,TRUE,802
+"Fed historical tables (nominal), Table 18",2016,age_group,35-44,pir40,share_debtors,percent,8.8521,8.85207781040446,-0.0000221895955423435,-0.000250670412019108,0.0442605,TRUE,872
+"Fed historical tables (nominal), Table 18",2016,age_group,45-54,pir40,share_debtors,percent,8.6376,8.63761363304828,0.0000136330482760627,0.000157833753311831,0.043188,TRUE,1038
+"Fed historical tables (nominal), Table 18",2016,age_group,55-64,pir40,share_debtors,percent,10.929,10.9289500153775,-0.0000499846224997214,-0.000457357695120517,0.054645,TRUE,1065
+"Fed historical tables (nominal), Table 18",2016,age_group,65-74,pir40,share_debtors,percent,8.4966,8.49663079793487,0.0000307979348725951,0.000362473635013948,0.042483,TRUE,617
+"Fed historical tables (nominal), Table 18",2016,age_group,75 and over,pir40,share_debtors,percent,10.5361,10.5360878095976,-0.0000121904024137365,-0.000115701278592045,0.0526805,TRUE,273
+"Fed historical tables (nominal), Table 18",2019,all,All families,pir40,share_debtors,percent,9.6573,9.65730449401318,0.00000449401317581533,0.0000465348821701234,0.0482865,TRUE,4257
+"Fed historical tables (nominal), Table 18",2019,income_group,Less than 20,pir40,share_debtors,percent,20.8454,20.845449520718,0.0000495207180328805,0.000237561850733881,0.104227,TRUE,523
+"Fed historical tables (nominal), Table 18",2019,income_group,20-39.9,pir40,share_debtors,percent,15.5029,15.5028796482956,-0.000020351704385746,-0.000131276757159925,0.0775145,TRUE,637
+"Fed historical tables (nominal), Table 18",2019,income_group,40-59.9,pir40,share_debtors,percent,10.6287,10.628719573013,0.0000195730129544103,0.00018415246412459,0.0531435,TRUE,751
+"Fed historical tables (nominal), Table 18",2019,income_group,60-79.9,pir40,share_debtors,percent,5.0848,5.08481408768087,0.0000140876808645274,0.000277054768418175,0.025424,TRUE,850
+"Fed historical tables (nominal), Table 18",2019,income_group,80-89.9,pir40,share_debtors,percent,2.0173,2.01729363788612,-0.00000636211388016506,-0.000315377677101326,0.0100865,TRUE,494
+"Fed historical tables (nominal), Table 18",2019,income_group,90-100,pir40,share_debtors,percent,1.2233,1.22333652041313,0.0000365204131258512,0.00298540122013007,0.0061165,TRUE,1002
+"Fed historical tables (nominal), Table 18",2019,networth_group,Less than 25,pir40,share_debtors,percent,10.3955,10.3955224721665,0.0000224721664725536,0.000216172059761951,0.0519775,TRUE,847
+"Fed historical tables (nominal), Table 18",2019,networth_group,25-49.9,pir40,share_debtors,percent,11.053,11.0530177183444,0.0000177183443952345,0.000160303486793038,0.055265,TRUE,869
+"Fed historical tables (nominal), Table 18",2019,networth_group,50-74.9,pir40,share_debtors,percent,11.1532,11.1532046730197,0.00000467301974182988,0.0000418984662861768,0.055766,TRUE,897
+"Fed historical tables (nominal), Table 18",2019,networth_group,75-89.9,pir40,share_debtors,percent,6.5389,6.53885975367094,-0.000040246329062299,-0.000615490817450932,0.0326945,TRUE,632
+"Fed historical tables (nominal), Table 18",2019,networth_group,90-100,pir40,share_debtors,percent,4.5887,4.58867236295147,-0.0000276370485297051,-0.000602284928840522,0.0229435,TRUE,1012
+"Fed historical tables (nominal), Table 18",2019,age_group,less than 35,pir40,share_debtors,percent,8.738,8.7379878287223,-0.0000121712776959271,-0.000139291344654693,0.04369,TRUE,675
+"Fed historical tables (nominal), Table 18",2019,age_group,35-44,pir40,share_debtors,percent,10.2033,10.2032856794801,-0.0000143205199414354,-0.000140351846377499,0.0510165,TRUE,811
+"Fed historical tables (nominal), Table 18",2019,age_group,45-54,pir40,share_debtors,percent,10.3222,10.3222210096217,0.0000210096217152511,0.000203538215838204,0.051611,TRUE,940
+"Fed historical tables (nominal), Table 18",2019,age_group,55-64,pir40,share_debtors,percent,9.5052,9.50520935761262,0.0000093576126189987,0.000098447298520796,0.047526,TRUE,933
+"Fed historical tables (nominal), Table 18",2019,age_group,65-74,pir40,share_debtors,percent,9.5798,9.57984764427354,0.0000476442735415361,0.000497341004421137,0.047899,TRUE,638
+"Fed historical tables (nominal), Table 18",2019,age_group,75 and over,pir40,share_debtors,percent,9.7369,9.736900952703,0.000000952702997381039,0.00000978445909253498,0.0486845,TRUE,260
+"Fed historical tables (nominal), Table 18",2022,all,All families,pir40,share_debtors,percent,8.454,8.45399903442049,-0.000000965579513234616,-0.0000114215698277101,0.04227,TRUE,3372
+"Fed historical tables (nominal), Table 18",2022,income_group,Less than 20,pir40,share_debtors,percent,23.3694,23.3694346400704,0.0000346400703641336,0.000148228325777015,0.116847,TRUE,457
+"Fed historical tables (nominal), Table 18",2022,income_group,20-39.9,pir40,share_debtors,percent,11.3801,11.3801146362487,0.000014636248673483,0.000128612654313082,0.0569005,TRUE,559
+"Fed historical tables (nominal), Table 18",2022,income_group,40-59.9,pir40,share_debtors,percent,7.5424,7.54241549230815,0.0000154923081518987,0.000205402897643969,0.037712,TRUE,585
+"Fed historical tables (nominal), Table 18",2022,income_group,60-79.9,pir40,share_debtors,percent,3.0971,3.09710892612286,0.00000892612286307326,0.000288209062124996,0.0154855,TRUE,603
+"Fed historical tables (nominal), Table 18",2022,income_group,80-89.9,pir40,share_debtors,percent,3.2505,3.25052373431618,0.0000237343161759718,0.000730174317058046,0.0162525,TRUE,375
+"Fed historical tables (nominal), Table 18",2022,income_group,90-100,pir40,share_debtors,percent,0.6895,0.689538441560765,0.0000384415607653787,0.00557528074914848,0.0034475,TRUE,793
+"Fed historical tables (nominal), Table 18",2022,networth_group,Less than 25,pir40,share_debtors,percent,5.9439,5.94393888245213,0.0000388824521282416,0.00065415723898857,0.0297195,TRUE,755
+"Fed historical tables (nominal), Table 18",2022,networth_group,25-49.9,pir40,share_debtors,percent,12.0651,12.0651140834734,0.0000140834734132511,0.000116729023491319,0.0603255,TRUE,642
+"Fed historical tables (nominal), Table 18",2022,networth_group,50-74.9,pir40,share_debtors,percent,9.3777,9.37773381276451,0.0000338127645118647,0.000360565645220733,0.0468885,TRUE,695
+"Fed historical tables (nominal), Table 18",2022,networth_group,75-89.9,pir40,share_debtors,percent,6.4068,6.40680088432125,0.000000884321254446263,0.0000138028540682753,0.032034,TRUE,507
+"Fed historical tables (nominal), Table 18",2022,networth_group,90-100,pir40,share_debtors,percent,4.6913,4.69133841482653,0.0000384148265277773,0.000818852482846488,0.0234565,TRUE,773
+"Fed historical tables (nominal), Table 18",2022,age_group,less than 35,pir40,share_debtors,percent,7.1358,7.13575494924088,-0.0000450507591214233,-0.000631334386073367,0.035679,TRUE,504
+"Fed historical tables (nominal), Table 18",2022,age_group,35-44,pir40,share_debtors,percent,9.4102,9.41019913952211,-0.000000860477893382949,-0.00000914409782345699,0.047051,TRUE,643
+"Fed historical tables (nominal), Table 18",2022,age_group,45-54,pir40,share_debtors,percent,5.8459,5.84587037411048,-0.0000296258895202683,-0.000506780641479812,0.0292295,TRUE,694
+"Fed historical tables (nominal), Table 18",2022,age_group,55-64,pir40,share_debtors,percent,10.722,10.721957273717,-0.0000427262830093866,-0.00039849172737723,0.05361,TRUE,749
+"Fed historical tables (nominal), Table 18",2022,age_group,65-74,pir40,share_debtors,percent,9.7916,9.79157929794349,-0.0000207020565117233,-0.000211426697492987,0.048958,TRUE,541
+"Fed historical tables (nominal), Table 18",2022,age_group,75 and over,pir40,share_debtors,percent,8.375,8.37499388720576,-0.00000611279423701205,-0.0000729885879046215,0.041875,TRUE,241
+"Fed historical tables (nominal), Table 18",2025,all,All families,pir40,share_debtors,percent,11.2217,11.2217230439265,0.0000230439265251903,0.000205351475491149,0.0561085,TRUE,3245
+"Fed historical tables (nominal), Table 18",2025,income_group,Less than 20,pir40,share_debtors,percent,24.7659,24.7658960569926,-0.00000394300738548736,-0.0000159211148615127,0.1238295,TRUE,405
+"Fed historical tables (nominal), Table 18",2025,income_group,20-39.9,pir40,share_debtors,percent,15.4906,15.4905761176369,-0.0000238823630827056,-0.000154173260446372,0.077453,TRUE,577
+"Fed historical tables (nominal), Table 18",2025,income_group,40-59.9,pir40,share_debtors,percent,11.7073,11.7073359939563,0.00003599395632925,0.00030744882534188,0.0585365,TRUE,567
+"Fed historical tables (nominal), Table 18",2025,income_group,60-79.9,pir40,share_debtors,percent,6.8063,6.80630875070461,0.00000875070461070493,0.000128567718300764,0.0340315,TRUE,610
+"Fed historical tables (nominal), Table 18",2025,income_group,80-89.9,pir40,share_debtors,percent,3.1923,3.19234963921287,0.0000496392128699341,0.00155496704162936,0.0159615,TRUE,335
+"Fed historical tables (nominal), Table 18",2025,income_group,90-100,pir40,share_debtors,percent,2.065,2.06498784536335,-0.0000121546366509406,-0.000588602259125454,0.010325,TRUE,751
+"Fed historical tables (nominal), Table 18",2025,networth_group,Less than 25,pir40,share_debtors,percent,9.9722,9.97222426221309,0.0000242622130848247,0.000243298500680138,0.049861,TRUE,702
+"Fed historical tables (nominal), Table 18",2025,networth_group,25-49.9,pir40,share_debtors,percent,16.4313,16.4312937268086,-0.00000627319143120531,-0.0000381783025762131,0.0821565,TRUE,659
+"Fed historical tables (nominal), Table 18",2025,networth_group,50-74.9,pir40,share_debtors,percent,12.4347,12.434740518294,0.0000405182939946513,0.000325848584965068,0.0621735,TRUE,701
+"Fed historical tables (nominal), Table 18",2025,networth_group,75-89.9,pir40,share_debtors,percent,5.6447,5.64471402656455,0.0000140265645498516,0.000248490877280487,0.0282235,TRUE,478
+"Fed historical tables (nominal), Table 18",2025,networth_group,90-100,pir40,share_debtors,percent,4.565,4.56504225461579,0.0000422546157849979,0.000925621375355923,0.022825,TRUE,705
+"Fed historical tables (nominal), Table 18",2025,age_group,less than 35,pir40,share_debtors,percent,8.3516,8.35158811651493,-0.0000118834850653116,-0.000142289921276301,0.041758,TRUE,499
+"Fed historical tables (nominal), Table 18",2025,age_group,35-44,pir40,share_debtors,percent,11.4474,11.4474304439615,0.0000304439615099739,0.000265946516326623,0.057237,TRUE,661
+"Fed historical tables (nominal), Table 18",2025,age_group,45-54,pir40,share_debtors,percent,13.7453,13.7453443067946,0.000044306794640292,0.000322341415904287,0.0687265,TRUE,711
+"Fed historical tables (nominal), Table 18",2025,age_group,55-64,pir40,share_debtors,percent,11.1252,11.1251918391027,-0.00000816089727706526,-0.0000733550612758895,0.055626,TRUE,636
+"Fed historical tables (nominal), Table 18",2025,age_group,65-74,pir40,share_debtors,percent,9.9862,9.98617756724008,-0.0000224327599234186,-0.000224637599120973,0.049931,TRUE,496
+"Fed historical tables (nominal), Table 18",2025,age_group,75 and over,pir40,share_debtors,percent,14.3206,14.3206463977763,0.0000463977762787948,0.000323993242453492,0.071603,TRUE,242
+"Fed historical tables (nominal), Table 4",1989,all,All families,networth,mean,dollars,189370,189367.923620389,-2.07637961080764,-0.00109646702793876,946.85,TRUE,3143
+"Fed historical tables (nominal), Table 4",1989,income_group,Less than 20,networth,mean,dollars,24700,24697.5295626535,-2.47043734648105,-0.0100017706335265,123.5,TRUE,444
+"Fed historical tables (nominal), Table 4",1989,income_group,20-39.9,networth,mean,dollars,68060,68061.8451624152,1.8451624152076,0.00271108200882691,340.3,TRUE,466
+"Fed historical tables (nominal), Table 4",1989,income_group,40-59.9,networth,mean,dollars,102640,102636.506145377,-3.49385462309874,-0.00340398930543525,513.2,TRUE,491
+"Fed historical tables (nominal), Table 4",1989,income_group,60-79.9,networth,mean,dollars,136590,136587.668566506,-2.33143349376041,-0.00170688446720874,682.95,TRUE,510
+"Fed historical tables (nominal), Table 4",1989,income_group,80-89.9,networth,mean,dollars,223650,223646.885940218,-3.11405978183029,-0.00139238085483134,1118.25,TRUE,333
+"Fed historical tables (nominal), Table 4",1989,income_group,90-100,networth,mean,dollars,1005860,1005862.32551083,2.32551082689315,0.000231196272532276,5029.3,TRUE,899
+"Fed historical tables (nominal), Table 4",1989,networth_group,Less than 25,networth,mean,dollars,-540,-542.320820718157,-2.32082071815671,0.429781614473465,5,TRUE,510
+"Fed historical tables (nominal), Table 4",1989,networth_group,25-49.9,networth,mean,dollars,23150,23148.5996693805,-1.40033061953363,-0.00604894436083643,115.75,TRUE,564
+"Fed historical tables (nominal), Table 4",1989,networth_group,50-74.9,networth,mean,dollars,89720,89716.6212404557,-3.37875954428455,-0.00376589338417805,448.6,TRUE,634
+"Fed historical tables (nominal), Table 4",1989,networth_group,75-89.9,networth,mean,dollars,227710,227710.149281929,0.149281929101562,0.0000655579153755049,1138.55,TRUE,470
+"Fed historical tables (nominal), Table 4",1989,networth_group,90-100,networth,mean,dollars,1269330,1269329.80372705,-0.196272946661338,-0.0000154627202273119,6346.65,TRUE,965
+"Fed historical tables (nominal), Table 4",1992,all,All families,networth,mean,dollars,187070,187069.373052933,-0.626947066833964,-0.000335140357531386,935.35,TRUE,3906
+"Fed historical tables (nominal), Table 4",1992,income_group,Less than 20,networth,mean,dollars,33320,33324.5886712971,4.58867129710416,0.0137715225003126,166.6,TRUE,552
+"Fed historical tables (nominal), Table 4",1992,income_group,20-39.9,networth,mean,dollars,64820,64824.3725712621,4.37257126206532,0.00674571314727757,324.1,TRUE,550
+"Fed historical tables (nominal), Table 4",1992,income_group,40-59.9,networth,mean,dollars,101420,101422.468011352,2.46801135242276,0.00243345627334132,507.1,TRUE,590
+"Fed historical tables (nominal), Table 4",1992,income_group,60-79.9,networth,mean,dollars,139720,139724.372270582,4.37227058233111,0.00312930903401883,698.6,TRUE,605
+"Fed historical tables (nominal), Table 4",1992,income_group,80-89.9,networth,mean,dollars,227950,227947.395808111,-2.60419188902597,-0.00114243996009036,1139.75,TRUE,372
+"Fed historical tables (nominal), Table 4",1992,income_group,90-100,networth,mean,dollars,963640,963643.437765906,3.43776590540074,0.000356747945851224,4818.2,TRUE,1237
+"Fed historical tables (nominal), Table 4",1992,networth_group,Less than 25,networth,mean,dollars,-560,-558.78496894071,1.21503105929003,-0.216969832016076,5,TRUE,731
+"Fed historical tables (nominal), Table 4",1992,networth_group,25-49.9,networth,mean,dollars,25470,25467.7208973595,-2.27910264045931,-0.00894818468967143,127.35,TRUE,693
+"Fed historical tables (nominal), Table 4",1992,networth_group,50-74.9,networth,mean,dollars,90750,90751.1450069583,1.14500695832248,0.0012617156565537,453.75,TRUE,662
+"Fed historical tables (nominal), Table 4",1992,networth_group,75-89.9,networth,mean,dollars,219060,219061.744248198,1.74424819799606,0.000796242215829479,1095.3,TRUE,496
+"Fed historical tables (nominal), Table 4",1992,networth_group,90-100,networth,mean,dollars,1252720,1252718.52354328,-1.47645672317594,-0.000117860074332328,6263.6,TRUE,1324
+"Fed historical tables (nominal), Table 4",1995,all,All families,networth,mean,dollars,213120,213122.617593907,2.61759390655789,0.00122822536906808,1065.6,TRUE,4299
+"Fed historical tables (nominal), Table 4",1995,income_group,Less than 20,networth,mean,dollars,44640,44638.8220628731,-1.17793712695129,-0.00263874804424573,223.2,TRUE,597
+"Fed historical tables (nominal), Table 4",1995,income_group,20-39.9,networth,mean,dollars,80290,80287.6262726962,-2.37372730378411,-0.00295644202738088,401.45,TRUE,615
+"Fed historical tables (nominal), Table 4",1995,income_group,40-59.9,networth,mean,dollars,101520,101515.570023913,-4.42997608720907,-0.00436364862806252,507.6,TRUE,644
+"Fed historical tables (nominal), Table 4",1995,income_group,60-79.9,networth,mean,dollars,159760,159759.343034144,-0.656965856178431,-0.000411220490847791,798.8,TRUE,726
+"Fed historical tables (nominal), Table 4",1995,income_group,80-89.9,networth,mean,dollars,258620,258624.029695356,4.02969535594457,0.00155815302603997,1293.1,TRUE,430
+"Fed historical tables (nominal), Table 4",1995,income_group,90-100,networth,mean,dollars,1099930,1099927.13208693,-2.86791307106614,-0.000260735962385437,5499.65,TRUE,1287
+"Fed historical tables (nominal), Table 4",1995,networth_group,Less than 25,networth,mean,dollars,-150,-148.65212142368,1.34787857632006,-0.898585717546704,5,TRUE,789
+"Fed historical tables (nominal), Table 4",1995,networth_group,25-49.9,networth,mean,dollars,30630,30626.3758962874,-3.62410371260557,-0.0118318763062539,153.15,TRUE,755
+"Fed historical tables (nominal), Table 4",1995,networth_group,50-74.9,networth,mean,dollars,99630,99634.0820545111,4.08205451106187,0.00409721420361525,498.15,TRUE,729
+"Fed historical tables (nominal), Table 4",1995,networth_group,75-89.9,networth,mean,dollars,238720,238721.365429038,1.36542903754162,0.000571979322026482,1193.6,TRUE,554
+"Fed historical tables (nominal), Table 4",1995,networth_group,90-100,networth,mean,dollars,1447390,1447391.7616865,1.76168649783358,0.00012171470701287,7236.95,TRUE,1472
+"Fed historical tables (nominal), Table 4",1998,all,All families,networth,mean,dollars,283640,283640.197937017,0.197937016608194,0.0000697845919504278,1418.2,TRUE,4305
+"Fed historical tables (nominal), Table 4",1998,income_group,Less than 20,networth,mean,dollars,49560,49563.8279716177,3.8279716176985,0.00772391367574353,247.8,TRUE,670
+"Fed historical tables (nominal), Table 4",1998,income_group,20-39.9,networth,mean,dollars,97690,97694.8523728036,4.85237280356523,0.00496711311655771,488.45,TRUE,626
+"Fed historical tables (nominal), Table 4",1998,income_group,40-59.9,networth,mean,dollars,125740,125738.500447953,-1.49955204712751,-0.00119258155489702,628.7,TRUE,668
+"Fed historical tables (nominal), Table 4",1998,income_group,60-79.9,networth,mean,dollars,204100,204099.646427772,-0.353572228399571,-0.000173234800783719,1020.5,TRUE,657
+"Fed historical tables (nominal), Table 4",1998,income_group,80-89.9,networth,mean,dollars,329630,329632.995187808,2.99518780759536,0.000908651459999198,1648.15,TRUE,389
+"Fed historical tables (nominal), Table 4",1998,income_group,90-100,networth,mean,dollars,1552230,1552227.24188778,-2.75811221869662,-0.000177687083660065,7761.15,TRUE,1295
+"Fed historical tables (nominal), Table 4",1998,networth_group,Less than 25,networth,mean,dollars,-1850,-1847.54637706634,2.45362293366065,-0.13262826668436,9.25,TRUE,886
+"Fed historical tables (nominal), Table 4",1998,networth_group,25-49.9,networth,mean,dollars,35970,35966.7108585683,-3.28914143165457,-0.00914412408021843,179.85,TRUE,741
+"Fed historical tables (nominal), Table 4",1998,networth_group,50-74.9,networth,mean,dollars,128700,128699.195774758,-0.804225241561653,-0.000624883637577042,643.5,TRUE,740
+"Fed historical tables (nominal), Table 4",1998,networth_group,75-89.9,networth,mean,dollars,322690,322693.549171692,3.5491716923425,0.00109987036857123,1613.45,TRUE,558
+"Fed historical tables (nominal), Table 4",1998,networth_group,90-100,networth,mean,dollars,1944460,1944464.38955229,4.38955228659324,0.000225746597337731,9722.3,TRUE,1380
+"Fed historical tables (nominal), Table 4",2001,all,All families,networth,mean,dollars,397560,397559.954597964,-0.0454020359902643,-0.0000114201720470531,1987.8,TRUE,4442
+"Fed historical tables (nominal), Table 4",2001,income_group,Less than 20,networth,mean,dollars,53300,53300.8257411446,0.825741144632048,0.00154923291675806,266.5,TRUE,672
+"Fed historical tables (nominal), Table 4",2001,income_group,20-39.9,networth,mean,dollars,118150,118154.606094799,4.6060947990336,0.00389851442999035,590.75,TRUE,658
+"Fed historical tables (nominal), Table 4",2001,income_group,40-59.9,networth,mean,dollars,163310,163307.598898423,-2.40110157712479,-0.00147027222896626,816.55,TRUE,694
+"Fed historical tables (nominal), Table 4",2001,income_group,60-79.9,networth,mean,dollars,295110,295107.007499346,-2.9925006540725,-0.00101402888891346,1475.55,TRUE,712
+"Fed historical tables (nominal), Table 4",2001,income_group,80-89.9,networth,mean,dollars,453030,453033.187148482,3.18714848189848,0.000703518195682069,2265.15,TRUE,400
+"Fed historical tables (nominal), Table 4",2001,income_group,90-100,networth,mean,dollars,2260840,2260837.20901817,-2.79098182870075,-0.000123448887524139,11304.2,TRUE,1306
+"Fed historical tables (nominal), Table 4",2001,networth_group,Less than 25,networth,mean,dollars,80,79.3185328013171,-0.681467198682952,-0.85183399835369,5,TRUE,897
+"Fed historical tables (nominal), Table 4",2001,networth_group,25-49.9,networth,mean,dollars,44460,44461.4474974156,1.447497415611,0.00325572967973683,222.3,TRUE,814
+"Fed historical tables (nominal), Table 4",2001,networth_group,50-74.9,networth,mean,dollars,167420,167420.037526169,0.0375261691224296,0.0000224143884377192,837.1,TRUE,798
+"Fed historical tables (nominal), Table 4",2001,networth_group,75-89.9,networth,mean,dollars,452350,452352.769377869,2.76937786897179,0.000612220154520125,2261.75,TRUE,522
+"Fed historical tables (nominal), Table 4",2001,networth_group,90-100,networth,mean,dollars,2765460,2765458.58922041,-1.41077958792448,-0.0000510142829013792,13827.3,TRUE,1411
+"Fed historical tables (nominal), Table 4",2004,all,All families,networth,mean,dollars,449130,449134.851714604,4.85171460360289,0.00108024727887313,2245.65,TRUE,4519
+"Fed historical tables (nominal), Table 4",2004,income_group,Less than 20,networth,mean,dollars,71510,71510.5930678054,0.593067805355531,0.000829349469102966,357.55,TRUE,669
+"Fed historical tables (nominal), Table 4",2004,income_group,20-39.9,networth,mean,dollars,123230,123225.561135101,-4.43886489867873,-0.00360209762126003,616.15,TRUE,680
+"Fed historical tables (nominal), Table 4",2004,income_group,40-59.9,networth,mean,dollars,195720,195723.010715378,3.01071537815733,0.00153827681287417,978.6,TRUE,685
+"Fed historical tables (nominal), Table 4",2004,income_group,60-79.9,networth,mean,dollars,339190,339189.838835659,-0.161164341203403,-0.0000475144730691951,1695.95,TRUE,722
+"Fed historical tables (nominal), Table 4",2004,income_group,80-89.9,networth,mean,dollars,493020,493023.217421308,3.21742130746134,0.000652594480439199,2465.1,TRUE,398
+"Fed historical tables (nominal), Table 4",2004,income_group,90-100,networth,mean,dollars,2538540,2538543.34810547,3.34810546878725,0.000131890987291406,12692.7,TRUE,1365
+"Fed historical tables (nominal), Table 4",2004,networth_group,Less than 25,networth,mean,dollars,-1330,-1333.23393863083,-3.23393863083038,0.243153280513562,6.65,TRUE,933
+"Fed historical tables (nominal), Table 4",2004,networth_group,25-49.9,networth,mean,dollars,47160,47164.5635175292,4.56351752922637,0.00967666990930105,235.8,TRUE,812
+"Fed historical tables (nominal), Table 4",2004,networth_group,50-74.9,networth,mean,dollars,185850,185854.065217713,4.06521771266125,0.0021873649247572,929.25,TRUE,784
+"Fed historical tables (nominal), Table 4",2004,networth_group,75-89.9,networth,mean,dollars,528830,528829.551461185,-0.448538815136999,-0.0000848172030968362,2644.15,TRUE,561
+"Fed historical tables (nominal), Table 4",2004,networth_group,90-100,networth,mean,dollars,3118670,3118670.47733448,0.477334483992308,0.0000153057067273007,15593.35,TRUE,1429
+"Fed historical tables (nominal), Table 4",2007,all,All families,networth,mean,dollars,556780,556783.12965243,3.12965242972132,0.000562098572096936,2783.9,TRUE,4417
+"Fed historical tables (nominal), Table 4",2007,income_group,Less than 20,networth,mean,dollars,105860,105863.504168141,3.50416814062919,0.00331019095090609,529.3,TRUE,633
+"Fed historical tables (nominal), Table 4",2007,income_group,20-39.9,networth,mean,dollars,134490,134487.618070506,-2.38192949441145,-0.00177108297599186,672.45,TRUE,632
+"Fed historical tables (nominal), Table 4",2007,income_group,40-59.9,networth,mean,dollars,210660,210657.343194232,-2.65680576791056,-0.00126118188925783,1053.3,TRUE,656
+"Fed historical tables (nominal), Table 4",2007,income_group,60-79.9,networth,mean,dollars,371820,371821.544862529,1.54486252920469,0.000415486668066455,1859.1,TRUE,682
+"Fed historical tables (nominal), Table 4",2007,income_group,80-89.9,networth,mean,dollars,614080,614084.673733134,4.6737331339391,0.000761095155995814,3070.4,TRUE,409
+"Fed historical tables (nominal), Table 4",2007,income_group,90-100,networth,mean,dollars,3306410,3306409.92236777,-0.0776322265155613,-0.00000234793103443195,16532.05,TRUE,1405
+"Fed historical tables (nominal), Table 4",2007,networth_group,Less than 25,networth,mean,dollars,-2110,-2105.80012935984,4.19987064016141,-0.199046001903384,10.55,TRUE,834
+"Fed historical tables (nominal), Table 4",2007,networth_group,25-49.9,networth,mean,dollars,58130,58129.8372340459,-0.162765954075439,-0.000280003361561052,290.65,TRUE,768
+"Fed historical tables (nominal), Table 4",2007,networth_group,50-74.9,networth,mean,dollars,227740,227743.116425425,3.11642542452319,0.00136841372816509,1138.7,TRUE,764
+"Fed historical tables (nominal), Table 4",2007,networth_group,75-89.9,networth,mean,dollars,587960,587958.171575949,-1.82842405093834,-0.000310977626188574,2939.8,TRUE,549
+"Fed historical tables (nominal), Table 4",2007,networth_group,90-100,networth,mean,dollars,3974800,3974798.89378403,-1.10621596872807,-0.0000278307328350625,19874,TRUE,1502
+"Fed historical tables (nominal), Table 4",2010,all,All families,networth,mean,dollars,494750,494750.857827144,0.857827143510804,0.000173385981507995,2473.75,TRUE,6482
+"Fed historical tables (nominal), Table 4",2010,income_group,Less than 20,networth,mean,dollars,116870,116865.455212371,-4.54478762869258,-0.00388875470924324,584.35,TRUE,1156
+"Fed historical tables (nominal), Table 4",2010,income_group,20-39.9,networth,mean,dollars,129950,129952.232955787,2.2329557868361,0.00171831918956222,649.75,TRUE,1088
+"Fed historical tables (nominal), Table 4",2010,income_group,40-59.9,networth,mean,dollars,197110,197110.153060342,0.153060341574019,0.0000776522457379224,985.55,TRUE,1104
+"Fed historical tables (nominal), Table 4",2010,income_group,60-79.9,networth,mean,dollars,292390,292390.347974851,0.347974851320032,0.000119010517227002,1461.95,TRUE,1114
+"Fed historical tables (nominal), Table 4",2010,income_group,80-89.9,networth,mean,dollars,568380,568380.426918266,0.426918265759014,0.0000751114159117164,2841.9,TRUE,606
+"Fed historical tables (nominal), Table 4",2010,income_group,90-100,networth,mean,dollars,2906090,2906092.03537219,2.03537218971178,0.0000700381677687814,14530.45,TRUE,1414
+"Fed historical tables (nominal), Table 4",2010,networth_group,Less than 25,networth,mean,dollars,-12140,-12141.448845415,-1.44884541504143,0.0119344762359261,60.7,TRUE,1502
+"Fed historical tables (nominal), Table 4",2010,networth_group,25-49.9,networth,mean,dollars,35630,35630.5150528696,0.515052869610372,0.00144555955545993,178.15,TRUE,1345
+"Fed historical tables (nominal), Table 4",2010,networth_group,50-74.9,networth,mean,dollars,168090,168085.464142706,-4.53585729424958,-0.00269846944746837,840.45,TRUE,1226
+"Fed historical tables (nominal), Table 4",2010,networth_group,75-89.9,networth,mean,dollars,525010,525008.144582651,-1.85541734879371,-0.000353406096796958,2625.05,TRUE,946
+"Fed historical tables (nominal), Table 4",2010,networth_group,90-100,networth,mean,dollars,3680240,3680237.4560519,-2.54394810413942,-0.000069124516448368,18401.2,TRUE,1463
+"Fed historical tables (nominal), Table 4",2013,all,All families,networth,mean,dollars,528420,528420.870414694,0.870414693607017,0.000164720240264755,2642.1,TRUE,6015
+"Fed historical tables (nominal), Table 4",2013,income_group,Less than 20,networth,mean,dollars,87530,87530.3204546883,0.320454688277096,0.000366108406577283,437.65,TRUE,1004
+"Fed historical tables (nominal), Table 4",2013,income_group,20-39.9,networth,mean,dollars,111350,111350.141896676,0.141896676388569,0.000127433027740071,556.75,TRUE,980
+"Fed historical tables (nominal), Table 4",2013,income_group,40-59.9,networth,mean,dollars,170070,170066.211196265,-3.78880373487482,-0.00222779075373365,850.35,TRUE,998
+"Fed historical tables (nominal), Table 4",2013,income_group,60-79.9,networth,mean,dollars,333840,333843.712379611,3.71237961133011,0.00111202360751561,1669.2,TRUE,1041
+"Fed historical tables (nominal), Table 4",2013,income_group,80-89.9,networth,mean,dollars,629920,629917.602616504,-2.39738349569961,-0.000380585391113096,3149.6,TRUE,573
+"Fed historical tables (nominal), Table 4",2013,income_group,90-100,networth,mean,dollars,3248000,3248003.23161189,3.23161188978702,0.0000994954399564969,16240,TRUE,1419
+"Fed historical tables (nominal), Table 4",2013,networth_group,Less than 25,networth,mean,dollars,-12970,-12965.2899397771,4.71006022293113,-0.0363150364142724,64.85,TRUE,1341
+"Fed historical tables (nominal), Table 4",2013,networth_group,25-49.9,networth,mean,dollars,35860,35863.2808533038,3.28085330382601,0.0091490610815003,179.3,TRUE,1216
+"Fed historical tables (nominal), Table 4",2013,networth_group,50-74.9,networth,mean,dollars,177710,177714.805608053,4.80560805340065,0.00270418550076003,888.55,TRUE,1117
+"Fed historical tables (nominal), Table 4",2013,networth_group,75-89.9,networth,mean,dollars,546250,546252.688997265,2.68899726460222,0.000492264945464938,2731.25,TRUE,837
+"Fed historical tables (nominal), Table 4",2013,networth_group,90-100,networth,mean,dollars,3962420,3962424.17169429,4.1716942912899,0.000105281476756374,19812.1,TRUE,1504
+"Fed historical tables (nominal), Table 4",2016,all,All families,networth,mean,dollars,689500,689504.923209857,4.92320985719562,0.000714026085162526,3447.5,TRUE,6248
+"Fed historical tables (nominal), Table 4",2016,income_group,Less than 20,networth,mean,dollars,91390,91394.414010782,4.41401078195486,0.00482986189074828,456.95,TRUE,1031
+"Fed historical tables (nominal), Table 4",2016,income_group,20-39.9,networth,mean,dollars,124070,124070.394405938,0.394405938175623,0.000317889851032178,620.35,TRUE,1009
+"Fed historical tables (nominal), Table 4",2016,income_group,40-59.9,networth,mean,dollars,210650,210654.474681396,4.47468139618286,0.00212422568059951,1053.25,TRUE,1020
+"Fed historical tables (nominal), Table 4",2016,income_group,60-79.9,networth,mean,dollars,373300,373302.272906001,2.27290600119159,0.000608868470718346,1866.5,TRUE,1099
+"Fed historical tables (nominal), Table 4",2016,income_group,80-89.9,networth,mean,dollars,770110,770110.016676786,0.0166767863556743,0.00000216550705167759,3850.55,TRUE,617
+"Fed historical tables (nominal), Table 4",2016,income_group,90-100,networth,mean,dollars,4525330,4525326.63008236,-3.36991764139384,-0.000074467887234607,22626.65,TRUE,1472
+"Fed historical tables (nominal), Table 4",2016,networth_group,Less than 25,networth,mean,dollars,-11900,-11895.6420698255,4.35793017451579,-0.0366212619707209,59.5,TRUE,1351
+"Fed historical tables (nominal), Table 4",2016,networth_group,25-49.9,networth,mean,dollars,44670,44667.3000941519,-2.69990584812331,-0.00604411427831499,223.35,TRUE,1222
+"Fed historical tables (nominal), Table 4",2016,networth_group,50-74.9,networth,mean,dollars,204060,204056.151007784,-3.84899221628439,-0.00188620612382848,1020.3,TRUE,1159
+"Fed historical tables (nominal), Table 4",2016,networth_group,75-89.9,networth,mean,dollars,659160,659155.217488785,-4.78251121542417,-0.000725546334034857,3295.8,TRUE,968
+"Fed historical tables (nominal), Table 4",2016,networth_group,90-100,networth,mean,dollars,5310840,5310843.11267055,3.11267054826021,0.0000586097594403185,26554.2,TRUE,1548
+"Fed historical tables (nominal), Table 4",2019,all,All families,networth,mean,dollars,746810,746807.852814493,-2.1471855067648,-0.000287514295036863,3734.05,TRUE,5777
+"Fed historical tables (nominal), Table 4",2019,income_group,Less than 20,networth,mean,dollars,128420,128423.002010685,3.00201068546448,0.00233765043253737,642.1,TRUE,948
+"Fed historical tables (nominal), Table 4",2019,income_group,20-39.9,networth,mean,dollars,141790,141790.262329951,0.262329951190623,0.000185013013040851,708.95,TRUE,890
+"Fed historical tables (nominal), Table 4",2019,income_group,40-59.9,networth,mean,dollars,222860,222857.65735227,-2.34264773046016,-0.00105117460758331,1114.3,TRUE,909
+"Fed historical tables (nominal), Table 4",2019,income_group,60-79.9,networth,mean,dollars,430100,430104.675049696,4.67504969611764,0.00108696807628869,2150.5,TRUE,975
+"Fed historical tables (nominal), Table 4",2019,income_group,80-89.9,networth,mean,dollars,834760,834760.945087065,0.945087064988911,0.000113216620943614,4173.8,TRUE,568
+"Fed historical tables (nominal), Table 4",2019,income_group,90-100,networth,mean,dollars,4786590,4786593.13648479,3.13648479059339,0.0000655264977905646,23932.95,TRUE,1487
+"Fed historical tables (nominal), Table 4",2019,networth_group,Less than 25,networth,mean,dollars,-13630,-13634.1176983467,-4.11769834666848,0.0302105528002089,68.15,TRUE,1231
+"Fed historical tables (nominal), Table 4",2019,networth_group,25-49.9,networth,mean,dollars,58180,58182.0014472711,2.00144727112638,0.00344009500021722,290.9,TRUE,1097
+"Fed historical tables (nominal), Table 4",2019,networth_group,50-74.9,networth,mean,dollars,236280,236279.91164146,-0.0883585400297307,-0.0000373956915649783,1181.4,TRUE,1049
+"Fed historical tables (nominal), Table 4",2019,networth_group,75-89.9,networth,mean,dollars,703560,703562.667339203,2.66733920248225,0.000379120359668295,3517.8,TRUE,805
+"Fed historical tables (nominal), Table 4",2019,networth_group,90-100,networth,mean,dollars,5710250,5710248.02081862,-1.97918138373643,-0.0000346601529484074,28551.25,TRUE,1595
+"Fed historical tables (nominal), Table 4",2022,all,All families,networth,mean,dollars,1059460,1059457.47045053,-2.52954946900718,-0.00023875837398365,5297.3,TRUE,4595
+"Fed historical tables (nominal), Table 4",2022,income_group,Less than 20,networth,mean,dollars,196300,196298.250949814,-1.74905018601567,-0.000891008754974868,981.5,TRUE,794
+"Fed historical tables (nominal), Table 4",2022,income_group,20-39.9,networth,mean,dollars,196300,196298.766114776,-1.23388522377354,-0.000628571178692583,981.5,TRUE,742
+"Fed historical tables (nominal), Table 4",2022,income_group,40-59.9,networth,mean,dollars,411090,411094.700091363,4.700091362698,0.00114332417784378,2055.45,TRUE,709
+"Fed historical tables (nominal), Table 4",2022,income_group,60-79.9,networth,mean,dollars,596070,596073.849371473,3.84937147260644,0.000645791848710124,2980.35,TRUE,706
+"Fed historical tables (nominal), Table 4",2022,income_group,80-89.9,networth,mean,dollars,1313200,1313199.84560648,-0.154393516248092,-0.000011757045099611,6566,TRUE,450
+"Fed historical tables (nominal), Table 4",2022,income_group,90-100,networth,mean,dollars,6479220,6479218.68469795,-1.31530205160379,-0.0000203003147231271,32396.1,TRUE,1194
+"Fed historical tables (nominal), Table 4",2022,networth_group,Less than 25,networth,mean,dollars,-5650,-5647.7234640707,2.27653592930255,-0.0402926713150895,28.25,TRUE,1066
+"Fed historical tables (nominal), Table 4",2022,networth_group,25-49.9,networth,mean,dollars,98840,98837.7029472168,-2.29705278323672,-0.00232401131448475,494.2,TRUE,784
+"Fed historical tables (nominal), Table 4",2022,networth_group,50-74.9,networth,mean,dollars,373780,373781.663826022,1.66382602159865,0.00044513511199065,1868.9,TRUE,830
+"Fed historical tables (nominal), Table 4",2022,networth_group,75-89.9,networth,mean,dollars,1102760,1102756.65493308,-3.34506692178547,-0.000303335895551659,5513.8,TRUE,655
+"Fed historical tables (nominal), Table 4",2022,networth_group,90-100,networth,mean,dollars,7771160,7771163.09441677,3.09441677015275,0.0000398192389572824,38855.8,TRUE,1260
+"Fed historical tables (nominal), Table 4",2025,all,All families,networth,mean,dollars,1232000,1231997.263703,-2.73629700159654,-0.000222102029350369,6160,TRUE,4360
+"Fed historical tables (nominal), Table 4",2025,income_group,Less than 20,networth,mean,dollars,145330,145327.166770059,-2.83322994151968,-0.00194951485689099,726.65,TRUE,735
+"Fed historical tables (nominal), Table 4",2025,income_group,20-39.9,networth,mean,dollars,254580,254576.333428658,-3.66657134212437,-0.00144024327996087,1272.9,TRUE,736
+"Fed historical tables (nominal), Table 4",2025,income_group,40-59.9,networth,mean,dollars,462270,462265.145900992,-4.85409900813829,-0.00105005711124198,2311.35,TRUE,672
+"Fed historical tables (nominal), Table 4",2025,income_group,60-79.9,networth,mean,dollars,803490,803492.492164548,2.49216454825364,0.000310167462974479,4017.45,TRUE,703
+"Fed historical tables (nominal), Table 4",2025,income_group,80-89.9,networth,mean,dollars,1421450,1421454.33243048,4.33243047492579,0.000304789508946905,7107.25,TRUE,386
+"Fed historical tables (nominal), Table 4",2025,income_group,90-100,networth,mean,dollars,7565790,7565790.92925658,0.929256576113403,0.0000122823469342052,37828.95,TRUE,1128
+"Fed historical tables (nominal), Table 4",2025,networth_group,Less than 25,networth,mean,dollars,-3930,-3934.24111479736,-4.24111479735939,0.107916407057491,19.65,TRUE,1028
+"Fed historical tables (nominal), Table 4",2025,networth_group,25-49.9,networth,mean,dollars,109090,109087.262544176,-2.7374558239826,-0.00250935541661252,545.45,TRUE,789
+"Fed historical tables (nominal), Table 4",2025,networth_group,50-74.9,networth,mean,dollars,432370,432366.347148394,-3.65285160584608,-0.000844843908191151,2161.85,TRUE,821
+"Fed historical tables (nominal), Table 4",2025,networth_group,75-89.9,networth,mean,dollars,1397200,1397202.81025961,2.81025960529223,0.000201135099147741,6986,TRUE,578
+"Fed historical tables (nominal), Table 4",2025,networth_group,90-100,networth,mean,dollars,8875480,8875483.74876437,3.74876437522471,0.0000422373142097634,44377.4,TRUE,1144
+"Fed historical tables (nominal), Table 4",1989,all,All families,networth,median,dollars,47060,47060,0,0,235.3,TRUE,3143
+"Fed historical tables (nominal), Table 4",1989,income_group,Less than 20,networth,median,dollars,1920,1920,0,0,9.6,TRUE,444
+"Fed historical tables (nominal), Table 4",1989,income_group,20-39.9,networth,median,dollars,24800,24800,0,0,124,TRUE,466
+"Fed historical tables (nominal), Table 4",1989,income_group,40-59.9,networth,median,dollars,42120,42120,0,0,210.6,TRUE,491
+"Fed historical tables (nominal), Table 4",1989,income_group,60-79.9,networth,median,dollars,67500,67500,0,0,337.5,TRUE,510
+"Fed historical tables (nominal), Table 4",1989,income_group,80-89.9,networth,median,dollars,134130,134130,0,0,670.65,TRUE,333
+"Fed historical tables (nominal), Table 4",1989,income_group,90-100,networth,median,dollars,395000,395000,0,0,1975,TRUE,899
+"Fed historical tables (nominal), Table 4",1989,networth_group,Less than 25,networth,median,dollars,110,110,0,0,0.55,TRUE,510
+"Fed historical tables (nominal), Table 4",1989,networth_group,25-49.9,networth,median,dollars,21000,21000,0,0,105,TRUE,564
+"Fed historical tables (nominal), Table 4",1989,networth_group,50-74.9,networth,median,dollars,87300,87300,0,0,436.5,TRUE,634
+"Fed historical tables (nominal), Table 4",1989,networth_group,75-89.9,networth,median,dollars,211650,211650,0,0,1058.25,TRUE,470
+"Fed historical tables (nominal), Table 4",1989,networth_group,90-100,networth,median,dollars,691000,691000,0,0,3455,TRUE,965
+"Fed historical tables (nominal), Table 4",1992,all,All families,networth,median,dollars,49700,49700,0,0,248.5,TRUE,3906
+"Fed historical tables (nominal), Table 4",1992,income_group,Less than 20,networth,median,dollars,3940,3940,0.000000000000454747350886464,0.0000000000000115418109362047,19.7,TRUE,552
+"Fed historical tables (nominal), Table 4",1992,income_group,20-39.9,networth,median,dollars,27750,27750,0,0,138.75,TRUE,550
+"Fed historical tables (nominal), Table 4",1992,income_group,40-59.9,networth,median,dollars,39550,39550,0,0,197.75,TRUE,590
+"Fed historical tables (nominal), Table 4",1992,income_group,60-79.9,networth,median,dollars,75410,75410,0,0,377.05,TRUE,605
+"Fed historical tables (nominal), Table 4",1992,income_group,80-89.9,networth,median,dollars,119870,119870,0,0,599.35,TRUE,372
+"Fed historical tables (nominal), Table 4",1992,income_group,90-100,networth,median,dollars,364800,364800,0,0,1824,TRUE,1237
+"Fed historical tables (nominal), Table 4",1992,networth_group,Less than 25,networth,median,dollars,500,500,0.000000000000056843418860808,0.0000000000000113686837721616,2.5,TRUE,731
+"Fed historical tables (nominal), Table 4",1992,networth_group,25-49.9,networth,median,dollars,23580,23580,0,0,117.9,TRUE,693
+"Fed historical tables (nominal), Table 4",1992,networth_group,50-74.9,networth,median,dollars,87900,87900,0,0,439.5,TRUE,662
+"Fed historical tables (nominal), Table 4",1992,networth_group,75-89.9,networth,median,dollars,204401,204401,0,0,1022.005,TRUE,496
+"Fed historical tables (nominal), Table 4",1992,networth_group,90-100,networth,median,dollars,668000,668000,0.000000000116415321826935,0.0000000000000174274433872657,3340,TRUE,1324
+"Fed historical tables (nominal), Table 4",1995,all,All families,networth,median,dollars,57800,57800,0.00000000000727595761418343,0.0000000000000125881619622551,289,TRUE,4299
+"Fed historical tables (nominal), Table 4",1995,income_group,Less than 20,networth,median,dollars,5960,5960,0,0,29.8,TRUE,597
+"Fed historical tables (nominal), Table 4",1995,income_group,20-39.9,networth,median,dollars,34700,34700,0,0,173.5,TRUE,615
+"Fed historical tables (nominal), Table 4",1995,income_group,40-59.9,networth,median,dollars,45800,45800,0,0,229,TRUE,644
+"Fed historical tables (nominal), Table 4",1995,income_group,60-79.9,networth,median,dollars,75400,75400,0,0,377,TRUE,726
+"Fed historical tables (nominal), Table 4",1995,income_group,80-89.9,networth,median,dollars,128300,128300,-0.0000000000145519152283669,-0.0000000000000113421007235907,641.5,TRUE,430
+"Fed historical tables (nominal), Table 4",1995,income_group,90-100,networth,median,dollars,357100,357100,0,0,1785.5,TRUE,1287
+"Fed historical tables (nominal), Table 4",1995,networth_group,Less than 25,networth,median,dollars,950,950,0,0,5,TRUE,789
+"Fed historical tables (nominal), Table 4",1995,networth_group,25-49.9,networth,median,dollars,28320,28320,0,0,141.6,TRUE,755
+"Fed historical tables (nominal), Table 4",1995,networth_group,50-74.9,networth,median,dollars,95120,95120,0.0000000000145519152283669,0.0000000000000152984811063571,475.6,TRUE,729
+"Fed historical tables (nominal), Table 4",1995,networth_group,75-89.9,networth,median,dollars,221710,221710,0,0,1108.55,TRUE,554
+"Fed historical tables (nominal), Table 4",1995,networth_group,90-100,networth,median,dollars,684350,684350,0,0,3421.75,TRUE,1472
+"Fed historical tables (nominal), Table 4",1998,all,All families,networth,median,dollars,71700,71700,0,0,358.5,TRUE,4305
+"Fed historical tables (nominal), Table 4",1998,income_group,Less than 20,networth,median,dollars,5770,5770,0,0,28.85,TRUE,670
+"Fed historical tables (nominal), Table 4",1998,income_group,20-39.9,networth,median,dollars,34600,34600,0,0,173,TRUE,626
+"Fed historical tables (nominal), Table 4",1998,income_group,40-59.9,networth,median,dollars,53350,53350,0,0,266.75,TRUE,668
+"Fed historical tables (nominal), Table 4",1998,income_group,60-79.9,networth,median,dollars,111700,111700,-0.0000000000145519152283669,-0.0000000000000130276770173383,558.5,TRUE,657
+"Fed historical tables (nominal), Table 4",1998,income_group,80-89.9,networth,median,dollars,189000,189000,0,0,945,TRUE,389
+"Fed historical tables (nominal), Table 4",1998,income_group,90-100,networth,median,dollars,452280,452280,0,0,2261.4,TRUE,1295
+"Fed historical tables (nominal), Table 4",1998,networth_group,Less than 25,networth,median,dollars,500,500,0,0,5,TRUE,886
+"Fed historical tables (nominal), Table 4",1998,networth_group,25-49.9,networth,median,dollars,32840,32840,-0.00000000000727595761418343,-0.0000000000000221557783623125,164.2,TRUE,741
+"Fed historical tables (nominal), Table 4",1998,networth_group,50-74.9,networth,median,dollars,120760,120760,-0.0000000000145519152283669,-0.0000000000000120502775988464,603.8,TRUE,740
+"Fed historical tables (nominal), Table 4",1998,networth_group,75-89.9,networth,median,dollars,310930,310930,0,0,1554.65,TRUE,558
+"Fed historical tables (nominal), Table 4",1998,networth_group,90-100,networth,median,dollars,900300,900300,-0.000000000116415321826935,-0.0000000000000129307255167094,4501.5,TRUE,1380
+"Fed historical tables (nominal), Table 4",2001,all,All families,networth,median,dollars,86740,86740,0,0,433.7,TRUE,4442
+"Fed historical tables (nominal), Table 4",2001,income_group,Less than 20,networth,median,dollars,7900,7900,0,0,39.5,TRUE,672
+"Fed historical tables (nominal), Table 4",2001,income_group,20-39.9,networth,median,dollars,38540,38540,0,0,192.7,TRUE,658
+"Fed historical tables (nominal), Table 4",2001,income_group,40-59.9,networth,median,dollars,63740,63740,0,0,318.7,TRUE,694
+"Fed historical tables (nominal), Table 4",2001,income_group,60-79.9,networth,median,dollars,141600,141600,0,0,708,TRUE,712
+"Fed historical tables (nominal), Table 4",2001,income_group,80-89.9,networth,median,dollars,262300,262300,0,0,1311.5,TRUE,400
+"Fed historical tables (nominal), Table 4",2001,income_group,90-100,networth,median,dollars,834500,834500,0,0,4172.5,TRUE,1306
+"Fed historical tables (nominal), Table 4",2001,networth_group,Less than 25,networth,median,dollars,1200,1200,0,0,6,TRUE,897
+"Fed historical tables (nominal), Table 4",2001,networth_group,25-49.9,networth,median,dollars,41000,41000,0,0,205,TRUE,814
+"Fed historical tables (nominal), Table 4",2001,networth_group,50-74.9,networth,median,dollars,157900,157900,0,0,789.5,TRUE,798
+"Fed historical tables (nominal), Table 4",2001,networth_group,75-89.9,networth,median,dollars,431450,431450,-0.0000000000582076609134674,-0.0000000000000134911718422685,2157.25,TRUE,522
+"Fed historical tables (nominal), Table 4",2001,networth_group,90-100,networth,median,dollars,1316800,1316800,0,0,6584,TRUE,1411
+"Fed historical tables (nominal), Table 4",2004,all,All families,networth,median,dollars,93100,93100,0,0,465.5,TRUE,4519
+"Fed historical tables (nominal), Table 4",2004,income_group,Less than 20,networth,median,dollars,7420,7420,-0.000000000000909494701772928,-0.0000000000000122573409942443,37.1,TRUE,669
+"Fed historical tables (nominal), Table 4",2004,income_group,20-39.9,networth,median,dollars,34370,34370,-0.00000000000727595761418343,-0.0000000000000211695013505482,171.85,TRUE,680
+"Fed historical tables (nominal), Table 4",2004,income_group,40-59.9,networth,median,dollars,72450,72451,0.999999999985448,0.00138026224980738,362.25,TRUE,685
+"Fed historical tables (nominal), Table 4",2004,income_group,60-79.9,networth,median,dollars,160000,160000,-0.0000000000291038304567337,-0.0000000000000181898940354586,800,TRUE,722
+"Fed historical tables (nominal), Table 4",2004,income_group,80-89.9,networth,median,dollars,314000,314000,-0.0000000000582076609134674,-0.0000000000000185374716284928,1570,TRUE,398
+"Fed historical tables (nominal), Table 4",2004,income_group,90-100,networth,median,dollars,925500,925500,0,0,4627.5,TRUE,1365
+"Fed historical tables (nominal), Table 4",2004,networth_group,Less than 25,networth,median,dollars,1700,1700,-0.000000000000227373675443232,-0.000000000000013374922084896,8.5,TRUE,933
+"Fed historical tables (nominal), Table 4",2004,networth_group,25-49.9,networth,median,dollars,43600,43600,-0.00000000000727595761418343,-0.0000000000000166879761793198,218,TRUE,812
+"Fed historical tables (nominal), Table 4",2004,networth_group,50-74.9,networth,median,dollars,171100,171100,0,0,855.5,TRUE,784
+"Fed historical tables (nominal), Table 4",2004,networth_group,75-89.9,networth,median,dollars,509900,509900,-0.0000000000582076609134674,-0.000000000000011415505180127,2549.5,TRUE,561
+"Fed historical tables (nominal), Table 4",2004,networth_group,90-100,networth,median,dollars,1429500,1429500,0,0,7147.5,TRUE,1429
+"Fed historical tables (nominal), Table 4",2007,all,All families,networth,median,dollars,121000,121000,0,0,605,TRUE,4417
+"Fed historical tables (nominal), Table 4",2007,income_group,Less than 20,networth,median,dollars,8790,8790,0,0,43.95,TRUE,633
+"Fed historical tables (nominal), Table 4",2007,income_group,20-39.9,networth,median,dollars,37800,37800,0,0,189,TRUE,632
+"Fed historical tables (nominal), Table 4",2007,income_group,40-59.9,networth,median,dollars,88400,88400,0,0,442,TRUE,656
+"Fed historical tables (nominal), Table 4",2007,income_group,60-79.9,networth,median,dollars,204700,204700,0.0000000000291038304567337,0.0000000000000142177969988929,1023.5,TRUE,682
+"Fed historical tables (nominal), Table 4",2007,income_group,80-89.9,networth,median,dollars,357500,357500,0,0,1787.5,TRUE,409
+"Fed historical tables (nominal), Table 4",2007,income_group,90-100,networth,median,dollars,1120100,1120100,0,0,5600.5,TRUE,1405
+"Fed historical tables (nominal), Table 4",2007,networth_group,Less than 25,networth,median,dollars,1310,1310,0,0,6.55,TRUE,834
+"Fed historical tables (nominal), Table 4",2007,networth_group,25-49.9,networth,median,dollars,54210,54210,0,0,271.05,TRUE,768
+"Fed historical tables (nominal), Table 4",2007,networth_group,50-74.9,networth,median,dollars,220590,220590,0,0,1102.95,TRUE,764
+"Fed historical tables (nominal), Table 4",2007,networth_group,75-89.9,networth,median,dollars,572200,572200,0,0,2861,TRUE,549
+"Fed historical tables (nominal), Table 4",2007,networth_group,90-100,networth,median,dollars,1897200,1897200,0,0,9486,TRUE,1502
+"Fed historical tables (nominal), Table 4",2010,all,All families,networth,median,dollars,77000,77000,0,0,385,TRUE,6482
+"Fed historical tables (nominal), Table 4",2010,income_group,Less than 20,networth,median,dollars,6060,6060,0,0,30.3,TRUE,1156
+"Fed historical tables (nominal), Table 4",2010,income_group,20-39.9,networth,median,dollars,27700,27700,0,0,138.5,TRUE,1088
+"Fed historical tables (nominal), Table 4",2010,income_group,40-59.9,networth,median,dollars,64930,64930,-0.00000000000727595761418343,-0.0000000000000112058487820475,324.65,TRUE,1104
+"Fed historical tables (nominal), Table 4",2010,income_group,60-79.9,networth,median,dollars,127100,127100,0,0,635.5,TRUE,1114
+"Fed historical tables (nominal), Table 4",2010,income_group,80-89.9,networth,median,dollars,288930,288930,0,0,1444.65,TRUE,606
+"Fed historical tables (nominal), Table 4",2010,income_group,90-100,networth,median,dollars,1190000,1190000,0,0,5950,TRUE,1414
+"Fed historical tables (nominal), Table 4",2010,networth_group,25-49.9,networth,median,dollars,32300,32300,0.00000000000363797880709171,0.0000000000000112630922820177,161.5,TRUE,1345
+"Fed historical tables (nominal), Table 4",2010,networth_group,50-74.9,networth,median,dollars,156780,156780,0,0,783.9,TRUE,1226
+"Fed historical tables (nominal), Table 4",2010,networth_group,75-89.9,networth,median,dollars,479920,479920,0,0,2399.6,TRUE,946
+"Fed historical tables (nominal), Table 4",2010,networth_group,90-100,networth,median,dollars,1863800,1863800,-0.00000000023283064365387,-0.0000000000000124922547297923,9319,TRUE,1463
+"Fed historical tables (nominal), Table 4",2013,all,All families,networth,median,dollars,81400,81400,0,0,407,TRUE,6015
+"Fed historical tables (nominal), Table 4",2013,income_group,Less than 20,networth,median,dollars,6200,6200,0,0,31,TRUE,1004
+"Fed historical tables (nominal), Table 4",2013,income_group,20-39.9,networth,median,dollars,21500,21500,0,0,107.5,TRUE,980
+"Fed historical tables (nominal), Table 4",2013,income_group,40-59.9,networth,median,dollars,61800,61800,0,0,309,TRUE,998
+"Fed historical tables (nominal), Table 4",2013,income_group,60-79.9,networth,median,dollars,158710,158711,1,0.000630080020162561,793.55,TRUE,1041
+"Fed historical tables (nominal), Table 4",2013,income_group,80-89.9,networth,median,dollars,298400,298400,0,0,1492,TRUE,573
+"Fed historical tables (nominal), Table 4",2013,income_group,90-100,networth,median,dollars,1134500,1134500,0,0,5672.5,TRUE,1419
+"Fed historical tables (nominal), Table 4",2013,networth_group,25-49.9,networth,median,dollars,31360,31360,0.00000000000363797880709171,0.0000000000000116006977266955,156.8,TRUE,1216
+"Fed historical tables (nominal), Table 4",2013,networth_group,50-74.9,networth,median,dollars,168230,168230,0,0,841.15,TRUE,1117
+"Fed historical tables (nominal), Table 4",2013,networth_group,75-89.9,networth,median,dollars,505080,505080,0.0000000000582076609134674,0.0000000000000115244438333467,2525.4,TRUE,837
+"Fed historical tables (nominal), Table 4",2013,networth_group,90-100,networth,median,dollars,1871600,1871600,0.00000000023283064365387,0.0000000000000124401925440195,9358,TRUE,1504
+"Fed historical tables (nominal), Table 4",2016,all,All families,networth,median,dollars,97290,97290,0.0000000000145519152283669,0.0000000000000149572568900882,486.45,TRUE,6248
+"Fed historical tables (nominal), Table 4",2016,income_group,Less than 20,networth,median,dollars,6600,6600,0,0,33,TRUE,1031
+"Fed historical tables (nominal), Table 4",2016,income_group,20-39.9,networth,median,dollars,31500,31500,0.00000000000363797880709171,0.0000000000000115491390701324,157.5,TRUE,1009
+"Fed historical tables (nominal), Table 4",2016,income_group,40-59.9,networth,median,dollars,81900,81900,0,0,409.5,TRUE,1020
+"Fed historical tables (nominal), Table 4",2016,income_group,60-79.9,networth,median,dollars,167270,167270,0.0000000000291038304567337,0.0000000000000173993127618424,836.35,TRUE,1099
+"Fed historical tables (nominal), Table 4",2016,income_group,80-89.9,networth,median,dollars,389700,389700,0,0,1948.5,TRUE,617
+"Fed historical tables (nominal), Table 4",2016,income_group,90-100,networth,median,dollars,1639550,1639550,0,0,8197.75,TRUE,1472
+"Fed historical tables (nominal), Table 4",2016,networth_group,Less than 25,networth,median,dollars,100,100,0,0,5,TRUE,1351
+"Fed historical tables (nominal), Table 4",2016,networth_group,25-49.9,networth,median,dollars,39920,39920,0.00000000000727595761418343,0.0000000000000182263467289164,199.6,TRUE,1222
+"Fed historical tables (nominal), Table 4",2016,networth_group,50-74.9,networth,median,dollars,192050,192050,0,0,960.25,TRUE,1159
+"Fed historical tables (nominal), Table 4",2016,networth_group,75-89.9,networth,median,dollars,605000,605000,0,0,3025,TRUE,968
+"Fed historical tables (nominal), Table 4",2016,networth_group,90-100,networth,median,dollars,2386500,2386500,0.000000000465661287307739,0.000000000000019512310383731,11932.5,TRUE,1548
+"Fed historical tables (nominal), Table 4",2019,all,All families,networth,median,dollars,121760,121760,0,0,608.8,TRUE,5777
+"Fed historical tables (nominal), Table 4",2019,income_group,Less than 20,networth,median,dollars,9300,9300,0,0,46.5,TRUE,948
+"Fed historical tables (nominal), Table 4",2019,income_group,20-39.9,networth,median,dollars,43800,43800,0,0,219,TRUE,890
+"Fed historical tables (nominal), Table 4",2019,income_group,40-59.9,networth,median,dollars,95620,95620,0,0,478.1,TRUE,909
+"Fed historical tables (nominal), Table 4",2019,income_group,60-79.9,networth,median,dollars,205200,205200,0,0,1026,TRUE,975
+"Fed historical tables (nominal), Table 4",2019,income_group,80-89.9,networth,median,dollars,387850,387850,0,0,1939.25,TRUE,568
+"Fed historical tables (nominal), Table 4",2019,income_group,90-100,networth,median,dollars,1589300,1589300,0,0,7946.5,TRUE,1487
+"Fed historical tables (nominal), Table 4",2019,networth_group,Less than 25,networth,median,dollars,310,310,0,0,5,TRUE,1231
+"Fed historical tables (nominal), Table 4",2019,networth_group,25-49.9,networth,median,dollars,57600,57600,0,0,288,TRUE,1097
+"Fed historical tables (nominal), Table 4",2019,networth_group,50-74.9,networth,median,dollars,224200,224200,0,0,1121,TRUE,1049
+"Fed historical tables (nominal), Table 4",2019,networth_group,75-89.9,networth,median,dollars,653100,653100,0,0,3265.5,TRUE,805
+"Fed historical tables (nominal), Table 4",2019,networth_group,90-100,networth,median,dollars,2598400,2598400,0,0,12992,TRUE,1595
+"Fed historical tables (nominal), Table 4",2022,all,All families,networth,median,dollars,192700,192700,0,0,963.5,TRUE,4595
+"Fed historical tables (nominal), Table 4",2022,income_group,Less than 20,networth,median,dollars,16900,16900,0,0,84.5,TRUE,794
+"Fed historical tables (nominal), Table 4",2022,income_group,20-39.9,networth,median,dollars,58550,58551,0.999999999992724,0.00170794192996195,292.75,TRUE,742
+"Fed historical tables (nominal), Table 4",2022,income_group,40-59.9,networth,median,dollars,169420,169420,0,0,847.1,TRUE,709
+"Fed historical tables (nominal), Table 4",2022,income_group,60-79.9,networth,median,dollars,300800,300800,0,0,1504,TRUE,706
+"Fed historical tables (nominal), Table 4",2022,income_group,80-89.9,networth,median,dollars,793120,793120,-0.000000000116415321826935,-0.0000000000000146781472951048,3965.6,TRUE,450
+"Fed historical tables (nominal), Table 4",2022,income_group,90-100,networth,median,dollars,2649000,2649000,0,0,13245,TRUE,1194
+"Fed historical tables (nominal), Table 4",2022,networth_group,Less than 25,networth,median,dollars,3470,3471,0.999999999999545,0.0288184438040215,17.35,TRUE,1066
+"Fed historical tables (nominal), Table 4",2022,networth_group,25-49.9,networth,median,dollars,93400,93400,0,0,467,TRUE,784
+"Fed historical tables (nominal), Table 4",2022,networth_group,50-74.9,networth,median,dollars,356900,356900,-0.0000000000582076609134674,-0.0000000000000163092353357992,1784.5,TRUE,830
+"Fed historical tables (nominal), Table 4",2022,networth_group,75-89.9,networth,median,dollars,1036300,1036300,0,0,5181.5,TRUE,655
+"Fed historical tables (nominal), Table 4",2022,networth_group,90-100,networth,median,dollars,3795000,3795000,0,0,18975,TRUE,1260
+"Fed historical tables (nominal), Table 4",2025,all,All families,networth,median,dollars,216100,216100,0,0,1080.5,TRUE,4360
+"Fed historical tables (nominal), Table 4",2025,income_group,Less than 20,networth,median,dollars,12840,12840,0,0,64.2,TRUE,735
+"Fed historical tables (nominal), Table 4",2025,income_group,20-39.9,networth,median,dollars,80000,80000,0,0,400,TRUE,736
+"Fed historical tables (nominal), Table 4",2025,income_group,40-59.9,networth,median,dollars,203100,203100,0,0,1015.5,TRUE,672
+"Fed historical tables (nominal), Table 4",2025,income_group,60-79.9,networth,median,dollars,385500,385500,0,0,1927.5,TRUE,703
+"Fed historical tables (nominal), Table 4",2025,income_group,80-89.9,networth,median,dollars,818000,818000,0,0,4090,TRUE,386
+"Fed historical tables (nominal), Table 4",2025,income_group,90-100,networth,median,dollars,3624600,3624600,0,0,18123,TRUE,1128
+"Fed historical tables (nominal), Table 4",2025,networth_group,Less than 25,networth,median,dollars,1690,1690,0,0,8.45,TRUE,1028
+"Fed historical tables (nominal), Table 4",2025,networth_group,25-49.9,networth,median,dollars,100500,100500,0,0,502.5,TRUE,789
+"Fed historical tables (nominal), Table 4",2025,networth_group,50-74.9,networth,median,dollars,405820,405820,0,0,2029.1,TRUE,821
+"Fed historical tables (nominal), Table 4",2025,networth_group,75-89.9,networth,median,dollars,1265740,1265740,0,0,6328.7,TRUE,578
+"Fed historical tables (nominal), Table 4",2025,networth_group,90-100,networth,median,dollars,4926500,4926500,0,0,24632.5,TRUE,1144
