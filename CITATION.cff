@@ -6,6 +6,8 @@ authors:
 - family-names: Glasner
   given-names: Benjamin
   affiliation: Economic Innovation Group
+repository-code: 'https://github.com/EIG-Research/EIG-SCF-Young-Cohort-Finances-replication'
+license: MIT
 preferred-citation:
   type: generic
   title: 'Did Young Americans Really Just Get Poorer? Why Context (and Confidence Bands) Matter: An SCF Investigation'
